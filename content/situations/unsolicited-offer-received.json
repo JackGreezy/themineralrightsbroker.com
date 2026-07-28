@@ -1,0 +1,69 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got an Unsolicited Mineral Rights Offer? Benchmark It First",
+ "metaDescription": "A letter offering to buy your mineral rights isn't neutral, it's priced to be accepted. Here's how to check whether it reflects what the market would actually pay.",
+ "heroLead": "The letter in your mailbox was written by someone who wants you to sign without comparing it to anything else, which is the first thing worth noticing about it.",
+ "intro": [
+  "Unsolicited mineral rights offers arrive constantly in counties with active or historical oil and gas activity, generated from county tax rolls and courthouse deed records that are entirely public. Getting one doesn't mean anything unusual is happening, and it doesn't mean the buyer has special knowledge about your specific tract that you don't. It usually just means your name and legal description showed up on a list.",
+  "The offer itself is a real, legitimate way for that buyer to acquire minerals cheaply, and it works because most recipients have no easy way to check whether the number is fair. That's the gap worth closing before signing anything."
+ ],
+ "sections": [
+  {
+   "heading": "Why You Got This Specific Letter",
+   "paragraphs": [
+    "Buyers, landmen, and acquisition companies pull county deed and tax records, sometimes cross-referenced against permit or production data, to build mailing lists of mineral owners in areas they're targeting. Being on that list can mean there's genuine activity nearby worth knowing about, or it can simply mean the buyer is mailing broadly across a county and seeing what comes back. Either way, the letter itself isn't proof of anything beyond your name being findable.",
+    "It's worth treating the letter as a starting data point rather than a final answer: it tells you a buyer is interested enough to spend money mailing you, which is useful information, just not the same as knowing what your interest is actually worth."
+   ]
+  },
+  {
+   "heading": "What the Offer Doesn't Tell You",
+   "paragraphs": [
+    "A mailed offer rarely explains how the number was calculated, what recent activity nearby influenced it, or how it compares to what other buyers active in that same play would pay. It's priced to be attractive enough to get signed, not to reflect a competitive market rate, because the sender has no incentive to bid against themselves.",
+    "It also typically doesn't disclose whether the buyer plans to hold the interest, flip it to another buyer, or already has a downstream buyer lined up at a materially higher price. None of that is required disclosure, but it's worth keeping in mind when evaluating how much room there might be between the offered number and what the interest could actually bring."
+   ]
+  },
+  {
+   "heading": "Benchmarking Against the Actual Market",
+   "paragraphs": [
+    "The fastest way to know whether an unsolicited offer is reasonable is to get the same interest in front of other active buyers and see what they say. If the offer holds up against genuine competition, that's useful confirmation and there's no harm done. If it doesn't, you've learned that before signing anything, not after.",
+    "Checking recent permit activity, nearby lease bonus amounts, and any comparable sales in the same section or township, where available, adds context even without a formal competitive process, though it rarely replaces the clarity of actual competing bids."
+   ]
+  },
+  {
+   "heading": "Letting Buyers Compete Instead of Deciding Alone",
+   "paragraphs": [
+    "A broker listing takes the interest that generated your unsolicited offer and puts it in front of multiple buyers who actively acquire in that county and play, letting them bid against each other rather than against a number the original buyer picked unilaterally. Some owners are surprised the original mailed offer holds up fine under competition; others find it was well below what the interest actually commands. Either outcome is useful, and neither one costs anything to find out before deciding.",
+    "The original buyer who mailed the letter is welcome to participate in that competitive process too, and often does, since they're already interested enough to have reached out first. Running the interest through a listing doesn't shut anyone out, it just adds other qualified buyers to the same conversation instead of leaving you to negotiate alone against one party who wrote the offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is it a scam if I get an offer letter for mineral rights I own?",
+   "answer": "Usually not a scam in the sense of being fraudulent, these are typically legitimate buyers using public county records, but 'not a scam' isn't the same as 'a fair price.' The offer is priced to favor the buyer, which is normal, just worth accounting for."
+  },
+  {
+   "question": "Should I respond to the letter or ignore it?",
+   "answer": "You don't have to respond at all, and there's usually no downside to taking your time. If you're considering selling, use the letter as a signal to check the market rather than as a deadline to sign by."
+  },
+  {
+   "question": "How do I find out what my mineral rights are actually worth before deciding?",
+   "answer": "Getting the interest reviewed and listed with a broker who can present it to multiple active buyers is the most direct way to see real competing numbers, rather than relying on one buyer's self-reported estimate."
+  },
+  {
+   "question": "Does asking for a second opinion or listing it cost me anything if I decide not to sell?",
+   "answer": "A broker review and listing process typically costs the owner nothing upfront, compensation comes from the sale itself, so checking the market doesn't obligate you to accept any particular offer, including the original one."
+  }
+ ],
+ "status": "written",
+ "wordCount": 879,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-themineralrightsbroker-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

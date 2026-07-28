@@ -1,0 +1,79 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Mineral Rights: A Step-by-Step Guide",
+ "metaDescription": "What actually happens when you sell mineral rights, from the first mailer to the recorded deed, and where a broker changes the outcome versus a direct buyer.",
+ "heroLead": "Most owners learn how mineral sales work only after they've already signed something. This is the process laid out before you sign anything.",
+ "intro": [
+  "Selling mineral rights is not one transaction, it is a sequence of smaller ones: figuring out what you actually own, getting that ownership priced against real activity, fielding offers, and closing a deed that will hold up at the courthouse for the next fifty years. Skip a step and you either leave money on the table or end up with a title problem your grandchildren inherit.",
+  "This guide walks the sequence in order. It does not tell you what your minerals are worth, because nobody honest can do that from a blog post. It tells you what to expect at each stage and where a broker relationship changes the shape of the deal versus taking the first mailer offer."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: confirm what you own",
+   "paragraphs": [
+    "Before any number matters, ownership has to be nailed down. That means pulling the deed history at the county clerk's office (or having someone do it for you), confirming your net mineral acres against the original conveyance, and checking whether the interest is fee minerals, a royalty interest carved out of a lease, or a nonparticipating royalty. These are not interchangeable, and buyers price them differently.",
+    "Heirship complicates this step more than anything else. If the interest passed through a will or intestate succession and was never formally probated in the county where the minerals sit, a buyer's title company will flag it, and that can stall or kill a deal months in. Sorting this early, even informally, saves the whole process later."
+   ]
+  },
+  {
+   "heading": "Step two: get the interest looked at against real activity",
+   "paragraphs": [
+    "Once ownership is clear, the interest gets weighed against what's actually happening on or near the tract: active permits, recent completions, offset production, and how the unit is held. An interest sitting inside a producing unit with recent completions nearby carries a different conversation than one in an area with no drilling history and no near-term prospects.",
+    "This is where a broker relationship earns its keep. A single buyer prices against their own book and their own risk appetite. Putting the same interest in front of several buyers at once, which is what a listing does, tends to surface a wider range of offers because different buyers are chasing different things: some want cash flow, some want inventory, some are backfilling a specific basin position."
+   ]
+  },
+  {
+   "heading": "Step three: compare offers on after-fee terms",
+   "paragraphs": [
+    "An offer is more than the headline number. It's the number, a closing timeline, and whatever costs come out of it before you see a check. Direct buyers who mail unsolicited offers typically quote a gross figure and handle their own closing costs, but the offer itself is priced to leave room for their margin, since there's no competing bid keeping it honest.",
+    "A brokered sale runs on a disclosed fee, usually a percentage of the closing price, and that fee should be stated plainly before you sign a listing agreement, not buried in the closing statement. Compare net proceeds, not headline numbers, before deciding which route actually pays more."
+   ]
+  },
+  {
+   "heading": "Step four: close the deed cleanly",
+   "paragraphs": [
+    "Closing means executing a mineral deed, having it notarized, and getting it recorded in the county where the minerals lie. Until it's recorded, the transfer isn't fully protected against later claims, so timing and follow-through here matter as much as the negotiation did.",
+    "After recording, the buyer (or their title company) typically sends notice to the operator so future division orders and royalty checks route correctly. Keep a copy of the recorded deed and the closing statement permanently; both come up again at tax time and any time a future title question arises."
+   ]
+  },
+  {
+   "heading": "What to watch for during negotiation",
+   "paragraphs": [
+    "Some buyers, direct and brokered alike, will push a fast signature by claiming their offer expires in days. A number tied to real activity doesn't usually swing that hard in a week, so treat aggressive deadlines as a reason to slow down and compare, not a reason to rush.",
+    "It also helps to ask directly whether the buyer plans to flip the interest to another party shortly after closing. That's not automatically a red flag, plenty of buyers acquire to resell as part of their business, but if it happens fast and at a meaningfully higher price, it's a sign the original offer had more room in it than you were told."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does selling mineral rights usually take?",
+   "answer": "Once ownership is confirmed and an offer is accepted, closing typically runs a few weeks to a couple months, depending on title work and whether probate or heirship issues need to be resolved first."
+  },
+  {
+   "question": "Do I need a lawyer to sell mineral rights?",
+   "answer": "It's not always required, but for anything involving heirship, split estates, or unclear deed history, an oil and gas attorney in the state where the minerals sit is worth the cost relative to the size of the interest."
+  },
+  {
+   "question": "Can I sell only part of my mineral interest?",
+   "answer": "Yes. Partial sales, by depth, by formation, or by a fraction of your net mineral acres, are common, and they let an owner take some liquidity now while keeping a position for future activity."
+  },
+  {
+   "question": "What's the difference between selling to a broker and selling direct?",
+   "answer": "A direct buyer makes you one offer priced on their own terms. A broker lists the interest and works multiple potential buyers toward a competitive closing price, for a disclosed fee taken from proceeds."
+  },
+  {
+   "question": "Will selling affect my existing lease?",
+   "answer": "No, the lease stays intact and transfers with the minerals. The new owner steps into your position as lessor and begins receiving any future royalty payments once the operator updates its records."
+  }
+ ],
+ "wordCount": 990,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-themineralrightsbroker-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

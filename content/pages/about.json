@@ -1,0 +1,82 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About | Mineral Rights Broker Philosophy",
+ "metaDescription": "Why we work on a disclosed-fee listing model instead of a single-buyer offer, and what that means for how we handle every mineral rights conversation.",
+ "heroLead": "We started from a simple observation: most mineral owners only ever see one number, and they have no way to know if it's fair.",
+ "intro": [
+  "This isn't a story about decades of history or a roster of staff credentials, because that's not what actually matters to an owner deciding whether to sell a mineral interest. What matters is how the process works and whether the person on the other end of the conversation is representing you or representing a single buyer's margin. That distinction is the entire reason this operates as a broker model rather than a direct-buy model."
+ ],
+ "sections": [
+  {
+   "heading": "Why the broker model, specifically",
+   "paragraphs": [
+    "A direct buyer has one job: acquire your interest as cheaply as their risk tolerance allows. That's a legitimate business, but it means the number they offer is optimized for their side of the table, not yours, and there's no structural mechanism pulling it toward what a competitive process would produce.",
+    "Working as a broker flips that incentive. Our return depends on the closing price your interest actually achieves, which means our interest is aligned with getting you the strongest defensible number the market will support, not the lowest one we can get you to accept."
+   ]
+  },
+  {
+   "heading": "Why fees get stated plainly, every time",
+   "paragraphs": [
+    "A lot of mineral transactions bury cost in places owners don't think to look, deductions at closing, vague reductions from a headline number, terms that shift after an agreement is signed. We think that's the wrong way to earn trust from someone deciding what to do with an asset that's often been in their family for generations.",
+    "So the fee gets stated once, in writing, before anything is listed, as a percentage of the final closing price. If nothing closes, nothing is owed. There isn't a second version of this conversation that happens later at the closing table."
+   ]
+  },
+  {
+   "heading": "Why we sometimes recommend against listing",
+   "paragraphs": [
+    "Not every interest benefits from a broad marketing process. A small position with an already-fair offer, an owner who needs speed more than the last few percentage points of value, or a situation where the timeline just doesn't support a longer sale process are all real reasons a direct close might be the better answer.",
+    "We'd rather say that plainly and lose a listing than push a process that doesn't actually serve the person we're talking to. That's not generosity, it's just the only version of this business worth running long-term."
+   ]
+  },
+  {
+   "heading": "What we are, and what we're not",
+   "paragraphs": [
+    "We are not a licensed appraiser, attorney, or CPA, and we won't pretend otherwise when a question crosses into legal, tax, or formal valuation territory, we'll say so and point you toward the right professional for that specific piece.",
+    "What we are is a connector between mineral owners and the buyers actively looking for their kind of position, working on their behalf, for a fee they know about before anything happens."
+   ]
+  },
+  {
+   "heading": "How we handle inherited and fractional interests",
+   "paragraphs": [
+    "A meaningful share of the owners we talk to inherited a mineral interest they know little about, sometimes a fraction of a fraction, passed down through several generations without much paperwork attached. We treat that starting point as normal, not a problem to work around, and spend real time helping sort out ownership before any conversation about value or process even starts.",
+    "We spend a fair amount of time on conversations that never turn into a listing at all, an owner deciding to hold, an owner deciding a direct offer already in hand is good enough, an owner who just wanted a second opinion before an unrelated family decision. That's fine. The point of this business isn't converting every conversation into a transaction, it's giving owners a clear enough picture to make their own call."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How is this different from a direct mineral buying company?",
+   "answer": "A direct buyer prices to their own margin with a single offer. We represent the owner, work multiple potential buyers, and charge a disclosed fee only when a sale actually closes."
+  },
+  {
+   "question": "Do you ever recommend not selling at all?",
+   "answer": "Yes, when leasing or simply holding the interest makes more sense given the owner's situation and the activity nearby, we'll say so rather than push toward a sale that doesn't serve them."
+  },
+  {
+   "question": "Are you licensed appraisers or attorneys?",
+   "answer": "No. We are not licensed appraisers, attorneys, or CPAs, and for formal valuation, legal, or tax matters we point owners toward the appropriate licensed professional."
+  },
+  {
+   "question": "What areas or basins do you work in?",
+   "answer": "We work with mineral and royalty owners across multiple producing basins and counties, evaluating each interest on its own activity and ownership details rather than a one-size approach."
+  },
+  {
+   "question": "Why should I trust the fee structure you describe?",
+   "answer": "Because it's put in writing before any listing begins, tied to a percentage of the actual closing price, and owed only if a sale closes, there's nothing left to renegotiate after the fact."
+  },
+  {
+   "question": "Do you work with owners who only have a small fractional interest?",
+   "answer": "Yes, small and fractional interests are common, especially with inherited minerals, and we treat them with the same process as larger positions."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-themineralrightsbroker-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

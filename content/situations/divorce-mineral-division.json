@@ -1,0 +1,72 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "metaTitle": "Mineral Rights in Divorce: Valuing and Dividing the Interest",
+ "metaDescription": "Dividing mineral rights in a divorce settlement means characterizing, valuing, and either buying out or selling the interest. Here's how each path works.",
+ "heroLead": "A mineral interest doesn't split in half the way a bank account does, and how it gets characterized in the settlement usually decides everything that happens after.",
+ "intro": [
+  "Mineral rights turn up in divorce cases more than most attorneys expect, particularly in states with a long history of family land and oil and gas activity. The interest might have been acquired during the marriage, inherited by one spouse before the marriage, or received as a gift from a parent, and each of those origins puts it on a different side of the separate-versus-marital property line.",
+  "Once that line is drawn, the couple, or the court, still has to decide what the interest is actually worth and how to divide that value between two people who may not want the same outcome. One spouse might want to keep the interest and the royalty checks that come with it; the other might just want their share in cash."
+ ],
+ "sections": [
+  {
+   "heading": "Separate Property, Marital Property, or Something in Between",
+   "paragraphs": [
+    "An interest inherited by one spouse or acquired before the marriage is typically treated as separate property in most states, meaning it isn't subject to division. But if royalty income from that interest was deposited into a joint account and used for marital expenses, or if the interest was acquired during the marriage with marital funds, some or all of it can be pulled into the marital estate.",
+    "Community property states complicate this further, since income earned from separate property during the marriage can itself be treated as community income depending on the state's rules. This characterization question usually needs a family law attorney's read on the specific facts before any valuation work starts, because valuing the wrong slice of the interest wastes time and money."
+   ]
+  },
+  {
+   "heading": "Valuing the Interest for Settlement Purposes",
+   "paragraphs": [
+    "Courts and settlement negotiations need a number tied to a specific date, often the date of filing, the date of separation, or the date of trial depending on the state. For a producing interest, that valuation typically looks at recent royalty history, remaining reserves, and how comparable interests in that play have traded. For a non-producing interest, the valuation leans more on lease bonus activity and permitting nearby.",
+    "A single appraisal or a lone offer letter from a buyer can be challenged by the other side's attorney as self-serving or stale. A value backed by actual competing bids from a market test is harder to argue with, whether it's presented to a mediator, a judge, or the other spouse directly."
+   ]
+  },
+  {
+   "heading": "Buyout vs. Sell and Split",
+   "paragraphs": [
+    "If one spouse wants to keep the interest, the settlement can structure a buyout where that spouse pays the other their share of the agreed value, either in cash, through an offsetting asset trade, or over time. This keeps the mineral interest intact for whoever wants to hold it long term.",
+    "If neither spouse wants to hold the interest, or if keeping it invites years of shared decision-making neither party wants, selling it and splitting the proceeds according to the settlement percentage closes that chapter cleanly. Once it's cash, there's nothing left to argue about after the divorce is final."
+   ]
+  },
+  {
+   "heading": "Why a Competitive Process Produces a More Defensible Number",
+   "paragraphs": [
+    "Divorce settlements get scrutinized, by opposing counsel during negotiation and sometimes by a judge if the case goes to trial. A valuation based on a single number, especially one supplied by whichever spouse controls the interest, invites suspicion. Running the interest through a broker listing with several active buyers bidding creates a market-tested figure both sides can point to, which tends to shorten the negotiation rather than extend it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a mineral interest inherited before marriage subject to division in divorce?",
+   "answer": "Generally no, inherited property is treated as separate property in most states, but income from it deposited into joint accounts or commingled with marital funds can complicate that classification. A family law attorney should review the specific facts."
+  },
+  {
+   "question": "Who pays for the valuation of the mineral interest?",
+   "answer": "This is typically negotiated between the parties or ordered by the court, and can be split between spouses or assigned to whichever spouse is asserting a particular value. A market-tested listing process can substitute for or supplement a formal appraisal."
+  },
+  {
+   "question": "Can we sell the mineral interest before the divorce is finalized?",
+   "answer": "Sometimes, if both spouses agree or the court authorizes it, particularly when neither party wants to hold the interest or the parties agree splitting proceeds is simpler than a buyout. Check with your attorney about any restraining orders on marital assets first."
+  },
+  {
+   "question": "What if my spouse won't agree on the interest's value?",
+   "answer": "This is common, and it's usually resolved either through dueling appraisals, a court-appointed neutral appraiser, or by running the interest through a competitive listing process that produces actual bids rather than opinions."
+  },
+  {
+   "question": "How is royalty income from the interest treated during the divorce?",
+   "answer": "This depends on how the underlying interest is characterized and your state's rules on income from separate property. It's worth addressing explicitly in the settlement rather than assuming it follows whoever's name is on the check."
+  }
+ ],
+ "status": "written",
+ "wordCount": 871,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-themineralrightsbroker-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

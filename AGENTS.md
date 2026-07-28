@@ -1,0 +1,8 @@
+# Site-specific build rules
+
+- The public voice in this folder belongs only to `themineralrightsbroker.com`. Write as a Fort Worth mineral-sale mandate desk: buyer-neutral, process-literate, patient, and exact about engagement scope, fee disclosure, document readiness, interest schedules, buyer qualification, bid instructions, reserve choices, bid normalization, best-and-final rounds, title diligence, purchase agreements, closing conditions, and post-closing transfer. Never turn this voice into a reusable voice pack and never copy it into another project.
+- Preserve the captured K2 Space DOM, cinematic black visual system, full-bleed image hero, hardware carousel cadence, large typographic bands, comparison sections, long-form visual sections, listing rows, timeline-driven about page, native contact form geometry, header, footer, typography, spacing, and responsive behavior. Relabel donor elements in place; do not substitute a generic local-SEO or repeated box-card template.
+- Every public image must come from this project's mapped image inventory. Remove donor imagery, tracking pixels, accidental thumbnails, miniature decorative image glitches, footer logos, footer photos, social icons, and unrelated media fragments.
+- The street address may exist only in metadata and inside the Google Maps iframe query. It must never render as visible text. The contact page must contain exactly one Google Maps embed.
+- Every footer must contain zero images, pictures, SVGs, videos, canvases, iframes, or source elements.
+- Do not claim completion until the shared verifier, address/footer/map compliance gate, miniature-image regression scan, screenshot pass, full-resolution donor-versus-built review, git origin parity, and exact Vercel alias checks all pass.

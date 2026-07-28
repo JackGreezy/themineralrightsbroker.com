@@ -1,0 +1,71 @@
+{
+ "slug": "louisiana",
+ "title": "Sell Mineral Rights in Louisiana",
+ "type": "state",
+ "group": "Haynesville, Tuscaloosa Marine Shale, Gulf Coast",
+ "primaryKeyword": "mineral rights louisiana",
+ "seo": {
+  "vol": 170,
+  "cpc": 7.18
+ },
+ "metaTitle": "Sell Mineral Rights in Louisiana | Haynesville, TMS, Gulf Coast",
+ "metaDescription": "Louisiana runs on civil law, not common law, and its 10-year prescription rule alone can make or break a mineral interest. Know it before you sell.",
+ "heroLead": "Louisiana is the one state on this list where the underlying property law itself, more than the geology, can decide whether your mineral rights still exist.",
+ "intro": [
+  "Louisiana is a civil law state, the only one in the country, and its mineral code works differently from the common law framework that governs Texas, Oklahoma, or nearly everywhere else. The single most important concept for a Louisiana owner to understand is liberative prescription: a mineral servitude that goes ten years without production or a good-faith drilling operation can prescribe, meaning it reverts back to the surface owner automatically, without a lawsuit or a formal proceeding required. That's a fundamentally different risk than anything a Texas or Oklahoma owner deals with.",
+  "Against that legal backdrop sits some of the most active shale geology in the country. The Haynesville Shale in the northwest corner of the state, primarily Caddo, De Soto, and Bossier parishes, is one of the largest natural gas plays in the U.S. The Tuscaloosa Marine Shale, running through the central and southeastern parishes, has seen renewed operator interest after years of dormancy. And the Gulf Coast parishes carry a long legacy of conventional oil and gas production tied to the state's oldest fields."
+ ],
+ "sections": [
+  {
+   "heading": "Why the ten-year prescription rule matters before you sell",
+   "paragraphs": [
+    "If you're selling a mineral servitude rather than land in fee, a buyer's very first question should be when it was last interrupted by production or a drilling operation, because a servitude close to lapsing is worth far less than one recently reset by active production. Check your most recent division order date and, if it's been a while, confirm current well status before agreeing to any price.",
+    "Conversely, if your interest has been continuously producing, prescription isn't a concern and this becomes a non-issue in your valuation conversation. The point is to know which situation you're in before a buyer brings it up first."
+   ]
+  },
+  {
+   "heading": "Haynesville: gas pricing drives the conversation",
+   "paragraphs": [
+    "Haynesville economics are tightly linked to natural gas pricing and, increasingly, to Gulf Coast LNG export demand, which has added a new layer of buyer interest beyond the traditional domestic gas market. Operators including several of the larger public E&Ps maintain significant acreage positions in Caddo and De Soto parishes, and unitization here runs through the Louisiana Office of Conservation, which has authority to force pool tracts into a drilling unit under statewide rules.",
+    "Because forced pooling is a real mechanism in Louisiana, even an owner who never signed a lease can end up receiving royalty on production from a unit well that includes their tract, which is worth checking if you're unsure whether you have an active interest at all."
+   ]
+  },
+  {
+   "heading": "TMS and the Gulf Coast: two different maturity levels",
+   "paragraphs": [
+    "The Tuscaloosa Marine Shale has cycled between periods of heavy leasing activity and near-dormancy over the past fifteen years, which makes prescription an especially live concern for TMS mineral servitude owners whose leases from an earlier boom period may have lapsed. Gulf Coast conventional production, by contrast, is often older and steadier, with fields that have been producing for generations under long-established unit agreements.",
+    "That difference in maturity is a good argument for treating TMS and Gulf Coast interests differently in a sale process. A newer, more volatile TMS position benefits from a competitive listing that captures current operator enthusiasm, while a long-stable Gulf Coast legacy interest may be well suited to a direct offer built on years of consistent production data."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens if my mineral servitude prescribes?",
+   "answer": "Under Louisiana's liberative prescription rule, a servitude that goes ten years without production or a qualifying drilling operation reverts to the surface owner automatically. If that's already happened, you may no longer hold a separate mineral interest to sell at all, which is worth confirming before entertaining any offer."
+  },
+  {
+   "question": "Can I be forced into a drilling unit without signing a lease?",
+   "answer": "Yes. The Louisiana Office of Conservation can establish forced drilling units, and an unleased owner within a unit typically receives their proportionate share of production, though often at different terms than a leased owner. Reviewing your division order will clarify which situation applies to you."
+  },
+  {
+   "question": "Is the Haynesville still an active play?",
+   "answer": "Yes, Haynesville activity has remained significant, particularly as Gulf Coast LNG export demand has increased interest in Louisiana and East Texas gas supply, though activity levels do shift with gas pricing cycles."
+  },
+  {
+   "question": "How do I know if my TMS lease has lapsed?",
+   "answer": "Check the lease's primary term and any extension or held-by-production clauses against current well activity in your section. If there's been no production or drilling for an extended period, the lease and potentially the underlying servitude may no longer be in force."
+  },
+  {
+   "question": "Should I get a title review before selling in Louisiana?",
+   "answer": "Given how prescription and forced pooling both affect what you actually own, a basic title review is worth the modest cost here more than in most states, since it directly determines whether there's a valid asset to sell in the first place."
+  }
+ ],
+ "status": "written",
+ "wordCount": 866,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-louisiana.jpg",
+  "alt": "Replacement Minerals in Louisiana location",
+  "width": 1600,
+  "height": 1000
+ }
+}

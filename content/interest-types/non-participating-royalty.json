@@ -1,0 +1,68 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "Non-Participating Royalty Interests (NPRI): How They Work",
+ "metaDescription": "An NPRI pays a royalty but carries no say in leasing decisions. Here's how NPRIs are created, why they trade at a discount, and how to price one accurately.",
+ "heroLead": "Holding an NPRI means someone else decides when to lease, who to lease to, and on what terms, while you simply wait to see what royalty rate they negotiated.",
+ "intro": [
+  "A non-participating royalty interest, or NPRI, is a right to a share of oil and gas production that comes with no executive rights, meaning the NPRI owner has no say in whether, when, or on what terms the minerals get leased. Someone else, typically whoever retained the executive rights when the NPRI was created, controls all leasing decisions, and the NPRI owner simply receives their fixed royalty share once production begins under whatever lease that other party signs.",
+  "This is a genuinely different position from owning minerals outright. It has real value, it pays like a royalty once there's production, but it comes with a passivity that shapes both how it behaves and how it should be priced."
+ ],
+ "sections": [
+  {
+   "heading": "What Non-Participating Actually Means",
+   "paragraphs": [
+    "In mineral ownership terminology, executive rights are the authority to negotiate and execute an oil and gas lease. A non-participating interest is, by definition, carved out without that authority. The NPRI owner is entitled to their royalty share of production if and when a lease is signed and a well is drilled, but has no vote on the bonus amount, the royalty rate the executive negotiates for the rest of the mineral estate, the lessee chosen, or the timing of any of it.",
+    "This matters enormously for non-producing NPRIs in particular. If the executive rights holder isn't in a hurry to lease, or leases to an operator on terms that don't maximize the NPRI's value, there's typically nothing the NPRI owner can do about it beyond the limited protections some states provide against bad-faith leasing decisions."
+   ]
+  },
+  {
+   "heading": "How an NPRI Gets Created",
+   "paragraphs": [
+    "The most common origin is a deed reservation. A landowner selling their property, or their minerals, reserves a royalty interest for themselves in the deed while conveying the rest of the mineral estate, including executive rights, to the buyer. The seller keeps a future royalty stream without keeping any ongoing role in leasing decisions.",
+    "NPRIs are also created through estate planning, when a mineral owner wants to pass income to certain heirs without giving them control over leasing, or in various deal structures where a party wants royalty exposure without the administrative burden of executive authority."
+   ]
+  },
+  {
+   "heading": "Living With Someone Else's Leasing Decisions",
+   "paragraphs": [
+    "An NPRI owner's practical experience depends heavily on who holds the executive rights and how actively they manage the property. Some executive holders lease promptly when opportunities arise and negotiate aggressively, which benefits every royalty owner under that lease, NPRI included. Others sit on unleased minerals indefinitely, for reasons that may have nothing to do with the NPRI owner's interests, leaving the NPRI owner with no income and no lever to pull.",
+    "Most states impose some duty on the executive to act in good faith or with reasonable regard for the interests of non-executive royalty owners, but the standard and its enforceability vary by state, and it's a real limitation, not a formality, worth understanding before assuming an NPRI will behave just like full mineral ownership."
+   ]
+  },
+  {
+   "heading": "Why NPRIs Trade at a Discount to Full Mineral Ownership",
+   "paragraphs": [
+    "Because an NPRI owner can't force a lease, can't negotiate terms, and can't capture a future bonus payment the way a full mineral owner could, buyers generally price NPRIs at a discount relative to an equivalent whole mineral interest with the same royalty rate, particularly when the interest is non-producing and there's uncertainty about when, or whether, the executive will lease it.",
+    "A producing NPRI narrows that gap somewhat, since the income is already flowing and the executive's future decisions matter less once a well is in place, but the underlying lack of control still factors into how buyers weigh risk against a comparable full mineral interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I force the executive rights holder to lease my NPRI acreage?",
+   "answer": "Generally no, executive rights holders aren't required to lease on any particular timeline. Some states impose a good-faith or reasonable-conduct duty toward non-executive interest owners, but this is a limited protection, not a right to compel leasing."
+  },
+  {
+   "question": "Do I get a share of the lease bonus as an NPRI owner?",
+   "answer": "Typically no. Bonus payments generally go to whoever holds executive rights, since they're compensation for granting the lease. NPRI owners are usually entitled only to their royalty share once production occurs, unless the specific deed language provides otherwise."
+  },
+  {
+   "question": "Can I sell my NPRI even though I don't control leasing?",
+   "answer": "Yes, an NPRI is a distinct, transferable property interest and can be sold independently of who holds the executive rights, though buyers will factor the lack of control into how they price it."
+  },
+  {
+   "question": "How is an NPRI different from an ORRI?",
+   "answer": "Both lack executive rights and both pay a royalty share, but an NPRI is carved from the mineral estate itself and can outlast a single lease, while an ORRI is carved from the leasehold and terminates permanently when that specific lease ends."
+  }
+ ],
+ "status": "written",
+ "wordCount": 867,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-themineralrightsbroker-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

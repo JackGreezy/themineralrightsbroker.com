@@ -1,0 +1,68 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate: How the Split Estate Works",
+ "metaDescription": "Surface and mineral ownership can be split, each with its own deed and rights. Here's how the dominant estate doctrine works, and how selling minerals affects your land.",
+ "heroLead": "The person who owns your land and the person who owns what's under it can be two different people entirely, and it's worth knowing which one you are.",
+ "intro": [
+  "In most oil and gas producing states, ownership of the surface and ownership of the minerals below it can be legally separated, a structure known as a split estate. This isn't unusual or exotic, it's the normal state of ownership across huge portions of the country, the result of decades of deeds that conveyed the surface while reserving the minerals, or vice versa, sometimes going back a century or more.",
+  "Understanding which estate you own, and how the two interact legally, matters both for day-to-day land use and for anyone considering a mineral sale, since selling minerals and selling surface land are entirely separate transactions with entirely separate consequences."
+ ],
+ "sections": [
+  {
+   "heading": "Two Separate Ownership Chains",
+   "paragraphs": [
+    "Once minerals are severed from the surface, typically by a deed that conveys one while reserving the other, each estate has its own chain of title from that point forward. The surface can be sold, inherited, or subdivided without affecting who owns the minerals, and the minerals can be sold, leased, or divided among heirs without touching the surface owner's title at all.",
+    "This means a title search on a piece of land tells you about the surface; it does not automatically tell you who owns the minerals underneath, and vice versa. Confirming mineral ownership requires its own search, tracing the mineral chain back through whatever severance and subsequent transfers occurred, which is often a different and sometimes more complicated history than the surface's."
+   ]
+  },
+  {
+   "heading": "The Dominant Estate Doctrine",
+   "paragraphs": [
+    "In a split estate, the mineral estate is generally considered the dominant estate under the law in most oil and gas states, meaning the mineral owner, or their lessee, holds an implied right to use as much of the surface as reasonably necessary to explore for and produce the minerals, even without the surface owner's consent. This doctrine exists because a mineral right without any way to physically access and develop it would be worth very little.",
+    "'Reasonably necessary' does real work in that sentence, and it's not unlimited. Courts generally require the mineral developer to use no more of the surface than reasonably needed and to conduct operations in a way that doesn't unnecessarily damage the surface owner's use of their land, and a number of states have layered additional statutory protections and notice requirements on top of the common law doctrine."
+   ]
+  },
+  {
+   "heading": "Surface Use Agreements and Damages",
+   "paragraphs": [
+    "Because the dominant estate doctrine grants access but doesn't eliminate the surface owner's interests, operators frequently negotiate a surface use agreement with the surface owner before drilling, covering things like well pad location, road access, damages for crop or land disturbance, and restoration obligations once operations end. These agreements aren't always legally required, since the implied access right exists regardless, but they're common practice and tend to reduce friction and disputes during development.",
+    "When the surface and mineral owner are different people, and increasingly, they often are, this is where the two estates most directly interact, and it's worth surface owners knowing their rights exist even though the mineral estate holds the stronger legal position."
+   ]
+  },
+  {
+   "heading": "Why Selling Minerals Doesn't Touch Your Surface Rights",
+   "paragraphs": [
+    "If you own both the surface and the minerals and decide to sell only the minerals, your surface ownership is entirely unaffected by that sale. You keep your land, your house, your ability to farm, ranch, or build on it, exactly as before. What changes is that the mineral buyer, or their future lessee, now holds the dominant estate's access rights that used to belong to you.",
+    "This is a meaningful consideration for anyone weighing a mineral sale who also lives on or actively uses the surface. It's worth understanding, and if it matters to you, worth discussing during any sale, how future access and surface use would be handled once someone else owns the minerals beneath your land."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I find out if my minerals were severed from my surface ownership?",
+   "answer": "A title search specifically on the mineral estate, tracing deeds and reservations back through the property's history, will show whether and when a severance occurred. Your surface deed alone won't necessarily reveal this."
+  },
+  {
+   "question": "Can a mineral owner drill on my land without my permission?",
+   "answer": "In most states, yes, within the bounds of the dominant estate doctrine, which grants an implied right to use as much surface as reasonably necessary, though many states impose notice requirements, and negotiated surface use agreements are common practice even where not strictly required."
+  },
+  {
+   "question": "If I sell my mineral rights, do I still own my land?",
+   "answer": "Yes, selling the minerals is a completely separate transaction from selling the surface. You retain full ownership and use of your land; the buyer acquires only the mineral estate and the access rights that come with it."
+  },
+  {
+   "question": "What is a surface use agreement and do I need one?",
+   "answer": "It's a negotiated agreement between the surface owner and the operator covering well pad location, access, damages, and restoration. It's not always legally required given the dominant estate doctrine, but it protects the surface owner's interests and is standard practice in most development."
+  }
+ ],
+ "status": "written",
+ "wordCount": 901,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-themineralrightsbroker-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,2433 @@
+<!DOCTYPE html><html data-wf-domain="www.k2space.com" data-wf-page="69333244a7b7aea22b21940b" data-wf-site="69333244a7b7aea22b21941a" lang="en" class=" w-mod-js"><head><meta charset="utf-8"><title>Aerospace &amp; Satellite Engineering Careers | K2 Space | Build World-Changing Hardware</title><meta content="Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space." name="description"><meta content="Aerospace &amp; Satellite Engineering Careers | K2 Space | Build World-Changing Hardware" property="og:title"><meta content="Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space." property="og:description"><meta content="Aerospace &amp; Satellite Engineering Careers | K2 Space | Build World-Changing Hardware" name="twitter:title"><meta content="Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space." name="twitter:description"><meta property="og:type" content="website"><meta content="summary_large_image" name="twitter:card"><meta content="width=device-width, initial-scale=1" name="viewport"><meta content="Webflow" name="generator"><link href="/assets-f/css/25074b7fa57f3b.css" rel="stylesheet" type="text/css"><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="/assets-f/misc/82d95afbae3f0f.png" rel="shortcut icon" type="image/x-icon"><link href="https://cdn.prod.website-files.com/68f94692305c424b2500e672/692a3cad534c511679bc9786_webclip%20(4).png" rel="apple-touch-icon"><meta property="og:title" content="Aerospace &amp; Satellite Engineering Careers | K2 Space | Build World-Changing Hardware">
+<meta property="og:description" content="Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space.">
+<meta property="og:url" content="https://k2space.com/careers">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://mcusercontent.com/f8b4e6f6a7b727fec4c9534e3/_thumbs/fb393467-ee2d-756e-6894-6100e3d39f64.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Aerospace &amp; Satellite Engineering Careers | K2 Space | Build World-Changing Hardware">
+<meta name="twitter:description" content="Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space.">
+<meta name="twitter:image" content="https://mcusercontent.com/f8b4e6f6a7b727fec4c9534e3/_thumbs/fb393467-ee2d-756e-6894-6100e3d39f64.png">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "K2 Space Careers",
+  "description": "Work on high-power satellites that redefine mission scale. Small teams, real ownership, and frontier-level engineering challenges. Apply to join K2 Space.",
+  "url": "https://k2space.com/careers"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://k2space.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Careers",
+      "item": "https://k2space.com/careers"
+    }
+  ]
+}
+</script>
+<!---------- Smooth Scrool ---------->
+<style>
+html.lenis {
+height: auto;
+}
+.lenis.lenis-smooth {
+scroll-behavior: auto;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+overflow: hidden;
+}
+</style>
+<!-------------------------------->
+
+
+
+<!------------------------->
+<!-- Swiper custom style -->
+<!------------------------->
+<style>
+.swiper-button-disabled {
+  	cursor: default;
+  	background: #1B1B1B !important;
+  	color: #5E5E5E !important;
+}
+.swiper-button-disabled:hover {
+  	background: #1B1B1B !important;
+  	color: #5E5E5E !important;
+}
+</style>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&amp;display=swap" rel="stylesheet">
+<link href="/assets-f/css/9ad4e69a4ee18a.css" rel="stylesheet"> 
+
+<style>
+    .divider{
+height: 0px !important;
+margin: 0px !important;
+}
+.text-block.textblock.find_everyfont {
+    margin-bottom: 0px;
+}
+.select2-container--default .select2-results>.select2-results__options {
+    max-height: 100% !important;
+}
+h1.heading.find_everyfont {
+    font-weight: 400;
+}
+.find_everyfont {
+    font-family: 'Manrope';
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.find_everyfont {
+    font-family: 'Manrope';
+}
+.job-location {
+    font-size: 14px;
+    color: #cecece;
+    font-family: 'Manrope' !important;
+}
+.category-heading{
+
+font-weight: 500 !important;
+}
+h1.heading.find_everyfont {
+    font-family: 'Manrope' !important;
+    margin-bottom: 20px;
+}
+.job-item:hover {
+    background: #7c7c7c !important;
+}
+.job-title {
+    font-family: 'Manrope' !important;
+    color: #cbcbcb !important;
+    font-size: 16px !important;
+        font-size: 16px !important;
+    font-weight: 600 !important;
+    margin-bottom: 7px !important;
+}
+.total-jobs {
+    font-size: 14px;
+    color: #999999;
+    margin-bottom: 30px;
+    padding-top: 10px !important;
+}
+.category-section {
+    font-family: 'Manrope' !important;
+}
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+       body {
+           /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; */
+            background-color: #000000;
+            color: #e0e0e0;
+            padding: 40px 0px; 
+            line-height: 1.6;
+        }
+        .total-jobs {
+    font-size: 32px !important;
+    color: white !important;
+    margin-bottom: 30px;
+}
+        .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+    border-color: #CBCBCB transparent transparent transparent;
+    border-width: 7px 6px 0 6px;
+}
+ul#select2-employment-type-filter-results{
+overflow-y: hidden;   /* vertical scrollbar hata dega */
+    overflow-x: hidden;   /* horizontal bhi agar ho */
+
+}
+ul#select2-office-filter-results{
+overflow-y: hidden;   /* vertical scrollbar hata dega */
+    overflow-x: hidden;   /* horizontal bhi agar ho */
+}
+        .total-jobs {
+    font-size: 14px;
+    color: white;
+    margin-bottom: 30px;
+    font-family: 'Manrope' !important;
+    font-size: 32px;
+    line-height: 30px;
+    margin-bottom: 30px !important;
+    padding-bottom: 20px;
+}
+        span.select2-results ul li {
+    padding-left: 16px;
+}
+        ul#select2-employment-type-filter-results li {
+    font-family: 'Manrope' !important;
+    font-size: 16px !important;
+}
+        #select2-department-filter-container {
+    font-size: 16px !important;
+}
+ul#select2-office-filter-results li {
+    font-family: 'Manrope' !important;
+    font-size: 16px !important;
+}
+ul#select2-department-filter-results li {
+    font-family: 'Manrope' !important;
+    font-size: 16px !important;
+}
+.select2-container--default .select2-results>.select2-results__options {
+    max-height: 200px;
+    overflow-y: auto;
+}
+input#search-input::placeholder {
+    color: #999999 !important;
+}
+.filters-container input {
+    border: none !important;
+    font-family: 'Manrope' !important;
+    font-size: 16px !important;
+        color: #ffffff !important;
+    margin-top: -2px !important;
+}
+.filter-group{
+    line-height: 0rem;
+}
+        .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-color:#CBCBCB transparent transparent transparent;
+    border-style: solid;
+    border-width: 7px 6px 0 6px;
+    height: 0;
+    left: 0px;
+    margin-left: -4px;
+    margin-top: -2px;
+    position: absolute;
+    top: 4%;
+    width: 0;
+}
+        .filters-container {
+    font-family: 'Manrope' !important;
+}
+span#select2-employment-type-filter-container {
+    font-size: 16px !important;
+}
+#select2-office-filter-container {
+    font-size: 16px !important;
+}
+				.text-block a {
+    color: #cbcbcb;
+}
+#select2-department-filter-container {
+    font-size: 16px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    padding-top: 0px;
+    padding-left: 16px;
+    font-size: 16px !important;
+}
+.filter-label{
+font-size: 13px;
+margin: 4px 16px 0px !important;
+line-height: 1.125rem !important;
+}
+select#department-filter option:hover,
+select#department-filter option:checked {
+    background-color: #7C7C7C;
+    color: #fff; /* optional: text readable rakhne ke liye */
+}
+
+.filter-input, .filter-select {
+    border: none;
+    padding: 2px 16px 8px !important;
+    color: #999999 !important;
+}
+.filter-input, .filter-select{
+border: none !important;
+}
+.filter-group {
+    flex: 1;
+    min-width: 150px;
+    outline: 1px solid #CBCBCB4D;
+    border-radius: 5px;
+}
+        .container { max-width: 1152px; margin: 0 auto; }
+
+        .filters-container {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        .filters-container input {
+    border: none !important;
+}
+
+        .filter-group {
+            flex: 1;
+            min-width: 150px;
+        }
+
+        .filter-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #e0e0e0;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .filter-input,
+        .filter-select {
+            width: 100%;
+            padding: 10px 12px;
+            background-color: #000000;
+            border: 1px solid #333333;
+            border-radius: 4px;
+            color: #e0e0e0;
+            font-size: 14px;
+            font-family: inherit;
+        }
+
+        .filter-input::placeholder {
+            color: #666666;
+        }
+
+        .filter-input:focus,
+        .filter-select:focus {
+            outline: none;
+            border-color: #555555;
+        }
+
+      .filter-select {
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23999999' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+    padding-right: 30px !important;
+    line-height: 1.2;
+    z-index: 999;
+    background-repeat: no-repeat;
+    background-position: right 12px top -5px;
+    background-size: 6%;
+}
+
+
+        .total-jobs {
+            font-size: 14px;
+            color: #999999;
+            margin-bottom: 30px;
+        }
+
+        .category-section { margin-bottom: 40px; }
+
+        .category-heading {
+            font-size: 24px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+
+        .job-item {
+            padding: 13px 5px;
+            border-bottom: 1px solid #333333;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+
+        .job-item:hover {
+            background-color: #111111;
+        }
+
+        .job-title { font-size: 16px; margin-bottom: 6px; }
+        .job-location { font-size: 14px; color: #cbcbcb; }
+
+.job-item:hover .job-title {
+    text-decoration: underline;
+}
+
+        .divider {
+            height: 1px;
+            background-color: #333333;
+            margin: 20px 0;
+        }
+
+        /* All Select Filters - Remove Blue Color on Hover/Active - Webflow Safe */
+        .filter-select option:hover,
+        .filter-select option:checked,
+        .filter-select option:focus,
+        .filter-select option:active,
+        .filter-select option[selected],
+        .filter-select option[value]:hover {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+            font-size: 14px !important;
+        }
+
+        /* Override browser default blue */
+        .filter-select:focus option:checked,
+        .filter-select:focus option:hover {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+
+        /* Prevent Webflow from overriding filter font sizes */
+        .filter-select,
+        .filter-select option,
+        .filter-input {
+            font-size: 14px !important;
+            font-family: inherit !important;
+        }
+
+        /* Select2 Dropdown - All Filters Custom Styling - Webflow Safe */
+        .select2-container--default .select2-results__option--highlighted[aria-selected],
+        .select2-container--default .select2-results__option[aria-selected=true],
+        .select2-container--default .select2-results__option:hover,
+        .select2-container--default .select2-results__option[data-selected=true],
+        .select2-container--default .select2-results__option--highlighted {
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+            font-size: 14px !important;
+        }
+
+        /* Select2 dropdown container styling - Webflow Safe */
+        .select2-container--default .select2-results__option {
+            background-color: #000000 !important;
+            color: #e0e0e0 !important;
+            font-size: 14px !important;
+        }
+
+        /* Select2 dropdown - Fix scroll and Webflow conflicts */
+        .select2-dropdown {
+            background-color: #000000 !important;
+            border: 1px solid #333333 !important;
+            max-height: 300px !important;
+            overflow-y: auto !important;
+            overflow-x: hidden !important;
+            font-size: 14px !important;
+            pointer-events: auto !important;
+            touch-action: pan-y !important;
+        }
+
+        /* Select2 results container - Fix scroll */
+        .select2-container--default .select2-results {
+            max-height: 300px !important;
+            
+            font-size: 14px !important;
+            pointer-events: auto !important;
+            touch-action: pan-y !important;
+            scroll-behavior: smooth !important;
+        }
+
+        /* Ensure scrollbar is visible and functional */
+        .select2-container--default .select2-results::-webkit-scrollbar {
+            width: 8px !important;
+            display: block !important;
+        }
+
+        .select2-container--default .select2-results::-webkit-scrollbar-track {
+            background: #1a1a1a !important;
+        }
+
+        .select2-container--default .select2-results::-webkit-scrollbar-thumb {
+            background: #7C7C7C !important;
+            border-radius: 4px !important;
+        }
+
+        .select2-container--default .select2-results::-webkit-scrollbar-thumb:hover {
+            background: #999999 !important;
+        }
+
+        /* Override any blue colors */
+        .select2-container--default .select2-results__option[aria-selected]:hover,
+        .select2-container--default .select2-results__option[aria-selected]:focus {
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+        }
+
+        /* Prevent Webflow from overriding font sizes - Isolated scope */
+        #jobs-listing-container .select2-container,
+        #jobs-listing-container .select2-container *,
+        #jobs-listing-container .select2-dropdown,
+        #jobs-listing-container .select2-dropdown *,
+        #jobs-listing-container .filter-select,
+        #jobs-listing-container .filter-select option,
+        #jobs-listing-container .filter-input {
+            font-size: 14px !important;
+            font-family: inherit !important;
+        }
+
+        /* Isolate from Webflow body styles */
+        #jobs-listing-container {
+            font-size: 14px !important;
+        }
+        
+        #jobs-listing-container * {
+            box-sizing: border-box;
+        }
+
+        /* Native select dropdown styling - Most Aggressive */
+        /* color-scheme: dark; - Removed for Webflow compatibility */
+
+        select.filter-select option,
+        select#department-filter option,
+        select#office-filter option,
+        select#employment-type-filter option {
+            background-color: #000000 !important;
+            background: #000000 !important;
+            color: #e0e0e0 !important;
+        }
+
+        select.filter-select option:hover,
+        select.filter-select option:checked,
+        select.filter-select option:focus,
+        select#department-filter option:hover,
+        select#department-filter option:checked,
+        select#office-filter option:hover,
+        select#office-filter option:checked,
+        select#employment-type-filter option:hover,
+        select#employment-type-filter option:checked {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+
+        /* Override any browser default blue - Most Aggressive */
+        * {
+            --select-option-hover-bg: #7C7C7C !important;
+            --select-option-selected-bg: #7C7C7C !important;
+        }
+
+        /* Force dark theme for all selects */
+        select.filter-select {
+            /* color-scheme: dark; - Removed for Webflow compatibility */
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+
+        /* Additional override for WebKit browsers */
+        select.filter-select::-webkit-list-button,
+        select.filter-select::-webkit-dropdown-list-box {
+            background-color: #000000 !important;
+        }
+
+        /* For Firefox */
+        select.filter-select option {
+            -moz-appearance: none !important;
+            appearance: none !important;
+        }
+@media (max-width: 767px) {
+
+    .filter-group {
+        flex: 0 0 calc(50% - 8px); /* 2 items per row */
+        min-width: unset;
+    }
+
+    .filter-group:nth-child(3) {
+        flex: 0 0 100%; /* 3rd item full width */
+    }
+    .filter-label{
+    font-size:12px;}
+.filter-group{
+min-height:52px ;
+}
+.filters-container input::placeholder{
+font-size:14px;
+}
+}
+@media (max-width: 575px) {
+    .filter-group {
+        flex: 0 0 100%;
+    }
+}
+    </style><style id="dynamic-select-styles">
+        /* Native Select Options - Override Browser Defaults */
+        select.filter-select option {
+            background-color: #000000 !important;
+            background: #000000 !important;
+            color: #e0e0e0 !important;
+        }
+        select.filter-select option:hover,
+        select.filter-select option:checked,
+        select.filter-select option:focus,
+        select.filter-select option:active,
+        select.filter-select option[selected] {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+        /* Force override for all states */
+        select#department-filter option:hover,
+        select#office-filter option:hover {
+            background: #7C7C7C !important;
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+        }
+        select#department-filter option:checked,
+        select#office-filter option:checked {
+            background: #7C7C7C !important;
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+        }
+        /* Select2 Styling */
+        .select2-container--default .select2-results__option {
+            background-color: #000000 !important;
+            color: #e0e0e0 !important;
+        }
+        .select2-container--default .select2-results__option--highlighted,
+        .select2-container--default .select2-results__option[aria-selected=true],
+        .select2-container--default .select2-results__option:hover,
+        .select2-container--default .select2-results__option--highlighted[aria-selected] {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+    </style><style id="select2-custom-styles">
+            /* Fix scroll issue and Webflow conflicts */
+            .select2-container--default .select2-results {
+                max-height: 300px !important;
+                font-size: 14px !important;
+                pointer-events: auto !important;
+                touch-action: pan-y !important;
+                scroll-behavior: smooth !important;
+            }
+            .select2-dropdown {
+                background-color: #000000 !important;
+                border: 1px solid #333333 !important;
+                max-height: 300px !important;
+                overflow-y: auto !important;
+                overflow-x: hidden !important;
+                font-size: 14px !important;
+                pointer-events: auto !important;
+                touch-action: pan-y !important;
+            }
+            /* Custom scrollbar for better visibility */
+            .select2-container--default .select2-results::-webkit-scrollbar {
+                width: 8px !important;
+                display: block !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-track {
+                background: #1a1a1a !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-thumb {
+                background: #7C7C7C !important;
+                border-radius: 4px !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-thumb:hover {
+                background: #999999 !important;
+            }
+            .select2-container--default .select2-results__option {
+                background-color: #000000 !important;
+                color: #e0e0e0 !important;
+                font-size: 14px !important;
+                font-family: inherit !important;
+            }
+            .select2-container--default .select2-results__option--highlighted[aria-selected],
+            .select2-container--default .select2-results__option[aria-selected=true],
+            .select2-container--default .select2-results__option:hover,
+            .select2-container--default .select2-results__option--highlighted {
+                background-color: #7C7C7C !important;
+                background: #7C7C7C !important;
+                color: #fff !important;
+                font-size: 14px !important;
+            }
+            .select2-container--default .select2-selection--single {
+                background-color: #000000 !important;
+                border: none !important;
+                height: auto !important;
+                font-size: 14px !important;
+                position: relative !important;
+            }
+            .select2-container--default .select2-selection--single .select2-selection__rendered {
+                color: #999999 !important;
+                line-height: normal !important;
+                font-size: 14px !important;
+                padding-right: 25px !important;
+            }
+            .select2-container--default .select2-selection--single .select2-selection__placeholder {
+                color: #999999 !important;
+            }
+            /* Cross icon styling */
+            .select2-selection {
+                position: relative !important;
+            }
+            .select2-clear-btn {
+                position: absolute !important;
+                right: 25px !important;
+                top: 50% !important;
+                transform: translateY(-50%) !important;
+                cursor: pointer !important;
+                color: #CBCBCB !important;
+                font-size: 20px !important;
+                line-height: 1 !important;
+                width: 18px !important;
+                height: 18px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                z-index: 10 !important;
+                transition: color 0.2s ease !important;
+                pointer-events: auto !important;
+            }
+            .select2-clear-btn:hover {
+                color: #ffffff !important;
+            }
+            /* Hide cross icon when filter is cleared - using !important to override any other styles */
+            .select2-clear-btn-hidden,
+            .select2-selection .select2-clear-btn-hidden {
+                display: none !important;
+                visibility: hidden !important;
+                opacity: 0 !important;
+                pointer-events: none !important;
+            }
+            .select2-clear-btn-visible,
+            .select2-selection .select2-clear-btn-visible {
+                display: flex !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+                pointer-events: auto !important;
+            }
+            /* Prevent Webflow from overriding */
+            .select2-container,
+            .select2-container *,
+            .select2-dropdown * {
+                font-size: 14px !important;
+            }
+        </style></head><body style=""><div class="page-wrapper"><div class="global-styles w-embed"><style>
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+</style>
+
+
+
+<style>
+/* Fluid responsive design */
+@media (min-width: 992px) {
+  html {
+    font-size: 1.0582vw;
+  }
+}
+
+</style></div><div class="main-wrapper"><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav"><div class="navbar_container"><a href="#" class="navbar_logo-link w-nav-brand"><img src="/assets-f/img/9fbd1fd32ecfd3.webp" loading="eager" alt="" class="navbar_logo"></a><div class="navbar_link-wrapper"><a href="#" class="navbar_link w-nav-link">Home</a><a href="#" class="navbar_link w-nav-link">Satellites</a><a href="#" class="navbar_link w-nav-link">About</a><a href="#" aria-current="page" class="navbar_link w-nav-link w--current">Careers</a></div><div id="gravitas-countdown" class="navbar_time w-node-_7238c7d4-ea14-da80-500b-7fc59ff69cd9-9ff69ccc">T+119d 14h 42m 57s / Gravitas</div><a id="menu" data-w-id="c04c97bb-a4f2-0658-b20d-2a1456e2d429" href="#" class="navbar_hamburguer w-node-c04c97bb-a4f2-0658-b20d-2a1456e2d429-9ff69ccc w-inline-block"><div class="navbar_hamburguer-line-1"></div><div class="navbar_hamburguer-line-2"></div></a></div></div><div class="padding-global"><section class="section-2"><h1 class="heading find_everyfont">Find your next mission assignment</h1><div class="text-block find_everyfont"><strong>MAKING PREVIOUSLY IMPOSSIBLE MISSIONS POSSIBLE<br></strong>K2 Space maximizes the amount of power, mass and volume that can be deployed with today's launch vehicle. <br><br>We're looking for curious and passionate team members capable of relentless first principles thinking who share our vision for a more ambitious future in space. Join our team for the opportunity to work in a dynamic and innovative space startup environment! </div><div class="w-layout-blockcontainer container-2 main_desktop w-container"><img loading="lazy" src="/assets-f/img/ede0d529e9eaa5.png" alt="" class="image-3"><div class="text-block textblock find_everyfont"><strong>Create a Job Alert<br></strong>Level-up your career by having opportunities at K2 Space sent directly to your inbox.<br>‍<a target="_blank" href="https://my.greenhouse.io/users/sign_in?job_board=k2spacecorporation&amp;source=job_alert_board">Create alert</a></div></div></section><div class="code-embed w-embed"><div class="container">
+    <!-- Filters and Search -->
+    <div class="filters-container">
+        <div class="filter-group">
+            <label class="filter-label">Search</label>
+            <input type="text" id="search-input" class="filter-input" placeholder="Search">
+        </div>
+        <div class="filter-group">
+            <label class="filter-label">Department</label>
+            <select id="department-filter" class="filter-select select2-hidden-accessible" data-select2-id="select2-data-department-filter" tabindex="-1" aria-hidden="true"><option value="Avionics" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);" data-select2-id="select2-data-2-80ux">Avionics</option><option value="Dynamics" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Dynamics</option><option value="Engineering" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Engineering</option><option value="Finance &amp; Legal" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Finance &amp; Legal</option><option value="GNC" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">GNC</option><option value="IT" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">IT</option><option value="Mechanical" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Mechanical</option><option value="National Security Programs" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">National Security Programs</option><option value="Operations" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Operations</option><option value="Optical" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Optical</option><option value="Product Engineering" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Product Engineering</option><option value="Production" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Production</option><option value="Propulsion" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Propulsion</option><option value="Quality" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Quality</option><option value="Recruiting" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Recruiting</option><option value="Satellite Platform " style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Satellite Platform </option><option value="Silicon" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Silicon</option><option value="Software" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Software</option><option value="Thermal" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Thermal</option><option value="Vehicle Operations" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Vehicle Operations</option></select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-1-b52j" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-department-filter-container" aria-controls="select2-department-filter-container"><span class="select2-selection__rendered" id="select2-department-filter-container" role="textbox" aria-readonly="true" title="Select..."><span class="select2-selection__placeholder">Select...</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        </div>
+        <div class="filter-group">
+            <label class="filter-label">Office</label>
+            <select id="office-filter" class="filter-select select2-hidden-accessible" data-select2-id="select2-data-office-filter" tabindex="-1" aria-hidden="true"><option value="Anywhere" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);" data-select2-id="select2-data-4-blbe">Anywhere</option><option value="Los Angeles, CA" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Los Angeles, CA</option><option value="Seattle, WA" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">Seattle, WA</option><option value="United States - Remote" style="background-color: rgb(0, 0, 0); color: rgb(224, 224, 224);">United States - Remote</option></select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-3-jpa5" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-office-filter-container" aria-controls="select2-office-filter-container"><span class="select2-selection__rendered" id="select2-office-filter-container" role="textbox" aria-readonly="true" title="Select..."><span class="select2-selection__placeholder">Select...</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        </div>
+     
+    </div>
+
+    <div id="jobs-container"><div class="total-jobs">191 jobs</div><div class="category-section"><h2 class="category-heading">Engineering</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Future Engineering Mission Assignments - Keep Me In The Loop</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Seattle - Don't See Your Ideal Role? Apply Here.</div>
+        <div class="job-location">Anywhere</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Avionics</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Avionics</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Avionics HITL &amp; Test Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Avionics Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Avionics Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Avionics Test Engineer, Optical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Electrical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Power Electronics Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Power Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Avionics Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Electrical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">RF Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Avionics Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Avionics Test Engineer, Optical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Electrical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior EMI/EMC Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Hardware Reliability Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Power Electronics Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Dynamics</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Dynamics Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Dynamics Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Finance &amp; Legal</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Accountant</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Finance &amp; Accounting</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Legal</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Cost Accounting Manager</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Director of Contract Negotiation and Administration</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Accountant</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Cost Accounting Manager</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Finance Manager – Operations</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">GNC</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - GNC</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Guidance Navigation &amp; Control (GNC) Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Guidance, Navigation, &amp; Control (GNC) Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Navigation &amp; Guidance Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">IT</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Network Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Network Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Site Reliability Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Mechanical</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Mechanical</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Head of Solar</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Development Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Mechanical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Mechanisms Engineer, Optical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Solar Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Solar Process Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Satellite Mechanical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Development Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Electro-Mechanical Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Engineering CAD Administrator</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mechanisms Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mechanisms Engineer – Fluids &amp; Pumps</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mechanisms Engineer – Turbomachinery</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mechanisms Engineer, Optical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Optomechanical Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Satellite Mechanical Engineer (Structures)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Solar Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Solar Process Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Tooling Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Solar Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Tooling Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">National Security Programs</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">COMSEC Manager (CRO) (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Cybersecurity Architect, (TS/SCI), CI Poly</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Operations</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Business Operations</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - National Security Programs</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Business Development Director</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Electrical Engineering Supply Chain Lead</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Executive Assistant</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Future Operations Mission Assignments - Keep Me In The Loop</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Global Supply Manager, Avionics</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Global Supply Manager, Mechanical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Information Systems Security Manager (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Lead, Supplier Development Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Materials Handler &amp; Inventory Specialist</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Mechanical Buyer/Planner</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Mechanical Engineering Supply Chain Lead</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Mission Payload Engineer (Commercial)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Program  Scheduler</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Program Manager, Commercial</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Recruiting Coordinator</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior HR Business Partner</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mission Payload Engineer (Commercial)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Technical Recruiter</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Supplier Development Engineer, Avionics</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Supplier Development Engineer, Mechanical</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Supply Chain Planner</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Technical Program Manager</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Technical Writer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Optical</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Optical Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Photonic Systems Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Product Engineering</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Product Engineering</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Ground Integration Lead, Top Secret Clearance</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Head of Ground Integration, Top Secret Clearance</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Mission Payload Engineer (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Crypto Engineer (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal RF Antenna Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">RF Hardware Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">RF Payload Program Manager (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mission Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Mission Payload Engineer (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior RF Digital Signal Processing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Spacecraft Program Manager (TS//SCI)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Production</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Production</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">CNC Machinist</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Environmental Test Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Production Coordinator</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Quality Inspector</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Development Test Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Electro-Mechanical Engineering Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior PCBA Rework Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">SMT Technician (Solar)</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Solar Production Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Spacecraft Avionics Harness Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Spacecraft Integration Engineering Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Welder and Fabrication Technician</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Propulsion</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Propulsion</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Propulsion Electrical Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Propulsion Mechanical Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Propulsion Mechanical Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Quality</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Manager, Build Reliability</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Build Reliability Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Recruiting</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Technical Recruiter</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Satellite Platform </h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Bus Vehicle Lead</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Launch Mission Manager</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Satellite Design Reliability Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Satellite Platform Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Launch Mission Manager</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Satellite Design Reliability Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Satellite Platform Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Silicon</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Design Verification Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Design Verification Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Package Design Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Package Design Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Physical Design Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal ASIC Physical Design Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Design Verification Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Design Verification Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Package Design Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Package Design Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Physical Design Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior ASIC Physical Design Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior DFT Engineer</div>
+        <div class="job-location">United States - Remote</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior DFT Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Software</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Software</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Application Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Flight Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Ground Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">OS Platform Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Application Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Flight Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Flight Software Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Application Architect</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Application Data Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Application Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Data Analyst</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Firmware Engineer, Vehicle</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Firmware Engineer, Vehicle</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Flight Software Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Flight Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior FPGA Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior FPGA Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Ground Software Engineer</div>
+        <div class="job-location">Seattle, WA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Ground Software Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Solutions Architect</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Software Development Engineer in Test</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Thermal</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Thermal</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Thermal Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Thermal Analyst</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Thermal Control System (TCS) Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Thermal Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Thermal Analyst</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Thermal Control System (TCS) Design Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div><div class="category-section"><h2 class="category-heading">Vehicle Operations</h2><div class="divider"></div><div class="job-item">
+        <div class="job-title">All Future Mission Assignments - Vehicle Operations</div>
+        <div class="job-location">Anywhere</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Automation &amp; Controls Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Build &amp; Integration Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Electro-Mechanical Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">HITL Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Integration &amp; Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Automation &amp; Controls Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Build &amp; Integration Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Electro-Mechanical Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Integration &amp; Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Solar Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Principal Vehicle &amp; Mission Operations Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Satellite Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Automation &amp; Controls Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Build &amp; Integration Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Electro-Mechanical Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Integration &amp; Test Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Solar Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Senior Vehicle &amp; Mission Operations Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">SMT Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Solar Manufacturing Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div><div class="divider"></div><div class="job-item">
+        <div class="job-title">Vehicle &amp; Mission Operations Engineer</div>
+        <div class="job-location">Los Angeles, CA</div>
+    </div></div></div>
+</div></div></div><div class="footer_wrapper"><section class="section_phrase"><div class="padding-global full-height"><div class="container-large full-height"><div class="phrase_component"><h2 words-slide-from-right="" text-split="" class="phrase_text" style="opacity: 1;"><span class="line" style="display: block; text-align: start; width: 100%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">Impossible? We build that.</span></h2></div></div></div></section><section class="section_image"><img src="https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan.webp" loading="lazy" data-w-id="bb8ad1da-35b5-a88d-38ab-ace773928fd7" alt="" sizes="(max-width: 784px) 100vw, 784px, 100vw, 100vw, 100vw" srcset="https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan-p-500.webp 500w, /assets-f/img/a71c091c62b74b.webp 800w, https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan-p-1080.webp 1080w, https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan-p-1600.webp 1600w, https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan-p-2000.webp 2000w, https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219512_pan.webp 2284w" class="cover-image hide-mobile-landscape"><img src="https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219536_footer-img%20(4).webp" loading="lazy" data-w-id="dc5439c9-a7ce-caca-ba2b-3934bf498fac" alt="" sizes="(max-width: 784px) 100vw, 784px, 100vw" srcset="https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219536_footer-img%2520(4)-p-500.webp 500w, https://cdn.prod.website-files.com/69333244a7b7aea22b21941a/69333244a7b7aea22b219536_footer-img%20(4).webp 784w" class="cover-image show-landscape"></section><section class="footer"><div class="padding-global"><div class="container-large"><div class="footer_component"><div class="footer_block"><a href="#" class="footer_link w-inline-block"><img loading="eager" src="/assets-f/img/077a1643eeb53f.svg" alt="" class="footer_image"></a><div class="footer_grid"><div class="footer_link-wrapper"><a href="#" class="footer_link">Home</a><a href="#" class="footer_link">Satellites</a><a href="#" class="footer_link">About</a><a href="#" aria-current="page" class="footer_link w--current">Careers</a><a href="#" class="footer_link">Team</a><a href="#" class="footer_link">Suppliers</a></div><div class="footer_link-wrapper"><a href="https://www.linkedin.com/company/k2-space/" target="_blank" class="footer_link">Linkedin</a><a href="https://x.com/K2SpaceCo" target="_blank" class="footer_link">Twitter</a></div><div class="footer_link-wrapper is-contact"><a href="mailto:info@k2space.com" class="footer_link">info@k2space.com<br>press@k2space.com</a><div class="footer_link no-hover hide-tablet">1355 Sepulveda Blvd <br>Torrance, CA 90501</div></div><div class="footer_link no-hover show-tablet">1355 Sepulveda Blvd <br>Torrance, CA 90501</div></div></div><div class="footer_bottom"><div class="footer_bottom-left hide"><a href="#" class="footer_link is-smaller">Privacy Policy</a><a href="#" class="footer_link is-smaller">Terms of Use</a></div><div class="footer_rights"><div>©K2 Space, all rights reserved</div></div></div></div></div></div></section></div></div></div><script src="/assets-f/js/1f891a3cb97342.js" type="text/javascript"></script><script src="/assets-f/js/73b3af7aa3bfd9.js" type="text/javascript"></script><script src="/assets-f/js/00530d3634b34c.js" type="text/javascript"></script><script src="/assets-f/js/d25d056eaa7497.js" type="text/javascript"></script><!---------- Smooth Scrool ---------->
+<script src="/assets-f/js/77d22572600370.js"></script>
+
+<script>
+const lenis = new Lenis({
+duration: 2,
+easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // https://www.desmos.com/calculator/brs54l4xou
+direction: 'vertical', // vertical, horizontal
+gestureDirection: 'vertical', // vertical, horizontal, both
+smooth: true,
+mouseMultiplier: 1,
+smoothTouch: false,
+touchMultiplier: 2,
+infinite: false,
+})
+
+//get scroll value
+lenis.on('scroll', ({ scroll, limit, velocity, direction, progress }) => { console.log({ scroll, limit, velocity, direction, progress })
+})
+
+function raf(time) {
+lenis.raf(time)
+requestAnimationFrame(raf)
+}
+
+requestAnimationFrame(raf)
+</script>
+
+<!----------- Text split ----------------->
+
+<script src="https://unpkg.com/split-type"></script>
+<script src="/assets-f/js/7d9f56a3ed41c1.js"></script>
+<script src="/assets-f/js/0e37abfac9f1bb.js"></script>
+
+<script>
+window.addEventListener("DOMContentLoaded", () => {
+  let typeSplit = new SplitType("[text-split]", {
+    types: "lines",
+    tagName: "span"
+  });
+
+  function createScrollTrigger(triggerElement, timeline) {
+    ScrollTrigger.create({
+      trigger: triggerElement,
+      start: "top 80%",
+      once: true,
+      onEnter: () => timeline.play()
+    });
+  }
+
+  $("[words-slide-from-right]").each(function () {
+    let tl = gsap.timeline({ paused: true });
+    tl.from($(this).find(".line"), {
+      opacity: 0,
+      y: "0.5em",
+      duration: 1.8,
+      ease: "power2.out",
+      stagger: { amount: 0.3 }
+    });
+    createScrollTrigger($(this), tl);
+  });
+
+  gsap.set("[text-split]", { opacity: 1 });
+});
+</script>
+
+
+<!-- Gravitas countdown --> 
+<script>
+(function(){
+  // March 1, 2026 — 12:00 PM in Torrance, California (PST, UTC-8)
+  const target = new Date("2026-03-30T13:17:08Z").getTime();
+  const el = document.getElementById("gravitas-countdown");
+
+  function pad(n, d){ return String(n).padStart(d, "0"); }
+
+  function update(){
+    const now = Date.now();
+    let diff = target - now;
+    let sign = "T-";
+
+    if(diff < 0){
+      diff = Math.abs(diff);
+      sign = "T+";
+    }
+
+    const totalSec = Math.floor(diff / 1000);
+    const days = Math.floor(totalSec / 86400);
+    const hours = Math.floor((totalSec % 86400) / 3600);
+    const mins = Math.floor((totalSec % 3600) / 60);
+    const secs = totalSec % 60;
+
+    el.textContent = `${sign}${pad(days,3)}d ${pad(hours,2)}h ${pad(mins,2)}m ${pad(secs,2)}s / Gravitas`;
+  }
+
+  update();
+  setInterval(update, 1000);
+})();
+</script>
+
+
+
+<!-- menu mobile -->
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+    const hamburguer = document.querySelector(".navbar_hamburguer");
+    const navbar = document.querySelector(".navbar_container");
+
+
+    hamburguer.addEventListener("click", function () {
+        navbar.classList.toggle("is-fixed");
+    });
+});
+</script>
+
+
+<script>
+
+// Function to sort select options alphabetically
+function sortSelectOptions(selectId) {
+    const select = document.getElementById(selectId);
+    
+    if (!select || select.options.length === 0) {
+        return false;
+    }
+    
+    // Get all options as an array
+    const options = Array.from(select.options);
+    
+    // Sort options alphabetically by text (case-insensitive)
+    options.sort((a, b) => {
+        return a.text.localeCompare(b.text, undefined, { sensitivity: 'base' });
+    });
+    
+    // Clear existing options
+    select.innerHTML = '';
+    
+    // Re-append sorted options
+    options.forEach(option => {
+        select.appendChild(option);
+    });
+    
+    // Trigger Select2 update if it's initialized
+    if (window.jQuery && jQuery(select).data('select2')) {
+        jQuery(select).trigger('change.select2');
+    }
+    
+    return true;
+}
+
+// Lightweight observer - only watches, doesn't retry
+function setupSelectSorter(selectId) {
+    const select = document.getElementById(selectId);
+    
+    if (!select) {
+        console.warn(`Select element with id "${selectId}" not found`);
+        return;
+    }
+    
+    // Setup MutationObserver to watch for options being added
+    const observer = new MutationObserver((mutations) => {
+        // Check if options were actually added
+        const hasOptions = select.options.length > 0;
+        
+        if (hasOptions) {
+            sortSelectOptions(selectId);
+            observer.disconnect(); // Stop watching after first successful sort
+        }
+    });
+    
+    // Observe the select element
+    observer.observe(select, {
+        childList: true,
+        subtree: false // Only watch direct children
+    });
+    
+    // If options already exist, sort immediately and disconnect
+    if (select.options.length > 0) {
+        sortSelectOptions(selectId);
+        observer.disconnect();
+    }
+}
+
+// Initialize sorting for department filter
+setupSelectSorter('department-filter');
+
+</script>
+
+
+
+<script src="/assets-f/js/d0dbfbc15eee93.js"></script>
+<script src="/assets-f/js/2eddf4ae3c6234.js"></script>
+<script defer="">
+const BOARD = "k2spacecorporation";
+
+/* ===============================
+   SAFE PAGINATED JOB FETCH
+================================ */
+async function fetchAllJobs() {
+    const allJobs = [];
+    const seenIds = new Set();
+    const MAX_PAGES = 50;
+
+    for (let page = 1; page <= MAX_PAGES; page++) {
+        const res = await fetch(
+            `https://boards-api.greenhouse.io/v1/boards/${BOARD}/jobs?page=${page}`,
+            { cache: "no-store" }
+        );
+
+        if (!res.ok) {
+            throw new Error(`Jobs fetch failed on page ${page}`);
+        }
+
+        const jobs = (await res.json()).jobs || [];
+
+        // Stop if API returns nothing
+        if (jobs.length === 0) break;
+
+        let newJobsAdded = 0;
+
+        for (const job of jobs) {
+            if (!seenIds.has(job.id)) {
+                seenIds.add(job.id);
+                allJobs.push(job);
+                newJobsAdded++;
+            }
+        }
+
+        // 🔒 CRITICAL STOP CONDITION
+        if (newJobsAdded === 0) {
+            console.warn("[Jobs] Pagination stopped — no new jobs detected");
+            break;
+        }
+    }
+
+    return allJobs;
+}
+
+/* ===============================
+   DEPARTMENTS
+================================ */
+async function fetchDepartments() {
+    const res = await fetch(
+        `https://boards-api.greenhouse.io/v1/boards/${BOARD}/departments`,
+        { cache: "no-store" }
+    );
+
+    if (!res.ok) throw new Error("Departments fetch failed");
+    return (await res.json()).departments || [];
+}
+
+/* ===============================
+   OFFICES
+================================ */
+async function fetchOffices() {
+    try {
+        const res = await fetch(
+            `https://boards-api.greenhouse.io/v1/boards/${BOARD}/offices`,
+            { cache: "no-store" }
+        );
+
+        if (!res.ok) {
+            console.warn("[Jobs] Offices fetch failed:", res.status, res.statusText);
+            return [];
+        }
+        return (await res.json()).offices || [];
+    } catch (err) {
+        console.warn("[Jobs] Offices fetch error:", err);
+        return [];
+    }
+}
+
+/* ===============================
+   RENDERING
+================================ */
+function renderJob(job) {
+    const el = document.createElement("div");
+    el.className = "job-item";
+    el.onclick = () => window.open(job.absolute_url, "_blank");
+
+    el.innerHTML = `
+        <div class="job-title">${job.title.trim()}</div>
+        <div class="job-location">${job.location?.name || "Location not specified"}</div>
+    `;
+
+    return el;
+}
+
+function renderDepartment(name, jobs) {
+    if (!jobs.length) return null;
+
+    const section = document.createElement("div");
+    section.className = "category-section";
+
+    const heading = document.createElement("h2");
+    heading.className = "category-heading";
+    heading.textContent = name;
+
+    section.appendChild(heading);
+    
+    const headingDivider = document.createElement("div");
+    headingDivider.className = "divider";
+    section.appendChild(headingDivider);
+
+    jobs.forEach((job, index) => {
+        section.appendChild(renderJob(job));
+        
+        // Add divider after each job (except the last one)
+        if (index < jobs.length - 1) {
+            const divider = document.createElement("div");
+            divider.className = "divider";
+            section.appendChild(divider);
+        }
+    });
+
+    return section;
+}
+
+/* ===============================
+   FILTERING & SEARCH
+================================ */
+let allJobs = [];
+let allGrouped = {};
+let departments = [];
+
+function extractOfficesFromJobs(jobs) {
+    const officesSet = new Set();
+    jobs.forEach(job => {
+        if (job.location && job.location.name) {
+            officesSet.add(job.location.name);
+        }
+    });
+    return Array.from(officesSet).sort();
+}
+
+function populateFilters(departmentsFromJobs, officesFromJobs) {
+    const deptSelect = document.getElementById("department-filter");
+    const officeSelect = document.getElementById("office-filter");
+
+    // Clear existing options (no "Select..." option)
+    deptSelect.innerHTML = '';
+    officeSelect.innerHTML = '';
+
+    // Populate Department filter - only departments that have jobs
+    departmentsFromJobs.forEach(dept => {
+        const option = document.createElement("option");
+        option.value = dept;
+        option.textContent = dept;
+        option.style.backgroundColor = '#000000';
+        option.style.color = '#e0e0e0';
+        deptSelect.appendChild(option);
+    });
+
+    // Populate Office filter from job locations
+    officesFromJobs.forEach(office => {
+        const option = document.createElement("option");
+        option.value = office;
+        option.textContent = office;
+        option.style.backgroundColor = '#000000';
+        option.style.color = '#e0e0e0';
+        officeSelect.appendChild(option);
+    });
+
+    // Apply custom styling after options are added
+    setTimeout(() => {
+        applySelectStyling();
+        attachSelectEventListeners();
+        initializeSelect2();
+    }, 100);
+}
+
+function initializeSelect2() {
+    // Initialize Select2 on all filter selects with custom theme
+    if (typeof jQuery !== 'undefined' && jQuery.fn.select2) {
+        // Destroy existing Select2 instances if any
+        jQuery('.filter-select').each(function() {
+            if (jQuery(this).hasClass('select2-hidden-accessible')) {
+                jQuery(this).select2('destroy');
+            }
+        });
+
+        jQuery('.filter-select').select2({
+            theme: 'default',
+            dropdownCssClass: 'custom-select2-dropdown',
+            minimumResultsForSearch: Infinity, // Disable search
+            width: '100%',
+            placeholder: {
+                id: null,
+                text: 'Select...'
+            },
+            allowClear: false // We'll handle clearing manually with cross icon
+        });
+        
+        // Ensure no option is selected by default
+        jQuery('.filter-select').val(null).trigger('change.select2');
+
+        // Add cross icon and handle clearing
+        jQuery('#department-filter, #office-filter').each(function() {
+            const $select = jQuery(this);
+            
+            // Function to update cross icon visibility
+            function updateClearButton() {
+                const $container = $select.next('.select2-container');
+                const $selection = $container.find('.select2-selection');
+                const $rendered = $selection.find('.select2-selection__rendered');
+                let $clearBtn = $selection.find('.select2-clear-btn');
+                
+                // Check if a real option is selected (not placeholder)
+                const selectedValue = $select.val();
+                const selectedData = $select.select2('data');
+                const renderedText = $rendered.text().trim();
+                
+                // Check if we're in placeholder state - if value is null/empty, definitely hide cross icon
+                const isPlaceholder = !selectedValue || 
+                                     selectedValue === '' || 
+                                     selectedValue === null ||
+                                     selectedValue === undefined ||
+                                     (selectedData && selectedData.length > 0 && selectedData[0].id === null) ||
+                                     renderedText === 'Select...' ||
+                                     renderedText === '';
+                
+                // If filter is cleared/empty, hide cross icon immediately
+                if (isPlaceholder) {
+                    if ($clearBtn.length > 0) {
+                        // Use multiple methods to ensure it's hidden
+                        $clearBtn[0].style.setProperty('display', 'none', 'important');
+                        $clearBtn[0].style.setProperty('visibility', 'hidden', 'important');
+                        $clearBtn[0].style.setProperty('opacity', '0', 'important');
+                        $clearBtn.hide();
+                        $clearBtn.addClass('select2-clear-btn-hidden');
+                        $clearBtn.removeClass('select2-clear-btn-visible');
+                    }
+                    return; // Exit early, no need to show cross icon
+                }
+                
+                // Only show cross icon if a real value is selected
+                if (selectedValue) {
+                    // Real value is selected, show cross icon
+                    if ($clearBtn.length === 0) {
+                        $clearBtn = jQuery('<span class="select2-clear-btn">×</span>');
+                        $selection.append($clearBtn);
+                        
+                        // Handle cross click
+                        $clearBtn.on('click', function(e) {
+                            e.stopPropagation();
+                            e.preventDefault();
+                            // Clear the value
+                            $select.val(null).trigger('change.select2');
+                            // Immediately hide the cross icon using inline style with !important
+                            if ($clearBtn.length > 0 && $clearBtn[0]) {
+                                $clearBtn[0].style.setProperty('display', 'none', 'important');
+                                $clearBtn[0].style.setProperty('visibility', 'hidden', 'important');
+                                $clearBtn[0].style.setProperty('opacity', '0', 'important');
+                            }
+                            $clearBtn.hide();
+                            $clearBtn.addClass('select2-clear-btn-hidden');
+                            $clearBtn.removeClass('select2-clear-btn-visible');
+                            // Update button state after a short delay to ensure Select2 updates
+                            setTimeout(function() {
+                                updateClearButton();
+                            }, 50);
+                            filterJobs();
+                        });
+                    }
+                    // Show cross icon and add visible class
+                    if ($clearBtn.length > 0 && $clearBtn[0]) {
+                        $clearBtn[0].style.setProperty('display', 'flex', 'important');
+                        $clearBtn[0].style.setProperty('visibility', 'visible', 'important');
+                        $clearBtn[0].style.setProperty('opacity', '1', 'important');
+                    }
+                    $clearBtn.show();
+                    $clearBtn.addClass('select2-clear-btn-visible');
+                    $clearBtn.removeClass('select2-clear-btn-hidden');
+                }
+            }
+            
+            // Update on selection change
+            $select.on('select2:select', function() {
+                setTimeout(updateClearButton, 10);
+                filterJobs();
+            });
+            
+            $select.on('select2:clear', function() {
+                // Immediately hide cross icon when cleared
+                const $container = $select.next('.select2-container');
+                const $selection = $container.find('.select2-selection');
+                const $clearBtn = $selection.find('.select2-clear-btn');
+                if ($clearBtn.length > 0 && $clearBtn[0]) {
+                    // Use inline style with !important to ensure it's hidden
+                    $clearBtn[0].style.setProperty('display', 'none', 'important');
+                    $clearBtn[0].style.setProperty('visibility', 'hidden', 'important');
+                    $clearBtn[0].style.setProperty('opacity', '0', 'important');
+                    $clearBtn.hide();
+                    $clearBtn.addClass('select2-clear-btn-hidden');
+                    $clearBtn.removeClass('select2-clear-btn-visible');
+                }
+                setTimeout(updateClearButton, 10);
+                filterJobs();
+            });
+            
+            // Also update when dropdown closes (in case selection changed)
+            $select.on('select2:close', function() {
+                setTimeout(updateClearButton, 10);
+            });
+            
+            // Update when Select2 is opened (to ensure correct state)
+            $select.on('select2:open', function() {
+                setTimeout(updateClearButton, 10);
+            });
+            
+            // Initial update - ensure no value is selected and placeholder shows
+            setTimeout(function() {
+                if (!$select.val() || $select.val() === '') {
+                    $select.val(null).trigger('change.select2');
+                }
+                updateClearButton();
+            }, 200);
+        });
+
+        // Apply custom CSS after Select2 initialization
+        let select2Style = document.getElementById('select2-custom-styles');
+        if (!select2Style) {
+            select2Style = document.createElement('style');
+            select2Style.id = 'select2-custom-styles';
+            document.head.appendChild(select2Style);
+        }
+        
+        select2Style.textContent = `
+            /* Fix scroll issue and Webflow conflicts */
+            .select2-container--default .select2-results {
+                max-height: 300px !important;
+                font-size: 14px !important;
+                pointer-events: auto !important;
+                touch-action: pan-y !important;
+                scroll-behavior: smooth !important;
+            }
+            .select2-dropdown {
+                background-color: #000000 !important;
+                border: 1px solid #333333 !important;
+                max-height: 300px !important;
+                overflow-y: auto !important;
+                overflow-x: hidden !important;
+                font-size: 14px !important;
+                pointer-events: auto !important;
+                touch-action: pan-y !important;
+            }
+            /* Custom scrollbar for better visibility */
+            .select2-container--default .select2-results::-webkit-scrollbar {
+                width: 8px !important;
+                display: block !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-track {
+                background: #1a1a1a !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-thumb {
+                background: #7C7C7C !important;
+                border-radius: 4px !important;
+            }
+            .select2-container--default .select2-results::-webkit-scrollbar-thumb:hover {
+                background: #999999 !important;
+            }
+            .select2-container--default .select2-results__option {
+                background-color: #000000 !important;
+                color: #e0e0e0 !important;
+                font-size: 14px !important;
+                font-family: inherit !important;
+            }
+            .select2-container--default .select2-results__option--highlighted[aria-selected],
+            .select2-container--default .select2-results__option[aria-selected=true],
+            .select2-container--default .select2-results__option:hover,
+            .select2-container--default .select2-results__option--highlighted {
+                background-color: #7C7C7C !important;
+                background: #7C7C7C !important;
+                color: #fff !important;
+                font-size: 14px !important;
+            }
+            .select2-container--default .select2-selection--single {
+                background-color: #000000 !important;
+                border: none !important;
+                height: auto !important;
+                font-size: 14px !important;
+                position: relative !important;
+            }
+            .select2-container--default .select2-selection--single .select2-selection__rendered {
+                color: #999999 !important;
+                line-height: normal !important;
+                font-size: 14px !important;
+                padding-right: 25px !important;
+            }
+            .select2-container--default .select2-selection--single .select2-selection__placeholder {
+                color: #999999 !important;
+            }
+            /* Cross icon styling */
+            .select2-selection {
+                position: relative !important;
+            }
+            .select2-clear-btn {
+                position: absolute !important;
+                right: 25px !important;
+                top: 50% !important;
+                transform: translateY(-50%) !important;
+                cursor: pointer !important;
+                color: #CBCBCB !important;
+                font-size: 20px !important;
+                line-height: 1 !important;
+                width: 18px !important;
+                height: 18px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                z-index: 10 !important;
+                transition: color 0.2s ease !important;
+                pointer-events: auto !important;
+            }
+            .select2-clear-btn:hover {
+                color: #ffffff !important;
+            }
+            /* Hide cross icon when filter is cleared - using !important to override any other styles */
+            .select2-clear-btn-hidden,
+            .select2-selection .select2-clear-btn-hidden {
+                display: none !important;
+                visibility: hidden !important;
+                opacity: 0 !important;
+                pointer-events: none !important;
+            }
+            .select2-clear-btn-visible,
+            .select2-selection .select2-clear-btn-visible {
+                display: flex !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+                pointer-events: auto !important;
+            }
+            /* Prevent Webflow from overriding */
+            .select2-container,
+            .select2-container *,
+            .select2-dropdown * {
+                font-size: 14px !important;
+            }
+        `;
+    }
+}
+
+function setupFilterEventListeners() {
+    // Search input
+    const searchInput = document.getElementById("search-input");
+    if (searchInput) {
+        searchInput.addEventListener("input", filterJobs);
+    }
+
+    // If Select2 is not available, use native event listeners
+    if (typeof jQuery === 'undefined' || !jQuery.fn.select2) {
+        const deptFilter = document.getElementById("department-filter");
+        const officeFilter = document.getElementById("office-filter");
+        
+        if (deptFilter) deptFilter.addEventListener("change", filterJobs);
+        if (officeFilter) officeFilter.addEventListener("change", filterJobs);
+    }
+    // If Select2 is available, events are attached in initializeSelect2()
+}
+
+function attachSelectEventListeners() {
+    // Attach event listeners to all select filters
+    const selects = document.querySelectorAll('.filter-select');
+    selects.forEach(select => {
+        // Remove any existing listeners
+        const newSelect = select.cloneNode(true);
+        select.parentNode.replaceChild(newSelect, select);
+        
+        // Add focus/click listeners to apply styling
+        newSelect.addEventListener('focus', () => {
+            applySelectStyling();
+        });
+        newSelect.addEventListener('click', () => {
+            setTimeout(applySelectStyling, 50);
+        });
+        newSelect.addEventListener('mousedown', () => {
+            setTimeout(applySelectStyling, 50);
+        });
+    });
+}
+
+function applySelectStyling() {
+    // Remove existing dynamic styles
+    const existing = document.getElementById('dynamic-select-styles');
+    if (existing) existing.remove();
+
+    // Add style tag with dynamic CSS
+    const style = document.createElement('style');
+    style.id = 'dynamic-select-styles';
+    style.textContent = `
+        /* Native Select Options - Override Browser Defaults */
+        select.filter-select option {
+            background-color: #000000 !important;
+            background: #000000 !important;
+            color: #e0e0e0 !important;
+        }
+        select.filter-select option:hover,
+        select.filter-select option:checked,
+        select.filter-select option:focus,
+        select.filter-select option:active,
+        select.filter-select option[selected] {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+        /* Force override for all states */
+        select#department-filter option:hover,
+        select#office-filter option:hover {
+            background: #7C7C7C !important;
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+        }
+        select#department-filter option:checked,
+        select#office-filter option:checked {
+            background: #7C7C7C !important;
+            background-color: #7C7C7C !important;
+            color: #fff !important;
+        }
+        /* Select2 Styling */
+        .select2-container--default .select2-results__option {
+            background-color: #000000 !important;
+            color: #e0e0e0 !important;
+        }
+        .select2-container--default .select2-results__option--highlighted,
+        .select2-container--default .select2-results__option[aria-selected=true],
+        .select2-container--default .select2-results__option:hover,
+        .select2-container--default .select2-results__option--highlighted[aria-selected] {
+            background-color: #7C7C7C !important;
+            background: #7C7C7C !important;
+            color: #fff !important;
+        }
+    `;
+    document.head.appendChild(style);
+
+    // Also apply inline styles to all existing options
+    document.querySelectorAll('.filter-select option').forEach(option => {
+        if (option.value) {
+            option.style.backgroundColor = '#000000';
+            option.style.color = '#e0e0e0';
+        }
+    });
+}
+
+// Create jobToDept map once
+let jobToDeptMap = new Map();
+
+function filterJobs() {
+    const searchTerm = document.getElementById("search-input").value.toLowerCase().trim();
+    
+    // Get values - handle both native select and Select2
+    let selectedDept, selectedOffice;
+    
+    if (typeof jQuery !== 'undefined' && jQuery.fn.select2) {
+        // If Select2 is initialized, use jQuery to get values
+        selectedDept = jQuery('#department-filter').val() || '';
+        selectedOffice = jQuery('#office-filter').val() || '';
+    } else {
+        // Native select values
+        selectedDept = document.getElementById("department-filter").value;
+        selectedOffice = document.getElementById("office-filter").value;
+    }
+
+    const filteredJobs = allJobs.filter(job => {
+        // Search filter
+        if (searchTerm && !job.title.toLowerCase().includes(searchTerm)) {
+            return false;
+        }
+
+        // Department filter - use jobToDeptMap
+        if (selectedDept) {
+            const jobDept = jobToDeptMap.get(job.id) || "Other";
+            if (jobDept !== selectedDept) {
+                return false;
+            }
+        }
+
+        // Office filter - use job.location.name
+        if (selectedOffice) {
+            const jobLocation = job.location?.name || "";
+            if (jobLocation !== selectedOffice) {
+                return false;
+            }
+        }
+
+        return true;
+    });
+
+    // Re-group filtered jobs
+    const filteredGrouped = {};
+    filteredJobs.forEach(job => {
+        const dept = jobToDeptMap.get(job.id) || "Other";
+        filteredGrouped[dept] ??= [];
+        filteredGrouped[dept].push(job);
+    });
+
+    Object.values(filteredGrouped).forEach(list =>
+        list.sort((a, b) => a.title.localeCompare(b.title))
+    );
+
+    // Render filtered results
+    renderJobs(filteredGrouped, filteredJobs.length);
+}
+
+function renderJobs(grouped, totalCount) {
+    const container = document.getElementById("jobs-container");
+    container.innerHTML = "";
+
+    const total = document.createElement("div");
+    total.className = "total-jobs";
+    total.textContent = `${totalCount} jobs`;
+    container.appendChild(total);
+
+    Object.keys(grouped)
+        .sort((a, b) => {
+            if (a === "Engineering") return -1;
+            if (b === "Engineering") return 1;
+            if (a === "Avionics") return -1;
+            if (b === "Avionics") return 1;
+            return a.localeCompare(b);
+        })
+        .forEach(dept => {
+            const section = renderDepartment(dept, grouped[dept]);
+            if (section) container.appendChild(section);
+        });
+}
+
+/* ===============================
+   MAIN
+================================ */
+async function loadJobs() {
+    const container = document.getElementById("jobs-container");
+    if (!container) return;
+
+    container.innerHTML = `<p style="color:#999;">Loading all roles…</p>`;
+
+    try {
+        // Fetch critical data first
+        const [jobs, depts] = await Promise.all([
+            fetchAllJobs(),
+            fetchDepartments()
+        ]);
+
+        allJobs = jobs;
+        departments = depts;
+
+        console.log("[Jobs] Total unique jobs:", jobs.length);
+        console.log("[Jobs] Departments:", depts.length);
+
+        // Build job to department mapping
+        jobToDeptMap = new Map();
+        departments.forEach(dept => {
+            dept.jobs?.forEach(job => {
+                jobToDeptMap.set(job.id, dept.name);
+            });
+        });
+
+        const grouped = {};
+        jobs.forEach(job => {
+            const dept = jobToDeptMap.get(job.id) || "Other";
+            grouped[dept] ??= [];
+            grouped[dept].push(job);
+        });
+
+        allGrouped = grouped;
+
+        Object.values(grouped).forEach(list =>
+            list.sort((a, b) => a.title.localeCompare(b.title))
+        );
+
+        // Extract offices from jobs (job.location.name)
+        const officesFromJobs = extractOfficesFromJobs(jobs);
+
+        // Extract departments from jobs (only departments that have jobs)
+        const departmentsFromJobs = Object.keys(grouped).sort((a, b) => {
+            if (a === "Engineering") return -1;
+            if (b === "Engineering") return 1;
+            if (a === "Avionics") return -1;
+            if (b === "Avionics") return 1;
+            return a.localeCompare(b);
+        });
+
+        // Populate filter dropdowns - use departments from jobs, not API
+        populateFilters(departmentsFromJobs, officesFromJobs);
+
+        // Set up event listeners for filters
+        setupFilterEventListeners();
+
+        // Initial render
+        renderJobs(grouped, jobs.length);
+
+    } catch (err) {
+        console.error("[Jobs] Error loading jobs:", err);
+        container.innerHTML = `
+            <p style="color:#ff4444;">Couldn't load jobs.</p>
+            <p style="color:#999; font-size:12px; margin-top:10px;">
+                Error: ${err.message || 'Unknown error'}<br>
+                Check console for details.
+            </p>
+        `;
+    }
+}
+
+document.addEventListener("DOMContentLoaded", loadJobs);
+lenis.destroy();
+
+
+
+
+
+
+
+// Function to sort select options alphabetically
+function sortSelectOptions(selectId) {
+    const select = document.getElementById(selectId);
+    
+    if (!select) {
+        console.warn(`Select element with id "${selectId}" not found`);
+        return;
+    }
+    
+    // Get all options as an array
+    const options = Array.from(select.options);
+    
+    // Sort options alphabetically by text (case-insensitive)
+    options.sort((a, b) => {
+        return a.text.localeCompare(b.text, undefined, { sensitivity: 'base' });
+    });
+    
+    // Clear existing options
+    select.innerHTML = '';
+    
+    // Re-append sorted options
+    options.forEach(option => {
+        select.appendChild(option);
+    });
+    
+    // Trigger Select2 update if it's initialized
+    if (window.jQuery && jQuery(select).data('select2')) {
+        jQuery(select).trigger('change.select2');
+    }
+}
+
+</script></body></html>

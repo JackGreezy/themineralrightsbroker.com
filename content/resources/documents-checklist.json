@@ -1,0 +1,83 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents You Need to Sell Mineral Rights",
+ "metaDescription": "The paperwork a mineral sale actually requires, from deed history to division orders, and where to find each document if you don't already have it.",
+ "heroLead": "Half of what slows a mineral closing down isn't the negotiation, it's tracking down paperwork that should have been kept in one folder decades ago.",
+ "intro": [
+  "Gathering documents before you start fielding offers, rather than scrambling once one is accepted, shortens the whole process and puts you in a stronger negotiating position, since a buyer can move faster on an interest with clean, available paperwork. Here's what's typically needed and where to find each piece if it isn't already on hand."
+ ],
+ "sections": [
+  {
+   "heading": "Ownership documents",
+   "paragraphs": [
+    "The core document is the deed that shows how you (or the estate you're settling) acquired the minerals, whether that's a warranty deed, a mineral deed, or a probate or estate document showing inheritance. If you don't have a copy, the county clerk or recorder's office where the minerals are located keeps public records and can usually provide one, sometimes for a small fee, sometimes searchable online.",
+    "If the interest passed through inheritance, gather the death certificate and any probate or estate settlement paperwork showing how the interest was distributed among heirs. If it was never formally probated, this is worth flagging early rather than discovering it during closing."
+   ]
+  },
+  {
+   "heading": "Lease and production documents",
+   "paragraphs": [
+    "If the interest is leased or producing, gather the lease itself, any division order you've signed, and recent royalty statements, ideally the last twelve to twenty-four months if you have them. These documents are what buyers use to price a producing interest, since they show the actual cash flow history rather than a projection.",
+    "If you've never received a royalty check and don't know whether the interest is under lease, the county clerk's records or the state oil and gas regulatory agency's public database can usually confirm whether there's an active lease or permit on the tract."
+   ]
+  },
+  {
+   "heading": "Tax and identification documents",
+   "paragraphs": [
+    "A recent property tax statement for the minerals, where the state assesses them separately, can help confirm the legal description and current ownership records match. You'll also need standard identification for closing, and if the sale is going through an estate or trust, documentation showing who has authority to sign on the estate's behalf.",
+    "Keep a folder, physical or digital, with all of this together once gathered. It gets referenced again at tax time, and again if any portion of the interest is sold or leased again down the road."
+   ]
+  },
+  {
+   "heading": "If you're settling an estate",
+   "paragraphs": [
+    "Selling on behalf of an estate typically requires the death certificate, letters testamentary or letters of administration showing who has legal authority to act, and, if multiple heirs are involved, documentation showing how the interest is divided among them. Some states allow a simplified small-estate affidavit process for modest interests, which can skip formal probate entirely.",
+    "If minerals were never formally probated after a prior owner's death, even decades ago, that gap typically has to be addressed before a sale can close cleanly. It's worth raising this early with an estate attorney rather than discovering it mid-transaction."
+   ]
+  },
+  {
+   "heading": "Keeping records organized going forward",
+   "paragraphs": [
+    "Once a sale closes, keep the recorded deed, the closing statement, and copies of everything gathered along the way in one place, physical or digital. These come up again at tax time, and if you retained a partial interest, they're the starting point for any future transaction on what remains.",
+    "For owners who still hold minerals after a partial sale, setting up a simple habit, filing each new royalty statement or division order as it arrives rather than letting them pile up, saves real time whenever the next opportunity or question comes up.",
+    "For owners with minerals in more than one county, keep documents organized by tract rather than lumped together. Buyers and title companies working one specific interest don't need paperwork for unrelated holdings, and separating them upfront speeds up any individual transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I've lost my original deed?",
+   "answer": "The county clerk or recorder's office where the minerals are located keeps a public record of recorded deeds and can typically provide a certified copy, often for a small fee."
+  },
+  {
+   "question": "Do I need a survey to sell mineral rights?",
+   "answer": "Usually not a new survey specifically, since mineral interests are typically described by the existing legal description on record, section, township, and range, rather than a physical boundary survey."
+  },
+  {
+   "question": "I inherited a fractional interest and have no paperwork at all. What now?",
+   "answer": "Start with the county clerk's office where the minerals sit and search under the name of the last known titled owner; that usually surfaces the deed chain even without any family paperwork."
+  },
+  {
+   "question": "How far back do royalty statements need to go?",
+   "answer": "The last one to two years is typically sufficient for a buyer to assess recent cash flow; older statements can help but aren't usually required."
+  },
+  {
+   "question": "Does it cost anything to gather these documents before selling?",
+   "answer": "Most county records are free to search and inexpensive to copy, though certified copies and probate records sometimes carry small fees set by the county."
+  },
+  {
+   "question": "Should I make copies before sending originals anywhere?",
+   "answer": "Yes, always keep your own copies of any original deed, statement, or estate document before sending it to a buyer, title company, or attorney for review."
+  }
+ ],
+ "wordCount": 882,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-themineralrightsbroker-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

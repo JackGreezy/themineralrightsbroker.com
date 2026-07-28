@@ -1,0 +1,72 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights: What Heirs Should Know Before Selling",
+ "metaDescription": "Inherited mineral rights come with a title chain to sort out and a keep-or-sell decision to make. See how heirs benefit from a competitive listing instead of one offer.",
+ "heroLead": "You didn't build this position, you received it, and the first job is figuring out exactly what you own before anyone decides what to do with it.",
+ "intro": [
+  "Most people who inherit mineral rights find out about them from a division order, a county tax notice, or a letter from a landman years after the fact. The interest arrived as part of a larger estate, often mixed in with a house, a bank account, and other assets that got divided in ways nobody fully explained at the time. Before any decision about keeping, leasing, or selling gets made, the title needs to be traced back to the original owner and forward through however many transfers, wills, or intestate successions happened in between.",
+  "That title work is not optional paperwork. A buyer, a title company, and eventually a division order analyst at the operator will all want the same thing: a clean chain showing how the interest moved from the person who last held clear record title to you. Heirs who skip this step and try to sell or lease based on an old deed alone usually get stopped somewhere in the process."
+ ],
+ "sections": [
+  {
+   "heading": "Tracing the Chain: Heirship Affidavits and Probate Records",
+   "paragraphs": [
+    "If the mineral owner died with a will that went through probate, the executor's deed or the court's order distributing the estate should show how the interest passed to you. If the owner died without a will, or the estate was small enough to skip formal probate in that state, you may need a recorded affidavit of heirship instead, sworn by someone with knowledge of the family history, listing every heir and their relationship to the deceased.",
+    "Older interests sometimes passed through two or three generations without any of these documents ever being filed. In that situation, curative work has to happen before a sale can close cleanly. A title curative attorney can usually assemble the missing affidavits, but it takes time, and it's worth knowing upfront whether your interest needs this work before you set expectations on timeline."
+   ]
+  },
+  {
+   "heading": "Keep, Lease, or Sell",
+   "paragraphs": [
+    "Once title is clear, heirs generally land in one of three positions. If the acreage is actively producing or under an active lease, holding the interest means ongoing royalty checks, tax reporting on that income every year, and staying reachable for division order updates and pooling notices. If it's non-producing, holding means waiting on a future lease that may or may not happen, with no income in the meantime. Selling converts either position into a single payment now.",
+    "There's no universally right answer here. A working interest owner with debt to pay off values things differently than a retiree who wants the checks to keep coming. What matters is making the decision with real numbers in front of you rather than guessing at what the interest is worth."
+   ]
+  },
+  {
+   "heading": "Why One Offer Rarely Reflects What the Interest Is Worth",
+   "paragraphs": [
+    "Heirs frequently get approached by a single buyer, often the same company that has been trying to acquire minerals in that county for years, sometimes before probate even closes. That offer is priced to be acceptable, not to be competitive. Because they're the only bidder in the room, there's nothing forcing the number up.",
+    "Running the interest through a broker listing changes that dynamic. Multiple buyers who actively acquire in that play see the package at the same time and bid against each other rather than against a number they made up themselves. The spread between a single cold offer and a listing with several bidders varies with the county, the play, and how many active buyers are working that acreage, but it's rarely zero."
+   ]
+  },
+  {
+   "heading": "Splitting Proceeds Among Multiple Heirs",
+   "paragraphs": [
+    "When several siblings or cousins inherited undivided fractions of the same interest, a sale usually goes smoother when it's handled as one coordinated transaction rather than each heir separately negotiating their own slice with whichever buyer reaches them first. A single listing lets all the co-owners see the same bids and close on the same terms, which tends to keep the process fair and reduces the chance that one heir sells for less than a relative next door got for an identical fraction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to go through probate before I can sell inherited minerals?",
+   "answer": "If the estate hasn't been probated and the deceased owner is still the record title holder, that usually has to be resolved first, either through formal probate, a small estate proceeding, or a recorded heirship affidavit, depending on your state and the estate's size. A title company checking the sale will want to see that resolution before closing."
+  },
+  {
+   "question": "What if I only inherited a small fraction of the original interest?",
+   "answer": "Small undivided fractions are common after minerals pass through multiple generations. They still have value and can still be sold, though pricing and buyer interest can differ from a whole, undivided interest. Listing it alongside information about the original tract and any co-owners helps buyers evaluate it accurately."
+  },
+  {
+   "question": "Should I sell before or after the estate is fully closed?",
+   "answer": "It depends on the estate. Some executors prefer to sell mineral interests before final distribution to simplify dividing cash among heirs instead of dividing fractional mineral ownership. Others distribute the interest first and let each heir decide individually. Either path works as long as title is clear at closing."
+  },
+  {
+   "question": "Is there a tax difference between inheriting and buying mineral rights?",
+   "answer": "Inherited property generally receives a stepped-up basis to fair market value as of the date of death, which can significantly reduce capital gains exposure if you sell soon after inheriting versus holding for years while the interest appreciates. Confirm the specifics with your CPA before filing."
+  },
+  {
+   "question": "How long does it typically take to sell an inherited interest once title is clear?",
+   "answer": "Once the title work is done, a competitive listing process from marketing to closing commonly runs a matter of weeks rather than months, though timelines vary with how many buyers are actively bidding and whether the county requires additional curative steps."
+  }
+ ],
+ "status": "written",
+ "wordCount": 1035,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-themineralrightsbroker-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

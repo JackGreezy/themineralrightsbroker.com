@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://themineralrightsbroker.com/sitemap.xml
+# AI: https://themineralrightsbroker.com/llms.txt

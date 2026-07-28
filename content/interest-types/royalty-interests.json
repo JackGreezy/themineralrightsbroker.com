@@ -1,0 +1,68 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Royalty Interests Explained: How They're Created and Priced",
+ "metaDescription": "A royalty interest pays a share of production, free of drilling costs, but behaves differently from owning minerals outright. Here's how it works and prices.",
+ "heroLead": "A royalty interest is the cleanest income right in oil and gas, no drilling costs, no operating liability, just a share of what comes out of the ground.",
+ "intro": [
+  "A royalty interest is the right to a share of oil and gas production, or its value, free of the costs of drilling and operating the well. It's created the moment a mineral owner signs a lease, since the lease reserves a royalty, commonly in a range like an eighth to a quarter or more of production depending on the lease and the market conditions when it was negotiated, while granting the operator the right to drill and produce.",
+  "Royalty interests are attractive precisely because they're passive. The owner never pays a drilling bill, never faces plugging liability, and never has to make an operational decision. That simplicity is also why royalty interests get valued and traded the way they do, almost entirely on the income stream itself."
+ ],
+ "sections": [
+  {
+   "heading": "How a Royalty Gets Created",
+   "paragraphs": [
+    "The most common royalty interest is the one reserved in an oil and gas lease. When a mineral owner leases their acreage to an operator, the lease grants the operator the right to drill and produce, while reserving a royalty share of that production for the mineral owner. This is usually called a lessor's royalty, and it's tied to the specific lease that created it.",
+    "Royalty interests can also be created independently of a current lease, by a mineral owner selling or reserving a royalty in a deed, separate from selling the underlying minerals. However it's created, a royalty interest is a distinct piece of paper with its own chain of title, and it can be sold on its own regardless of what happens to the mineral estate underneath it."
+   ]
+  },
+  {
+   "heading": "Royalty vs. Owning the Minerals Outright",
+   "paragraphs": [
+    "Owning minerals outright, unleased, means holding the full bundle: executive rights to negotiate a future lease, the right to any future bonus, and the right to whatever royalty gets negotiated in that future lease. Owning a royalty interest means holding only the income right, already fixed at whatever rate the lease specifies, with no say over future leasing decisions and no claim to a future bonus if the lease is renegotiated or replaced.",
+    "This distinction matters most when a lease expires. A mineral owner still holds the minerals and can negotiate a new lease. A pure royalty interest holder's royalty was tied to a specific lease, and what happens to it when that lease ends depends entirely on how the royalty was originally created and worded."
+   ]
+  },
+  {
+   "heading": "How Royalty Income Actually Behaves",
+   "paragraphs": [
+    "Royalty income from a producing well typically follows a decline curve, starting relatively strong in the well's early months, then tapering over years as reservoir pressure and production naturally decline. This isn't a flat, permanent income stream, it's a depleting asset, and the rate of decline varies significantly by formation and well type.",
+    "Owners who've held a royalty interest for years often watch their checks shrink even though nothing has gone wrong, that's simply the decline curve doing what decline curves do. New wells drilled on the same unit, through infill drilling or new completions, can reset or boost that curve, which is part of why nearby drilling activity matters to royalty valuation even after a well is already producing."
+   ]
+  },
+  {
+   "heading": "How Buyers Price a Royalty Stream",
+   "paragraphs": [
+    "Buyers value producing royalty interests primarily by modeling the remaining production, applying a decline curve to recent volumes, and discounting the resulting cash flow stream to a present value, often expressed informally as a multiple of trailing monthly or annual royalty income. That multiple isn't fixed, it moves with commodity price expectations, how many producing wells versus undeveloped locations sit on the unit, and how steep the well's decline has been running.",
+    "A royalty interest with several producing wells and undeveloped offset locations still to be drilled generally commands a stronger valuation than a single, mature, steeply declining well, even if their current monthly income looks similar, because the future upside differs substantially between the two."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a royalty interest expire when the lease it came from expires?",
+   "answer": "It depends on how the royalty was created. A lessor's royalty tied directly to a specific lease generally ends if that lease terminates without production, unless a new lease is signed. A royalty reserved separately in a deed may be worded to survive lease changes. Reviewing the specific document is essential."
+  },
+  {
+   "question": "Can I sell just my royalty interest without selling the underlying minerals?",
+   "answer": "Yes, if you own a standalone royalty interest, it can be sold independently of any mineral ownership. If you own the minerals and the royalty together, you can also choose to sell only the royalty and retain the minerals, or vice versa in some structures."
+  },
+  {
+   "question": "Why did my royalty check shrink even though the well is still producing?",
+   "answer": "This is typically normal decline curve behavior. Oil and gas wells produce most heavily in their early months and taper over time, so a shrinking check on an otherwise steady well usually reflects natural depletion rather than a problem."
+  },
+  {
+   "question": "How is a royalty interest different from a working interest?",
+   "answer": "A royalty interest is free of drilling and operating costs and carries no liability for well operations. A working interest bears its proportional share of those costs and liabilities in exchange for a larger share of production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 922,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-themineralrightsbroker-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

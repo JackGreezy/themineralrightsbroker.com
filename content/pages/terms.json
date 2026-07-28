@@ -1,0 +1,83 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Mineral Rights Broker",
+ "metaDescription": "Plain-language terms covering this site's use, our role as a broker and connector rather than a licensed appraiser or attorney, and the limits of what we guarantee.",
+ "heroLead": "The terms that apply when you use this site or reach out about a mineral interest, written to actually be readable.",
+ "intro": [
+  "These terms cover how this site and the services described on it may be used. By reaching out or using the site, you're agreeing to the basics below. We've tried to write it in plain language rather than dense legal boilerplate, though it still functions as our actual terms of use."
+ ],
+ "sections": [
+  {
+   "heading": "What we are, and what we're not",
+   "paragraphs": [
+    "We operate as a broker and connector between mineral and royalty owners and potential buyers. We are not a licensed appraiser, and nothing on this site or in any conversation with us constitutes a formal appraisal for tax, estate, or legal purposes. We are not attorneys, and nothing here constitutes legal advice regarding title, heirship, or contract matters.",
+    "We are not CPAs or tax advisors, and nothing on this site constitutes tax advice. Any discussion of capital gains, basis, or tax treatment on this site is general information, not guidance specific to your situation, and should be confirmed with your own CPA before you rely on it."
+   ]
+  },
+  {
+   "heading": "No guarantee of any specific outcome",
+   "paragraphs": [
+    "Nothing on this site, in any content we publish, or in any conversation with us constitutes a guarantee of a specific price, offer, or outcome for your mineral interest. Values discussed in general terms are illustrative and depend on activity, commodity prices, and buyer interest that change over time and vary by situation.",
+    "Listing an interest with us does not guarantee that a sale will occur, that any particular buyer will make an offer, or that any offer received will meet a specific figure. We work to represent your interest fairly in the process, but market outcomes are not within our control."
+   ]
+  },
+  {
+   "heading": "Use of this site",
+   "paragraphs": [
+    "Content on this site, including guides, explanations of processes like division orders or royalty statements, and general educational material, is provided for informational purposes and reflects general practice, which can vary by state, county, and specific lease or deed language. It is not a substitute for reviewing your own documents or consulting the appropriate professional for your specific situation.",
+    "You agree not to use this site in a way that violates applicable law, attempts to interfere with its normal operation, or misrepresents your identity or ownership when reaching out about a specific mineral interest."
+   ]
+  },
+  {
+   "heading": "Changes and limitation of liability",
+   "paragraphs": [
+    "We may update this site's content, including these terms, from time to time as our services or applicable practices change. Continued use of the site after changes are posted constitutes acceptance of the updated terms.",
+    "To the extent permitted by law, we are not liable for decisions made based on general information on this site. Any specific transaction, listing agreement, or offer is governed by its own separate written agreement, which takes precedence over general site content if the two ever conflict."
+   ]
+  },
+  {
+   "heading": "Third-party services and links",
+   "paragraphs": [
+    "This site may reference or link to third-party resources, a county clerk's office, a state regulatory database, for informational convenience. We don't control those resources and aren't responsible for their accuracy or availability, and linking to them isn't an endorsement of any particular outcome or interpretation.",
+    "Any transaction involving a third party, a title company, an attorney, a CPA, is governed by your separate arrangement with that party, not by these terms.",
+    "If any provision of these terms is found unenforceable by a court, the remaining provisions stay in effect. These terms, together with any specific transaction agreement you sign, represent the full understanding between you and us regarding use of this site."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is anything on this site legal or tax advice?",
+   "answer": "No. Nothing on this site constitutes legal, tax, or formal appraisal advice. For those matters, consult a licensed attorney, CPA, or qualified mineral appraiser familiar with your specific situation."
+  },
+  {
+   "question": "Do you guarantee a specific offer or sale price?",
+   "answer": "No, we do not guarantee any specific price, offer, or outcome. Actual results depend on market activity, buyer interest, and conditions that change over time."
+  },
+  {
+   "question": "What governs an actual listing or sale, if not this page?",
+   "answer": "Any specific listing agreement or sale is governed by its own separate written agreement signed at that time, which takes precedence over general content on this site."
+  },
+  {
+   "question": "Can these terms change?",
+   "answer": "Yes, we may update this site and these terms periodically to reflect changes in our services or general practice. Continued use of the site after an update means the updated terms apply."
+  },
+  {
+   "question": "Who should I talk to for advice specific to my mineral interest?",
+   "answer": "For legal questions, a licensed attorney in the state where the minerals sit. For tax questions, your CPA. For formal valuation, a qualified mineral appraiser. We can point you toward what kind of professional fits your specific question."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "These terms are governed by general principles of contract law applicable to the state where our services are provided, and any specific transaction agreement will state its own governing law directly."
+  }
+ ],
+ "wordCount": 862,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-themineralrightsbroker-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

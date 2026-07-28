@@ -1,0 +1,78 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Mineral Rights: How to Decide",
+ "metaDescription": "A framework for deciding whether to lease your mineral rights for royalty income or sell outright, including the risks and tradeoffs of each path.",
+ "heroLead": "Leasing and selling solve different problems. The right choice depends on what you actually need the interest to do for you.",
+ "intro": [
+  "Owners facing a lease offer or a purchase offer often treat it as one decision, but leasing and selling are structurally different moves with different risk profiles. Leasing keeps ownership and trades future production for royalty income plus an upfront bonus. Selling exits the position entirely for a lump sum today. Neither is automatically right; the answer depends on your time horizon, your appetite for uncertainty, and what else is going on in your finances."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually commits you to",
+   "paragraphs": [
+    "A lease grants an operator the right to develop your minerals for a set primary term, typically a handful of years, in exchange for an upfront bonus payment and a royalty percentage on anything produced. If the operator doesn't drill within that term, the lease can expire and the minerals revert to you, free to lease again or sell.",
+    "The upside of leasing is that you keep the asset. If a well is drilled and performs well, royalty income can run for decades and the underlying minerals remain yours to pass down, lease again after expiration, or sell later once there's a production history that supports a stronger valuation."
+   ]
+  },
+  {
+   "heading": "What a sale actually gives up",
+   "paragraphs": [
+    "Selling converts an uncertain, long-tail future income stream into a known amount today. That's valuable when you need liquidity now, want to diversify out of a single concentrated asset, or are managing an estate where multiple heirs would otherwise have to jointly manage a fractional interest indefinitely.",
+    "The tradeoff is that you give up all upside from future drilling, price increases, or new formations getting targeted at a different depth under the same acreage. A minerals sale is permanent in a way a lease term is not."
+   ]
+  },
+  {
+   "heading": "When leasing tends to make more sense",
+   "paragraphs": [
+    "Leasing generally favors owners who don't need immediate cash, who can tolerate years of uncertainty before (or if) a well is ever drilled, and who want to preserve the asset for heirs. It also makes sense when there's active permitting nearby, since a fresh lease bonus in a hot area can itself be a meaningful payday even before any royalty income starts.",
+    "Owners with small fractional interests, common with minerals that have passed through several generations of heirs, sometimes find leasing frustrating in practice, since coordinating with an operator and receiving small, irregular royalty checks on a tiny fraction can be more administrative hassle than it's worth."
+   ]
+  },
+  {
+   "heading": "When selling tends to make more sense",
+   "paragraphs": [
+    "Selling tends to make sense for owners who want certainty, who are settling an estate and don't want to leave heirs a fractional interest to manage, who need capital for something specific now, or who simply don't want to deal with tracking division orders and royalty statements for decades.",
+    "It can also make sense for interests with limited near-term drilling prospects, where the realistic near-term royalty income doesn't justify holding versus taking a lump sum and redeploying it elsewhere."
+   ]
+  },
+  {
+   "heading": "A middle path: sell part, lease part",
+   "paragraphs": [
+    "Owners don't have to choose one path for an entire interest. Selling a portion of net mineral acres while retaining the rest under an existing or future lease lets you take liquidity now without giving up all future upside, and it's a common structure for owners with larger holdings who want to diversify without exiting entirely.",
+    "This approach also works well when part of an interest is producing and part isn't. Selling the producing portion, where value is easier to establish from payment history, while holding the non-producing portion for potential future activity, is a reasonable way to split the decision instead of forcing an all-or-nothing choice."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease first and sell later?",
+   "answer": "Yes, and many owners do exactly that, leasing to capture the bonus and see whether a well gets drilled, then deciding whether to sell once there's a production history that supports a clearer valuation."
+  },
+  {
+   "question": "Does selling minerals with an existing lease change anything?",
+   "answer": "No, the lease transfers with the sale. The buyer steps into your position as lessor and begins receiving any bonus or royalty payments going forward under the same lease terms."
+  },
+  {
+   "question": "Which pays more over time, leasing or selling?",
+   "answer": "It depends entirely on whether and how much production actually materializes. A lease can outperform a sale by a wide margin if drilling succeeds, or underperform it if the well never gets drilled or underproduces."
+  },
+  {
+   "question": "Is there a way to do both, partially?",
+   "answer": "Yes, some owners sell a portion of their net mineral acres or a specific depth interval while keeping the rest, which provides liquidity now while preserving some upside exposure."
+  },
+  {
+   "question": "What happens if I lease and the operator never drills?",
+   "answer": "If the primary term expires without a well drilled or held by production, the lease typically terminates and the minerals revert fully to you, free to lease or sell again."
+  }
+ ],
+ "wordCount": 850,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-themineralrightsbroker-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

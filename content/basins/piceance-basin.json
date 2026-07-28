@@ -1,0 +1,76 @@
+{
+ "slug": "piceance-basin",
+ "title": "Piceance Basin Mineral Rights",
+ "type": "basin",
+ "group": "CO",
+ "primaryKeyword": "piceance basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Piceance Basin Mineral Rights: Stranded Rockies Gas",
+ "metaDescription": "Piceance Basin minerals in Garfield or Rio Blanco county Colorado were hot around 2008-2012 and have gone quiet since. Here's the pricing reality now.",
+ "heroLead": "This basin had its moment, roughly the years around the 2008 to 2012 window, and it's worth understanding clearly why that moment ended before evaluating what your minerals are worth today.",
+ "intro": [
+  "The Piceance Basin sits in western Colorado, primarily under Garfield and Rio Blanco counties, and produces mostly dry gas from the Mesaverde and Williams Fork formations along with some Mancos Shale gas potential. Williams Companies and EnCana, now part of Ovintiv, drove a significant drilling boom here in the mid-to-late 2000s, before persistently weak natural gas prices and a wide basis differential between Rockies gas and national benchmark pricing made new drilling far less attractive than it had been."
+ ],
+ "sections": [
+  {
+   "heading": "The basis differential problem",
+   "paragraphs": [
+    "Piceance gas has to travel long distances through pipeline capacity to reach major demand markets, and that transportation cost creates a persistent gap, called a basis differential, between what Piceance gas actually sells for at the wellhead and the national Henry Hub benchmark price you might see quoted in the news. When that differential widens, which it has at various points over the past decade, Piceance wells become uneconomic to drill even when national gas prices look reasonable, because the local price operators actually realize is meaningfully lower.",
+    "This is a structural feature of the basin's location, not a temporary problem, and it's a major reason drilling activity here has stayed depressed even during periods when other gas basins picked back up."
+   ]
+  },
+  {
+   "heading": "What happened to the mid-2000s boom",
+   "paragraphs": [
+    "The Piceance saw real, substantial drilling activity through the late 2000s and into the early 2010s, and mineral owners who leased or sold during that window likely remember a very different, much more active market than exists today. When gas prices fell sharply starting around 2012 and stayed weak for an extended stretch, combined with the basis differential problem, operators redirected capital toward liquids-rich plays elsewhere that offered better returns, and Piceance activity slowed to a trickle that has never really recovered to its earlier pace."
+   ]
+  },
+  {
+   "heading": "What's realistic to expect now",
+   "paragraphs": [
+    "If your family's minerals here have produced steadily but modestly for years, that reflects the basin's current maintenance-mode reality rather than any specific problem with your interest. New drilling would require a combination of higher national gas prices and improved Rockies takeaway capacity to make sustained economic sense again, and neither is guaranteed on any particular timeline. Buyers evaluating Piceance minerals today are pricing against this quiet reality, not against the basin's more active history."
+   ]
+  },
+  {
+   "heading": "Approaching a sale here honestly",
+   "paragraphs": [
+    "The buyer pool for Piceance Basin minerals is thinner than it was during the boom years, limited mostly to specialized funds comfortable with Rockies gas basis risk. A fair offer should be transparent about how it's discounting for that basis differential rather than simply quoting a low number without explanation. It's reasonable to ask directly what differential assumption is built into any offer you receive."
+   ]
+  },
+  {
+   "heading": "Mancos Shale gas as an additional, deeper target",
+   "paragraphs": [
+    "Beneath the traditional Mesaverde and Williams Fork intervals that drove the basin's earlier boom, the Mancos Shale represents a deeper gas target that some operators tested during the more active years, with mixed but occasionally promising results in parts of Garfield County. Development here has followed the same broader pattern as the shallower zones, constrained by the same basis differential and weak gas price environment, so it hasn't translated into sustained new activity. It's still worth knowing whether any Mancos testing has occurred near your specific tract, since it represents additional long-term potential beyond what your current royalty check, if any, might suggest, even if that potential remains unlikely to be tested again soon under current gas pricing. Colorado's Energy and Carbon Management Commission maintains public permit and completion records that can confirm whether any Mancos-specific activity has actually occurred near your tract, rather than relying on secondhand basin reputation that may be years out of date either way. Confirming this directly with the state is a better foundation for negotiation than trusting either a hopeful or a dismissive buyer's framing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is Piceance Basin gas worth less at the wellhead than national gas prices suggest?",
+   "answer": "Rockies gas, including Piceance production, sells at a persistent discount to Henry Hub benchmark pricing due to pipeline transportation costs to reach major demand markets, known as a basis differential."
+  },
+  {
+   "question": "Is the Piceance Basin still being actively drilled?",
+   "answer": "Activity has slowed significantly from its mid-2000s to early-2010s peak and has stayed depressed due to the combination of weak gas prices and the basis differential; it's largely in maintenance mode today."
+  },
+  {
+   "question": "Could higher gas prices bring drilling back to this basin?",
+   "answer": "It's possible, but would likely require both higher national gas prices and improved Rockies pipeline takeaway capacity, neither of which is guaranteed on any specific timeline."
+  },
+  {
+   "question": "How should I evaluate a low offer on Piceance minerals?",
+   "answer": "Ask the buyer to explain what basis differential assumption is built into their number, so you can judge whether the discount reflects real transportation economics or an unnecessarily low bid."
+  }
+ ],
+ "status": "written",
+ "wordCount": 859,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-piceance-basin-themineralrightsbroker-com.jpg",
+  "alt": "Piceance Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

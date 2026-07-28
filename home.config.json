@@ -1,0 +1,30 @@
+{
+  "domain": "themineralrightsbroker.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/themineralrightsbroker.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/themineralrightsbroker.com",
+  "reference": "https://www.k2space.com/",
+  "refhost": "k2space-com",
+  "biz": "Mineral Rights Broker",
+  "businessName": "Mineral Rights Broker",
+  "wordmark_l1": "Mineral Rights",
+  "wordmark_l2": "Broker",
+  "city": "Fort Worth",
+  "state": "Texas",
+  "region": "Fort Worth, the Permian Basin, and producing states nationwide",
+  "phone": "817-555-1013",
+  "email": "broker@themineralrightsbroker.com",
+  "address": "500 Throckmorton St, Fort Worth, TX 76102",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/locations/sell-mineral-rights-texas.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/themineralrightsbroker.com/site-voice.json",
+  "nav": [
+    ["Situations", "/situations"],
+    ["Interests", "/interest-types"],
+    ["Basins", "/basins"],
+    ["Resources", "/resources"],
+    ["About", "/about"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Open a Brokerage Review", "/contact"]
+}

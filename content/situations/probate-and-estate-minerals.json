@@ -1,0 +1,73 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights in Probate: An Executor's Guide",
+ "metaDescription": "Executors selling estate mineral interests face court oversight, letters testamentary, and beneficiary approval. Here's how the sale mechanics work and where a listing helps.",
+ "heroLead": "An executor's job with mineral rights isn't to hold out for the last dollar, it's to close the estate correctly, and those two goals aren't always the same thing.",
+ "intro": [
+  "Mineral interests show up in estates more often than people expect, sometimes as the only asset anyone actually knows about, sometimes as a forgotten line item on an old deed that a title search turns up. Either way, the executor's authority to sell it, the court's role in approving the sale, and the standard the executor has to meet all depend on how the estate is being administered.",
+  "This is different from a personal sale by an owner who can accept or reject any offer for any reason. An executor is acting on behalf of beneficiaries and, in many states, under a court's supervision. That changes what documentation matters and how the sale needs to be conducted."
+ ],
+ "sections": [
+  {
+   "heading": "Letters Testamentary and What They Actually Authorize",
+   "paragraphs": [
+    "Letters testamentary or letters of administration are the court's proof that you have authority to act for the estate. A buyer's title company will ask to see them before closing, and they'll want to confirm the letters are current, since some states require them to be renewed or reissued periodically during a long administration.",
+    "The letters themselves don't always spell out whether you can sell real property, including mineral interests, without further court involvement. That depends on whether the will grants the executor independent authority, and on whether your state defaults to independent or dependent administration when the will is silent."
+   ]
+  },
+  {
+   "heading": "Independent Administration vs. Court Approval",
+   "paragraphs": [
+    "Under independent administration, common in states like Texas, an executor with the right authority can typically negotiate and close a mineral sale without going back to the probate court for sign-off on each transaction, though they still owe beneficiaries a fiduciary duty to get a fair result.",
+    "Under dependent or supervised administration, the court may need to approve the sale terms before closing, sometimes requiring notice to beneficiaries, an appraisal or comparable value showing, and a formal order. This adds time to the process, and it's worth confirming with the estate's attorney early which track you're on so the sale timeline doesn't surprise anyone."
+   ]
+  },
+  {
+   "heading": "The Executor's Standard: Fair Process, Not Maximum Price at Any Cost",
+   "paragraphs": [
+    "Executors are held to a fiduciary duty to act prudently and in the beneficiaries' interest, which in practice means being able to show that the sale price reflected the market rather than a single number accepted without comparison. A court, or a beneficiary who later questions the sale, will look at whether the executor made a reasonable effort to test the market.",
+    "This is where a documented, competitive process helps the executor as much as it helps the beneficiaries. A listing that produces multiple bids and a record of who bid what gives the executor something concrete to point to if the sale is ever reviewed, versus a single accepted offer with no comparison to lean on."
+   ]
+  },
+  {
+   "heading": "Clean Closure vs. Maximizing Value",
+   "paragraphs": [
+    "Some estates are under real time pressure, a closing deadline, multiple beneficiaries who all want the estate settled, or debts and taxes that need to be paid from estate proceeds. In those cases, a faster process with a slightly narrower buyer pool may be the right tradeoff, and that's a legitimate executor decision as long as it's documented.",
+    "In other estates, there's no urgent deadline and the mineral interest is a meaningful piece of what the beneficiaries will receive. There, running a full competitive listing before accepting anything tends to serve the beneficiaries better, since it puts the burden of proof on the market rather than on the executor's judgment alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell estate mineral rights before probate is finalized?",
+   "answer": "In many cases yes, once letters testamentary or letters of administration have been issued and the executor has authority to act, though final distribution of proceeds to beneficiaries typically waits until the estate is ready to close."
+  },
+  {
+   "question": "Do all the beneficiaries have to agree to the sale?",
+   "answer": "It depends on the will and state law. Under independent administration the executor often has authority to sell without unanimous beneficiary consent, but keeping beneficiaries informed and documenting the process reduces the risk of a later dispute even where consent isn't strictly required."
+  },
+  {
+   "question": "What happens if a beneficiary objects to the sale price after the fact?",
+   "answer": "This is exactly the scenario a documented, multi-buyer process protects against. An executor who can show the interest was marketed and multiple bids were compared has a far stronger position than one who accepted a single unsolicited offer with nothing to compare it against."
+  },
+  {
+   "question": "Does the estate need an appraisal before selling mineral rights?",
+   "answer": "Some courts require a formal appraisal for supervised sales; others accept a market-tested sale process as evidence of value. Check with the estate's attorney on what your specific probate court requires before assuming either path."
+  },
+  {
+   "question": "How are proceeds from a mineral rights sale distributed among heirs?",
+   "answer": "Proceeds typically flow into the estate and are distributed according to the will or intestate succession law, alongside other estate assets, unless the will specifically designates the mineral interest to a particular heir."
+  }
+ ],
+ "status": "written",
+ "wordCount": 885,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-themineralrightsbroker-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

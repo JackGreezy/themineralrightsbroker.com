@@ -1,0 +1,69 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Leased but Undrilled: Selling Mineral Rights Before a Well",
+ "metaDescription": "You signed a lease, cashed the bonus, and no well has come yet. Here's how buyers price leased-but-undrilled minerals, and what the primary term clock means for you.",
+ "heroLead": "A signed lease is a promise to pay if drilling happens, not proof that it will, and that distinction is the whole story for how this interest gets priced.",
+ "intro": [
+  "Getting a lease bonus check feels like the mineral interest finally paid off, and in a narrow sense it did, but a signed lease with no well drilled is still, functionally, non-producing acreage with one extra piece of information attached: an operator was interested enough to pay for the right to drill it. Whether that turns into an actual well, and when, is a separate question the lease itself doesn't answer.",
+  "Owners in this position often assume the hard part is over and a check is now just a matter of time. Sometimes that's true. Sometimes the lease runs its full primary term, expires without a well, and the operator walks away having only ever paid the bonus. Both outcomes are common enough that it's worth understanding the mechanics before deciding whether to hold or sell."
+ ],
+ "sections": [
+  {
+   "heading": "What a Lease Actually Guarantees",
+   "paragraphs": [
+    "A mineral lease guarantees the bonus payment already made and, if a well is drilled and produces, a royalty on that production at whatever rate the lease specifies. It does not guarantee that a well gets drilled at all. Operators lease far more acreage than they ultimately drill, holding positions to secure optionality across a play, and plenty of leased acreage sits untouched through an entire primary term before reverting back to the mineral owner unleased.",
+    "This isn't a flaw in the lease, it's how the leasing system works. The operator is buying time and the right to drill if the economics work out; the mineral owner is getting paid for granting that option regardless of whether it gets exercised."
+   ]
+  },
+  {
+   "heading": "The Primary Term Clock",
+   "paragraphs": [
+    "Every lease has a primary term, commonly three to five years, during which the operator can drill without further payment beyond the bonus, or in some leases, annual delay rentals to keep the lease alive without drilling. If a well is drilled and produces before the primary term ends, the lease moves into its secondary term and stays in effect as long as production continues. If nothing is drilled before the primary term expires, the lease terminates and the minerals revert to you, unleased.",
+    "Some leases include continuous drilling or Pugh clauses that affect how much acreage stays held if only part of a larger leased tract gets drilled. Reading your specific lease's term and habendum clause language matters here, since the details vary and shape both what happens if nothing gets drilled and what happens if only a portion of your acreage ends up in a producing unit."
+   ]
+  },
+  {
+   "heading": "How Buyers Price a Lease with No Well Yet",
+   "paragraphs": [
+    "Buyers acquiring leased-but-undrilled minerals are pricing the same thing an operator priced when it paid the bonus: the probability and timing of a well actually getting drilled before the primary term runs out. They'll look at what else the operator is doing nearby, whether permits are being filed in the area, how much of the primary term remains, and how active that specific operator has historically been about drilling versus holding acreage.",
+    "A lease with two years left on its term and permits already showing up on adjacent sections prices very differently than a lease entering its final months with no nearby activity. Both are leased; only one looks likely to actually produce."
+   ]
+  },
+  {
+   "heading": "Selling Now vs. Riding Out the Primary Term",
+   "paragraphs": [
+    "If a well gets drilled and produces, holding through to production typically captures more value than selling beforehand, since a producing royalty interest generally commands a stronger price than a speculative leased-but-undrilled one. If the lease expires without drilling, holding captured nothing beyond the original bonus, and the owner is back to an unleased, non-producing position.",
+    "Selling now locks in a value that reflects the market's read on how likely drilling actually is, without betting on which of those two outcomes happens. For owners who'd rather not carry that uncertainty for years, converting it to a known number today is a legitimate trade, and running the interest through a competitive process helps make sure that number reflects genuine buyer appetite rather than a single lowball guess."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "If my lease expires without a well, do I get to keep the bonus?",
+   "answer": "Yes, the bonus payment is compensation for granting the lease and isn't refundable if drilling never happens. The minerals simply revert to you, unleased, once the lease terminates."
+  },
+  {
+   "question": "Can I sell my mineral rights while they're still under an active lease?",
+   "answer": "Yes, selling the minerals doesn't cancel the lease, the lease stays in place and transfers with the mineral ownership, meaning the buyer steps into your position as lessor and would receive any future royalty."
+  },
+  {
+   "question": "How do I know how much time is left on my lease's primary term?",
+   "answer": "Your original lease document states the primary term length and effective date. If you don't have a copy, the county clerk's recorded lease will show the same information."
+  },
+  {
+   "question": "Does a leased-but-undrilled interest sell for more than a completely unleased one?",
+   "answer": "Generally yes, since the lease itself signals operator interest and establishes bonus and royalty terms, but the specific premium varies with how much primary term remains and how active drilling is nearby."
+  }
+ ],
+ "status": "written",
+ "wordCount": 911,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-themineralrightsbroker-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

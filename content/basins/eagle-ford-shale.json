@@ -1,0 +1,77 @@
+{
+ "slug": "eagle-ford-shale",
+ "title": "Eagle Ford Shale Mineral Rights",
+ "type": "basin",
+ "group": "TX",
+ "primaryKeyword": "eagle ford shale mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Eagle Ford Shale Mineral Rights: Three Windows, One Play",
+ "metaDescription": "Eagle Ford minerals price differently in the Karnes oil window than the Webb County dry gas window. Know which one your county sits in before you sell.",
+ "heroLead": "Ask two Eagle Ford mineral owners what their interest is worth and you can get two very different answers, and both can be right, because this play isn't one thing — it's three.",
+ "intro": [
+  "The Eagle Ford runs in a band across South Texas from the Mexican border up through the San Antonio area, and it changes character as it goes. Karnes and DeWitt counties sit in the black oil window. Move southwest into La Salle and McMullen and you're in the condensate window. Keep going toward Webb County near the border and it turns to dry gas. Same formation, three different products, three different buyer pools."
+ ],
+ "sections": [
+  {
+   "heading": "The oil window: Karnes, DeWitt, Gonzales",
+   "paragraphs": [
+    "This is where the Eagle Ford boom concentrated its heaviest drilling, and it remains the most consistently bid part of the play. EOG Resources holds a dominant position across much of the oil window and has kept a steady development pace here even as broader Eagle Ford rig counts declined from their peak years. Mineral owners in this window generally see the widest buyer field because the production economics are the most straightforward to underwrite.",
+    "Marathon and ConocoPhillips, which absorbed Burlington Resources' legacy position, also hold significant oil-window acreage, so it's common for a single county to have three or four active operators drilling within a few miles of each other."
+   ]
+  },
+  {
+   "heading": "The condensate and dry gas windows",
+   "paragraphs": [
+    "La Salle and McMullen counties sit in a transition zone producing a lighter condensate stream, which trades closer to oil pricing but carries more gas exposure than the core oil window. Development pace here tracks oil prices more loosely and gas prices more than owners sometimes expect.",
+    "Webb County and the play's far southwestern extent run dry gas, and that changes the buyer conversation entirely. Dry gas Eagle Ford competes for operator capital against the Haynesville and other gas basins, so activity here rises and falls with gas prices more sharply than the oil window does, and the buyer pool for minerals in this stretch is noticeably thinner."
+   ]
+  },
+  {
+   "heading": "Why your county, not your acreage, drives the offer",
+   "paragraphs": [
+    "It's common for an out-of-state heir to receive an offer on Eagle Ford minerals and assume it reflects the play's boom-era reputation without checking which window their specific tract sits in. A Karnes County oil-window interest and a Webb County dry-gas interest can carry very different value even at similar acreage, and a generic offer letter mailed across a wide mailing list won't reflect that distinction. Confirming your exact county and, ideally, your section and township against public GIS mapping before responding to any offer is worth the hour it takes."
+   ]
+  },
+  {
+   "heading": "Listing across a mature but still-active play",
+   "paragraphs": [
+    "The Eagle Ford isn't the newest story in Texas oil and gas anymore, but oil-window counties still see meaningful permitting and refracturing activity on older wells, which keeps a real buyer pool interested. A listing process that documents your production history, or lack of it, and clearly states which window your tract sits in tends to draw sharper offers than a blanket direct-mail response, particularly for owners outside the oil-window core who need buyers to actually understand the gas-price sensitivity they're taking on."
+   ]
+  },
+  {
+   "heading": "Refrac activity and what it means for older wells",
+   "paragraphs": [
+    "As the Eagle Ford has matured, a growing share of operator activity in the oil window has shifted toward refracturing older wells, reapplying modern completion techniques to locations originally drilled with earlier-generation methods, rather than exclusively drilling new locations. A successful refrac can meaningfully extend a well's productive life and boost near-term output, which shows up directly in royalty payments even without a brand-new well being spudded nearby. If your family's minerals are tied to wells drilled in the play's early boom years, it's worth checking whether refrac activity has occurred or is planned nearby, since that can change the production trajectory you'd otherwise expect from a simple decline curve and materially affect what a buyer should be willing to pay. Texas Railroad Commission records list completion and refrac activity by lease, so this is a checkable fact rather than something you need to take a buyer's word for."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Which Eagle Ford counties are considered the strongest for mineral value?",
+   "answer": "Karnes and DeWitt counties, in the oil window, have historically seen the most consistent drilling activity and the broadest buyer interest."
+  },
+  {
+   "question": "Does dry gas Eagle Ford acreage still attract buyers?",
+   "answer": "Yes, but the pool is smaller and offers track gas prices more closely; buyers here tend to be gas-focused acquisition desks rather than generalists."
+  },
+  {
+   "question": "How do I find out which window my county is in?",
+   "answer": "Public state and county GIS mapping tools show producing well locations and formation targets near your section; a broker can also pull this for you against your specific deed description."
+  },
+  {
+   "question": "Is the Eagle Ford still being actively drilled?",
+   "answer": "Yes, though at a lower pace than its early-2010s peak. The oil window in particular continues to see permits, refracs, and infill development from established operators."
+  }
+ ],
+ "status": "written",
+ "wordCount": 861,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-eagle-ford-shale-themineralrightsbroker-com.jpg",
+  "alt": "Eagle Ford Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

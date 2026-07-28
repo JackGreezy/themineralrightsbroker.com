@@ -1,0 +1,80 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained: What You're Actually Signing",
+ "metaDescription": "What a division order is, why an operator sends one, and what to check before signing, including decimal interest, effective date, and payee information.",
+ "heroLead": "A division order is not the lease and it is not proof of ownership. It's an accounting instrument, and it's worth reading carefully before signing.",
+ "intro": [
+  "New royalty owners often assume a division order is just paperwork to move through quickly. It isn't nothing, it's the document an operator uses to determine exactly what percentage of production revenue to pay you and where to send it, and errors here are one of the more common reasons owners get underpaid without realizing it."
+ ],
+ "sections": [
+  {
+   "heading": "What a division order actually is",
+   "paragraphs": [
+    "A division order is sent by the operator (or the purchaser of production) after a well starts producing, or after ownership changes, to confirm your decimal interest, the fractional share of production revenue you're entitled to, expressed as a decimal like 0.00390625. It also confirms your legal name, payee address, and tax ID for reporting purposes.",
+    "It is not the lease, and signing it does not modify your lease terms. It's purely an accounting document that tells the operator how to split and route payment among everyone with an interest in that well."
+   ]
+  },
+  {
+   "heading": "The decimal interest is the number to check",
+   "paragraphs": [
+    "The decimal on a division order should match your royalty percentage under the lease multiplied by your ownership share of the tract, adjusted for the size of the spacing unit relative to your acreage. Getting this number verified against your lease and your net mineral acres before signing is the single most important check in the whole document.",
+    "If the decimal looks wrong, or if you can't independently verify it, most operators will work with you to correct it before payment starts, but it's far easier to fix before signing than to chase down a correction, and a retroactive adjustment, after months of payments have already gone out at the wrong rate."
+   ]
+  },
+  {
+   "heading": "What else to check before signing",
+   "paragraphs": [
+    "Confirm the effective date matches when your interest actually began, since payments are often calculated back to that date. Confirm your legal name and payee address are correct, since a mismatch can delay or misdirect payments. And confirm the well or unit identified matches the property you actually own an interest in, particularly if you own minerals in more than one tract.",
+    "Division orders sometimes include a suspense clause noting that payment will be held until any title question is resolved. If you see this, it usually means the operator has flagged something, an heirship gap, a competing claim, or unclear chain of title, that needs to be cleared up before your specific payments start."
+   ]
+  },
+  {
+   "heading": "When a division order arrives after a sale",
+   "paragraphs": [
+    "If you sold minerals but haven't sold the associated royalty interest, or vice versa, division orders can arrive in confusing sequence, sometimes naming a prior owner, sometimes splitting a decimal across two parties mid-year during the transition. This is normal during any ownership change and usually self-corrects once the operator's records catch up to the recorded deed.",
+    "Keep a copy of every division order you sign, even ones that get superseded later. If a payment dispute or an audit ever comes up, having the full chain of division orders on file makes resolving it far faster than reconstructing it from memory.",
+    "Owners sometimes receive a division order for a well they don't recognize, often because a unit was combined with an adjacent one or because a new well was added to an existing unit under pooling rules. Confirming the well name and location against your own records, rather than assuming it's an error, is the right first step before raising a question with the operator."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Am I required to sign a division order?",
+   "answer": "In most states you're not legally required to sign one to be paid, since your right to royalty comes from the lease itself, but many operators will hold or suspend payment until it's signed and returned as a practical matter."
+  },
+  {
+   "question": "What happens if I don't sign it?",
+   "answer": "Typically payment goes into suspense, meaning it accrues but isn't paid out, until the division order is signed or the ownership question it addresses is otherwise resolved."
+  },
+  {
+   "question": "Does selling my minerals require a new division order?",
+   "answer": "Yes, once a sale closes and is recorded, the buyer typically needs to send the operator a new division order in their name to redirect future payments."
+  },
+  {
+   "question": "Can my decimal interest change over time?",
+   "answer": "Yes, if the spacing unit is amended, if additional wells are added to the unit, or if ownership among interest holders changes, the operator may issue a revised division order with an updated decimal."
+  },
+  {
+   "question": "Should I have an attorney review a division order before signing?",
+   "answer": "For a straightforward, small interest it's often unnecessary, but for larger interests or anything with a suspense clause attached, a quick review is a reasonable precaution."
+  },
+  {
+   "question": "Do division orders differ by state?",
+   "answer": "The core function is the same everywhere, confirming decimal interest and payee details, but specific rules around suspense, required signatures, and payment timing vary by state, so it's worth knowing the rules in the state where your minerals sit."
+  },
+  {
+   "question": "Can a division order be assigned to more than one owner at once?",
+   "answer": "Yes, if an interest is jointly owned or has been split among heirs, each owner typically receives and signs their own division order reflecting their individual decimal share."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-themineralrightsbroker-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

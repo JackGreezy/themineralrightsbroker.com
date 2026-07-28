@@ -1,0 +1,68 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Selling Non-Producing Mineral Rights: How They're Priced",
+ "metaDescription": "No wells, no lease, no checks. Non-producing mineral acreage still sells, but it prices off lease prospects and nearby activity, not production history. Here's how.",
+ "heroLead": "No checks in the mailbox doesn't mean no value in the ground, it means the value is being priced off potential instead of proof.",
+ "intro": [
+  "Non-producing mineral acreage covers a wide range of situations: land that has never had a lease, a lease that expired at the end of its primary term without a well being drilled, or acreage in a county where activity has never quite reached your specific tract. Whatever the path, the defining feature is the same, there's no royalty check establishing a track record, which means the interest has to be valued differently than producing minerals.",
+  "This trips up a lot of owners who assume no production means no value. It's closer to the opposite: non-producing acreage is priced almost entirely on what could happen there, not on what has happened, which makes it a genuinely different asset to sell than a producing royalty stream."
+ ],
+ "sections": [
+  {
+   "heading": "Why Non-Producing Acreage Prices Off Lease Prospects, Not Checks",
+   "paragraphs": [
+    "A producing interest gets valued by looking backward at royalty history and forward at remaining reserves and decline curves. Non-producing acreage has no history to look at, so buyers value it based on the likelihood that it gets leased and eventually drilled within a reasonable time horizon. That likelihood is driven by things like how close active permitting and drilling are to your specific tract, whether operators are currently leasing in the surrounding township or section, and where your acreage sits relative to the play's core versus its edges.",
+    "This is why two tracts with identical mineral ownership can be valued very differently if one sits a mile from recent permits and the other sits twenty miles from any activity. Location within the play matters more for non-producing acreage than almost any other factor."
+   ]
+  },
+  {
+   "heading": "What Actually Moves the Needle",
+   "paragraphs": [
+    "Permits filed nearby, new well applications, recent lease bonus activity on adjacent or nearby tracts, and operator announcements about expanding into an area are the signals that move non-producing acreage from speculative to actively wanted. A lease that expired without drilling can also be a signal in either direction, sometimes it means the operator lost interest in that specific spot, sometimes it just means commodity prices or drilling schedules shifted and the acreage is still on someone's radar.",
+    "County-level activity, staking, title work being done by landmen, and public permit filings are all things a buyer or broker can check before pricing the acreage, and it's worth understanding what that check found before agreeing to a number."
+   ]
+  },
+  {
+   "heading": "The Patience Trade",
+   "paragraphs": [
+    "Holding non-producing minerals means betting on future leasing activity that may take years to materialize, or may never happen at all in a given owner's lifetime, in exchange for potentially capturing the full value of a future bonus and royalty stream if it does. Selling now converts that uncertain future into a certain present number, smaller in expectation than a lucky outcome, but without the wait or the risk of nothing happening at all.",
+    "Neither choice is objectively correct. It depends on how much the owner values certainty now versus optionality later, and on how realistic the near-term activity outlook actually is for that specific location, which is worth getting an honest read on rather than a hopeful one."
+   ]
+  },
+  {
+   "heading": "Marketing Speculative Acreage to the Right Buyers",
+   "paragraphs": [
+    "Not every buyer wants non-producing acreage. Some only acquire cash-flowing royalty interests and pass entirely on speculative positions. Others specialize in exactly this kind of acreage, betting on future leasing across a portfolio of similar non-producing tracts. Getting the interest in front of buyers who actually want this category, rather than shopping it broadly to buyers who will lowball it or decline, tends to produce a meaningfully better outcome than a single cold offer from whoever happened to find your name in the county records."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can non-producing mineral rights actually be sold, or only leased?",
+   "answer": "They can be sold outright. Buyers who specialize in speculative or exploration-stage acreage acquire non-producing minerals regularly, pricing them against lease prospects and nearby activity rather than production history."
+  },
+  {
+   "question": "Why is my non-producing interest worth so much less than my neighbor's producing one?",
+   "answer": "Producing interests have an established, measurable income stream; non-producing interests are valued on the probability and timing of future activity, which is inherently less certain and typically prices lower until a well is actually drilled."
+  },
+  {
+   "question": "What happens to the value of my interest if the lease on it expires?",
+   "answer": "An expired lease without drilling doesn't erase the mineral ownership, you keep the interest and can lease or sell it again, though the expiration itself can be read by buyers as a signal worth investigating rather than ignoring."
+  },
+  {
+   "question": "Should I wait for a lease before selling non-producing minerals?",
+   "answer": "It depends on how active leasing currently is near your tract and how much uncertainty you're comfortable holding. If nearby activity is picking up, waiting may capture more value; if the area has been quiet for years, a sale now converts uncertain upside into a known number."
+  }
+ ],
+ "status": "written",
+ "wordCount": 856,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-themineralrightsbroker-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

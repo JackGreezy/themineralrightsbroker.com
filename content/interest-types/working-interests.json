@@ -1,0 +1,68 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Working Interests Explained: Costs, Liability, and Pricing",
+ "metaDescription": "A working interest pays more than a royalty but carries drilling costs, operating expenses, and plugging liability. Here's what owning one actually obligates you to.",
+ "heroLead": "A working interest looks like the biggest slice of production income until you see the bill for the well's operating costs sitting right next to the check.",
+ "intro": [
+  "A working interest is the right to explore for, drill, and produce oil and gas from a tract, paired with the obligation to pay a proportional share of the costs of doing so. It's the interest an operator holds, and it's what gets created or transferred whenever a lease is drilled, assigned, or sold among operators and investors. Unlike a royalty, which is a cost-free share of revenue, a working interest owner bears their percentage of every dollar spent drilling, completing, and operating the well.",
+  "Individual investors and, occasionally, mineral owners who negotiated a working interest position instead of a straight lease, do hold working interests directly, and the economics of that ownership are meaningfully different from any of the royalty-type interests."
+ ],
+ "sections": [
+  {
+   "heading": "What Owning a Working Interest Obligates You To",
+   "paragraphs": [
+    "A working interest owner pays their proportional share of drilling costs, completion costs, and ongoing operating expenses, lease operating expenses, workovers, and eventually plugging and abandonment costs when the well reaches the end of its life. In exchange, they receive their proportional share of production revenue before royalty is deducted from their share, giving working interest owners a larger gross share of production than a royalty owner would hold on the same well.",
+    "This cost-bearing structure means a working interest can produce a loss in a given month if operating expenses exceed that month's revenue share, something that structurally cannot happen with a pure royalty interest, which is never charged for costs regardless of how the well performs financially."
+   ]
+  },
+  {
+   "heading": "Not Passive Income: Ongoing Costs and Real Liability",
+   "paragraphs": [
+    "Beyond routine operating costs, working interest owners can face cash calls, requests from the operator to fund their share of a workover, a recompletion, or other capital expense, sometimes on short notice. Declining to pay a cash call typically has consequences specified in the operating agreement, which can range from a reduced interest to being carried at a penalty rate on future production.",
+    "Plugging liability is the working interest obligation that catches unprepared owners off guard most often. When a well reaches the end of its economic life, someone has to pay to plug it and reclaim the site according to state regulations, and working interest owners are on the hook for their share of that cost, which can be substantial and doesn't generate any offsetting revenue."
+   ]
+  },
+  {
+   "heading": "The Cost-Bearing Line: Working Interest vs. Royalty",
+   "paragraphs": [
+    "This is the fundamental division running through every category of oil and gas interest. Royalty-type interests, whether a mineral owner's royalty, an ORRI, or an NPRI, are all free of drilling and operating costs by definition. Working interests bear those costs in exchange for a larger revenue share and, in the case of the operator specifically, control over how the well is drilled and managed.",
+    "An investor comparing a working interest offering against a royalty acquisition needs to weigh that larger potential upside against real downside exposure that a royalty interest simply doesn't carry. It's a different risk profile entirely, not merely a bigger or smaller version of the same thing."
+   ]
+  },
+  {
+   "heading": "Why Buyers Discount for Operating Risk and Plugging Liability",
+   "paragraphs": [
+    "When a working interest changes hands, the buyer isn't only acquiring a revenue stream, they're assuming the seller's share of future operating costs and, critically, the eventual plugging liability tied to that well. Buyers factor the well's age, remaining productive life, and estimated plugging cost into their valuation, sometimes discounting more heavily for older wells nearing the end of their economic life specifically because of the liability attached to them.",
+    "This is why a working interest and a royalty interest with similar current monthly income rarely trade at the same multiple. The working interest carries a tail of future obligations the royalty simply doesn't have, and any honest valuation has to account for that difference before comparing the two."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can a working interest owner lose money on a well?",
+   "answer": "Yes. Because working interest owners bear their share of operating and capital costs, a month with high expenses relative to production revenue, or a required cash call, can result in a net cost rather than income, something that doesn't happen with a royalty interest."
+  },
+  {
+   "question": "Who is responsible for plugging a well when it stops producing?",
+   "answer": "Working interest owners share responsibility for plugging and abandonment costs according to their proportional interest, as required by state regulation. This liability typically transfers to a buyer when a working interest is sold."
+  },
+  {
+   "question": "Is a working interest the same as a mineral interest?",
+   "answer": "No. A mineral interest is ownership of the minerals themselves, which can be leased to create a working interest for whoever does the drilling. A working interest is the operating right and cost obligation created by that lease, held separately from the mineral ownership underneath it."
+  },
+  {
+   "question": "Why would someone want a working interest instead of a royalty?",
+   "answer": "A working interest offers a larger share of gross production revenue and, for operators, control over development decisions, in exchange for bearing costs and liability. It suits investors and operators comfortable with that risk profile rather than those wanting purely passive income."
+  }
+ ],
+ "status": "written",
+ "wordCount": 896,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-themineralrightsbroker-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

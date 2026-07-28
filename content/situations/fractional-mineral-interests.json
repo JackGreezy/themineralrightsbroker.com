@@ -1,0 +1,69 @@
+{
+ "slug": "fractional-mineral-interests",
+ "title": "Fractional & Small Interests",
+ "type": "situation",
+ "note": "tiny undivided interests, many heirs",
+ "metaTitle": "Selling Fractional Mineral Interests: Small Shares, Real Value",
+ "metaDescription": "Undivided 1/32nd or 1/64th mineral interests still have value, but they price differently than whole interests. Here's how fractional ownership actually works.",
+ "heroLead": "Three generations of splitting an interest among children can leave you owning a fraction so small the number looks like a typo, and it still matters how you sell it.",
+ "intro": [
+  "A mineral interest that started as one person's whole ownership of a quarter section rarely stays that way. Each generation typically divides the interest among however many children inherit, and after two or three passes, an owner might hold an undivided 1/16th, a 1/48th, or something even smaller, layered on top of a royalty rate that was already a fraction of production to begin with.",
+  "Owning a fraction like this is not the same as owning nothing. You still hold a real, recorded interest in the mineral estate, entitled to your proportional share of any bonus, delay rental, or royalty payment tied to that tract. But small fractional interests get priced, marketed, and sometimes overlooked differently than a whole mineral interest, and understanding why changes what to expect from a sale."
+ ],
+ "sections": [
+  {
+   "heading": "How Interests Get This Small",
+   "paragraphs": [
+    "The math is simple and relentless. An original owner's whole interest gets divided among, say, four children equally, each now holding a quarter. Each of those children eventually divides their quarter among their own children, and the interest keeps halving or quartering with every generational pass, all while the original tract's total royalty rate stays fixed. Two generations of a four-way split turns a whole interest into a sixteenth without anyone doing anything wrong, it's just how undivided ownership compounds over time.",
+    "It's also common for co-owners to lose track of each other. Cousins scattered across different states, some of whom may not even know they own an interest, are a routine feature of old family mineral tracts, particularly ones tied to allotment-era or early twentieth-century deeds."
+   ]
+  },
+  {
+   "heading": "Valuing an Undivided Fraction",
+   "paragraphs": [
+    "A 1/64th interest in a productive spacing unit is valued the same way a whole interest would be, by applying that fraction to the unit's production, remaining reserves, or lease activity, then multiplying by your ownership share. The underlying valuation approach doesn't change, but the resulting dollar figure obviously does, and it's worth going into any offer with that math done independently rather than accepting whatever number a buyer quotes.",
+    "What does change with small fractions is the transaction economics on the buyer's side. Title curative work, division order setup, and ongoing administration cost roughly the same whether the interest is a whole tract or a sliver of one, which means buyers often apply a per-transaction discount to very small fractional interests to account for that fixed cost relative to the size of the purchase."
+   ]
+  },
+  {
+   "heading": "Why Buyers Treat Small Interests Differently",
+   "paragraphs": [
+    "A buyer acquiring a fractional interest still has to run title, confirm the chain of ownership through however many generations produced your fraction, set up the division order with the operator, and track the interest going forward. None of that work scales down proportionally just because the ownership percentage is small. That's a real cost, and it shows up in how aggressively buyers bid on very small fractions compared to larger, cleaner interests.",
+    "This is also where fragmented ownership becomes a liability if it isn't addressed. An interest with murky title, missing heirship documentation, or unresolved co-owner disputes will get discounted further, or passed on entirely, regardless of how much production sits underneath it."
+   ]
+  },
+  {
+   "heading": "Selling Alongside Your Co-Owners",
+   "paragraphs": [
+    "If you can identify other heirs or co-owners holding fractions of the same original tract, selling as a coordinated group, even if each person's proceeds are still calculated individually, often produces better results than each owner separately fielding offers over months or years. It gives buyers a larger, cleaner package to bid on and reduces the per-transaction friction that drives down small-interest pricing in the first place.",
+    "Locating co-owners isn't always simple, particularly on tracts that have passed through several generations without anyone keeping a family record of who holds what. County tax rolls, old division orders, and probate files in the county where the minerals sit are usually the most reliable starting points, and a broker familiar with that county's records can often shortcut work that would otherwise take an individual owner months of courthouse research to piece together on their own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my mineral interest too small to be worth selling?",
+   "answer": "Most fractional interests, even down to a 1/64th or smaller, retain real value if the underlying tract has production or lease activity. Very small interests may see more transaction-cost discounting, but 'small' rarely means worthless."
+  },
+  {
+   "question": "How do I find out how large my fractional interest actually is?",
+   "answer": "Your division order statement, if the interest is producing, will show your decimal interest. For non-producing interests, the county clerk's records and the original deed or heirship documents establish the fraction, sometimes requiring a title search to confirm."
+  },
+  {
+   "question": "Can I sell just my fraction without my co-owners' involvement?",
+   "answer": "Generally yes, undivided interests can be sold individually without co-owner consent in most states, though coordinating a sale with co-owners often produces a stronger combined offer than each owner selling separately."
+  },
+  {
+   "question": "Why did a buyer offer me less per acre than I've heard others got?",
+   "answer": "Very small fractional interests often carry a per-transaction discount to account for fixed title and administrative costs relative to the purchase size. Comparing offers across multiple buyers is the best way to confirm whether a specific quote is in line with the market."
+  }
+ ],
+ "status": "written",
+ "wordCount": 922,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-themineralrightsbroker-com.jpg",
+  "alt": "Fractional & Small Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

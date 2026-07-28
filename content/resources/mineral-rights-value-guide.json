@@ -1,0 +1,78 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Mineral Rights Worth? A Realistic Value Guide",
+ "metaDescription": "How mineral and royalty interests actually get valued, what drives the range up or down, and why the number on a mailer rarely matches what a competitive process pays.",
+ "heroLead": "The number printed on a mailer is a marketing figure, not an appraisal. Here is how value actually gets built.",
+ "intro": [
+  "Every owner asks the same question first: what is this worth. The honest answer is that mineral value is not a fixed number, it is a range that moves with drilling activity, commodity prices, and how the interest is positioned relative to a unit. Anyone quoting a firm dollar figure without seeing your deed, your division order, and recent activity nearby is guessing, and usually guessing low.",
+  "This guide covers the factors that actually move a valuation, so you can read an offer with some context instead of taking it at face value."
+ ],
+ "sections": [
+  {
+   "heading": "Producing vs. non-producing changes everything",
+   "paragraphs": [
+    "A producing royalty interest with a payment history is valued largely off that history: recent monthly checks, decline behavior, and how much runway is left in the well. Non-producing minerals with no lease and no nearby activity are valued more speculatively, closer to a bet on future drilling than a cash-flow asset, and typically trade at a lower multiple of any comparable production.",
+    "Interests that are leased but not yet producing sit in between. A signed lease with a bonus already paid signals operator interest, which tends to lift value even before the first well is drilled."
+   ]
+  },
+  {
+   "heading": "Location inside the unit matters more than acreage alone",
+   "paragraphs": [
+    "Two owners with identical net mineral acres can hold very different value if one sits inside a currently producing spacing unit and the other sits on the flank of the play with no permits filed nearby. Core position, meaning close to the most active, most productive part of a formation, typically commands a stronger price than the same acreage on the edge.",
+    "This is why local knowledge matters in a valuation conversation. Someone who knows which operators are permitting where, and which formations they're targeting at what depth, can weigh a specific tract more accurately than a generic acreage number ever could."
+   ]
+  },
+  {
+   "heading": "Commodity price and decline curve set the ceiling",
+   "paragraphs": [
+    "Royalty value is ultimately a claim on future cash flow, discounted back to today. When oil and gas prices are strong and the decline curve on nearby wells is shallow, buyers can justify paying more for the same interest, because the projected cash flow over the life of the well is higher. When prices soften or nearby wells are further into their decline, the same interest is worth less to a buyer, even though nothing about your ownership changed.",
+    "This is why value quotes have a shelf life. An offer that made sense against last quarter's strip pricing may not hold six months later, in either direction."
+   ]
+  },
+  {
+   "heading": "Why a single offer rarely reflects full value",
+   "paragraphs": [
+    "A buyer who mails an unsolicited offer is pricing to their own margin requirements, with no competing bid pushing that number up. That doesn't make the offer dishonest, but it does mean it's one data point, not the market.",
+    "Putting the same interest in front of several buyers, which is the core function of a broker listing, tends to compress that spread and surface whichever buyer has the strongest reason to pay up for that specific position, whether that's portfolio fit, tax timing on their end, or a gap in their basin coverage."
+   ]
+  },
+  {
+   "heading": "Fractional interests carry their own math",
+   "paragraphs": [
+    "Owners with small fractional interests, often the result of minerals passing through several generations of heirs, sometimes assume their share is worth proportionally less to buyers because it's administratively less convenient to manage. In practice, buyers who specialize in aggregating small interests within a unit will often value a fractional share fairly on a per-acre basis, since consolidating scattered ownership is exactly the kind of position they're built to acquire."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How is mineral rights value typically calculated?",
+   "answer": "Buyers generally value producing interests as a multiple of recent monthly royalty income, adjusted for expected decline, and value non-producing interests more speculatively based on nearby permitting and lease activity."
+  },
+  {
+   "question": "Why did I get three different offers with three different numbers?",
+   "answer": "Each buyer prices against their own book, risk tolerance, and current commodity outlook, so a spread between offers is normal and usually widens further out from any producing well."
+  },
+  {
+   "question": "Does mineral value go up or down over time?",
+   "answer": "Both happen. New drilling nearby, a fresh lease, or higher commodity prices can push value up, while a well moving deeper into decline or a quiet stretch of no new permits can push it down."
+  },
+  {
+   "question": "Is a higher offer always the better deal?",
+   "answer": "Not necessarily, once fees, closing costs, and timeline are factored in. A slightly lower gross offer with a clean, fast close and no deductions can net out ahead of a higher offer with strings attached."
+  },
+  {
+   "question": "Can I get a second opinion on an offer I already received?",
+   "answer": "Yes, and it costs nothing to have an existing offer reviewed against current activity before deciding whether to accept, counter, or list it more broadly."
+  }
+ ],
+ "wordCount": 857,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-themineralrightsbroker-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

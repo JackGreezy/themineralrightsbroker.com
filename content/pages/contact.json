@@ -1,0 +1,87 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact a Mineral Rights Broker | Free Consultation",
+ "metaDescription": "Reach out about a mineral or royalty interest you own, an offer you've received, or a general question. No cost, no obligation, and a straightforward reply.",
+ "heroLead": "Reach out about what you own, an offer you've received, or just a question you haven't found a straight answer to yet.",
+ "intro": [
+  "There's no wrong way to start this conversation. Some owners reach out with a specific offer they want checked, some with a deed they inherited and no idea what it means, some with a general question about whether now is a reasonable time to consider selling or leasing. All of it is a fair use of this page, and none of it commits you to anything."
+ ],
+ "sections": [
+  {
+   "heading": "What to include, if you have it",
+   "paragraphs": [
+    "The most useful starting details are the county and state where the minerals are located, an approximate net mineral acreage if you know it, and whether the interest is currently producing. None of this is required to reach out, we can work from less and help you figure out the rest, but including what you have shortens the back-and-forth considerably.",
+    "If you've already received an offer from another buyer and want it checked, attach or describe it. If you're working through an inherited interest and aren't sure what documents exist, say that too, that's a common starting point and not a barrier."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "A real response, not an automated form letter, comes back reviewing what you've shared and answering the specific question you asked, whether that's about an offer, a process question, or a first read on your interest's position. If more information would sharpen the answer, we'll ask for it directly rather than leave you guessing.",
+    "There's no sales pressure built into this step. If the honest answer is that your situation calls for a conversation with your own attorney or CPA first, we'll say that plainly rather than push forward regardless."
+   ]
+  },
+  {
+   "heading": "A note on privacy and sensitive information",
+   "paragraphs": [
+    "Ownership details like county, acreage, and document copies are appropriate to share when reaching out. Avoid including sensitive personal identifiers, a full Social Security number, bank account details, in an initial message; anything that sensitive can be handled securely later in the process if a transaction actually moves forward.",
+    "How your information is handled once you reach out is covered in full on our privacy page, worth a read if that's a concern before you send anything."
+   ]
+  },
+  {
+   "heading": "If you're comparing us to another option",
+   "paragraphs": [
+    "It's reasonable to reach out to more than one broker or buyer before deciding anything, and we'd rather you make an informed comparison than take our word for it. If you're already talking to someone else and just want a second read on the numbers, say so directly, that's a fair and common reason to get in touch.",
+    "We won't ask you to commit to anything before you've had a chance to compare, and there's no penalty for reaching out, getting an answer, and deciding to go a different direction.",
+    "If you'd rather not use the online form, a phone conversation covers the same ground and often moves faster for owners who have several questions or a more complicated ownership history to walk through out loud."
+   ]
+  },
+  {
+   "heading": "For owners outside a single county",
+   "paragraphs": [
+    "If you own mineral interests across more than one county or state, mention all of them in your initial message rather than reaching out separately for each. Ownership spread across multiple tracts is common with inherited or long-held minerals, and reviewing them together often gives a clearer overall picture than evaluating one in isolation.",
+    "Each tract still gets evaluated on its own activity and ownership details, since a strong position in one county doesn't tell us much about a different play or formation entirely, but there's no need to submit multiple separate inquiries to get started."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a cost to reach out or ask a question?",
+   "answer": "No, an initial conversation, whether about an existing offer, a general question, or your own interest, costs nothing and doesn't obligate you to anything further."
+  },
+  {
+   "question": "How fast can I expect a reply?",
+   "answer": "Most inquiries get a response within a few business days. If your situation involves a time-sensitive deadline on an existing offer, mention that directly so it can be prioritized."
+  },
+  {
+   "question": "Can I call instead of filling out a form?",
+   "answer": "Yes, phone contact is available and often faster for owners who'd rather talk through their specific situation directly instead of typing it out."
+  },
+  {
+   "question": "What if I don't know exactly what I own yet?",
+   "answer": "That's a completely normal starting point, especially with inherited interests. Reach out with whatever you do have, even just a general location, and we'll help you figure out the rest."
+  },
+  {
+   "question": "Will reaching out put me on a marketing list?",
+   "answer": "Your information is used to respond to your specific inquiry, not sold or shared with unrelated third parties. Full detail is available on our privacy page."
+  },
+  {
+   "question": "Can someone else contact you on my behalf, like an heir handling an estate?",
+   "answer": "Yes, as long as you have the appropriate authority to act, such as being named executor or holding power of attorney, reaching out on behalf of an estate or another owner is common."
+  },
+  {
+   "question": "Can I ask a general question without describing my specific ownership?",
+   "answer": "Yes, general questions about how the process works, what documents matter, or how leasing compares to selling are welcome without any ownership details attached."
+  }
+ ],
+ "wordCount": 907,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-themineralrightsbroker-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

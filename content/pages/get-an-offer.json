@@ -1,0 +1,87 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get a Mineral Rights Offer | Free, No Obligation",
+ "metaDescription": "Tell us what you own and where, and get an honest read on current market activity for your mineral or royalty interest, with no cost and no obligation to sell.",
+ "heroLead": "Tell us what you own. We'll tell you what the current market actually looks like for it, no obligation attached.",
+ "intro": [
+  "Getting a read on your mineral or royalty interest costs nothing and doesn't require signing anything. Share what you know, county, approximate net mineral acres, whether it's producing, and any documents you already have, and we'll come back with an honest assessment of where your interest stands against current activity, along with what your realistic options look like."
+ ],
+ "sections": [
+  {
+   "heading": "What we need from you",
+   "paragraphs": [
+    "The more you can share upfront, county and state, approximate net mineral acres, producing or non-producing, any recent royalty statements or an existing offer you've received, the faster and more useful the read back to you will be. If you don't have all of it, that's fine, we can often work from partial information and point you toward filling in the rest.",
+    "If you already have an offer in hand from another buyer, send that too. Getting it checked against current activity costs nothing and doesn't commit you to anything, including working with us."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We review what you've sent, check it against recent activity in that county or play, and get back to you with a straightforward read: whether the interest looks like it's positioned for a strong process, what a reasonable range might look like given current conditions, and whether listing broadly, taking a specific offer, or leasing instead fits your situation best.",
+    "There's no pressure to move quickly on our end. If the honest answer is that now isn't the right time, because there's no near-term activity nearby or the numbers don't currently support a strong outcome, we'll say that plainly rather than push a deal that doesn't serve you."
+   ]
+  },
+  {
+   "heading": "Comparing this to a mailer offer",
+   "paragraphs": [
+    "If a mailer offer landed in your hands before you found this page, the comparison is straightforward: send us the same ownership details and we'll tell you honestly whether that number looks competitive against current activity nearby. If it does, we'll say so. If it doesn't, you'll know before you sign anything back.",
+    "This isn't about pressuring you away from a direct sale. Some mailer offers are fair, and some interests are small enough that comparison shopping isn't worth the time it takes. What matters is that the decision gets made with a real comparison point, rather than only the one number that happened to arrive in your mailbox first."
+   ]
+  },
+  {
+   "heading": "What we won't ask you to do",
+   "paragraphs": [
+    "We won't ask you to sign anything before you understand the fee and the process, and we won't ask for sensitive financial or identification numbers in an initial inquiry. If a conversation ever starts to feel rushed or vague about basic terms, that's worth pausing on, whether it's with us or anyone else you're talking to.",
+    "The goal of this page is to get you a real answer, not to move you toward a decision faster than you're ready to make one."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost or obligation to get a read on my interest?",
+   "answer": "No, the initial review is free and doesn't obligate you to sell, list, or work with us at all. It's simply information to help you make a decision."
+  },
+  {
+   "question": "I already have an offer from another company. Can you check it?",
+   "answer": "Yes, sending an existing offer for review is common and costs nothing. We'll tell you honestly whether it looks competitive against current activity."
+  },
+  {
+   "question": "How quickly will I hear back?",
+   "answer": "Most owners hear back within a few business days, sometimes sooner depending on how much information is included in the initial request and how much research the county requires."
+  },
+  {
+   "question": "What if I'm not sure exactly what I own?",
+   "answer": "That's common, especially for inherited interests. Share whatever you have, a deed, a check stub, even just the county and an approximate acreage, and we'll help you sort out the rest."
+  },
+  {
+   "question": "Do you only work with producing mineral interests?",
+   "answer": "No, we work with both producing and non-producing interests, though the process and realistic outcomes differ depending on whether there's an existing payment history to evaluate."
+  },
+  {
+   "question": "What information should I avoid sending over email or an online form?",
+   "answer": "Avoid sending sensitive personal identifiers like a full Social Security number in an initial inquiry. Ownership details, county, acreage, and document copies are sufficient to start, and anything more sensitive can be handled securely later in the process if needed."
+  },
+  {
+   "question": "Do you charge for reviewing an offer I already have?",
+   "answer": "No, reviewing an existing offer against current market activity is part of the same free, no-obligation process as any other inquiry."
+  },
+  {
+   "question": "What if my interest turns out not to be worth pursuing right now?",
+   "answer": "We'll tell you that directly, along with what would need to change, new nearby activity, a stronger commodity price environment, for that to shift, rather than stringing the conversation along."
+  },
+  {
+   "question": "Can I get a read on an interest I'm considering leasing instead of selling?",
+   "answer": "Yes, the same initial review applies whether you're leaning toward leasing, selling, or genuinely unsure, and we'll frame the answer around whichever question you're actually trying to decide."
+  }
+ ],
+ "wordCount": 888,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-themineralrightsbroker-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

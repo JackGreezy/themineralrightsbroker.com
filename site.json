@@ -1,0 +1,20 @@
+{
+ "domain": "themineralrightsbroker.com",
+ "keyword": "mineral rights broker",
+ "segment": "national-broker",
+ "intent": "commercial",
+ "tier": "Top priority",
+ "available": true,
+ "voice": "family-office-advisor: portfolio framing, after-tax outcomes, patient tone",
+ "angle": "broker/listing model vs direct sale; fee transparency",
+ "taxonomyCounts": {
+  "locations": 24,
+  "basins": 23,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 80,
+ "status": "scaffold"
+}

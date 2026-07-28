@@ -1,0 +1,87 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Mineral Rights Are Appraised: Methods Explained",
+ "metaDescription": "The main approaches used to value mineral and royalty interests, including income capitalization, discounted cash flow, and comparable sales, and when each applies.",
+ "heroLead": "Mineral appraisal isn't one formula. Which method applies depends heavily on whether the interest is producing, leased, or undeveloped.",
+ "intro": [
+  "Formal mineral appraisals matter most in estate settlements, divorces, and disputes, where a defensible, documented value is required rather than just a purchase offer. Even outside those situations, understanding the methods appraisers actually use helps make sense of why offers on the same interest can vary as much as they do. We are not licensed appraisers, and for estate or legal purposes a qualified mineral appraiser should always be engaged directly."
+ ],
+ "sections": [
+  {
+   "heading": "Income capitalization approach",
+   "paragraphs": [
+    "For producing interests with an established payment history, the income approach takes recent monthly royalty income, projects it forward using an assumed decline rate based on the well's actual production curve, and capitalizes that stream into a present value using a discount rate that reflects the risk of the asset.",
+    "The decline rate assumption is where most of the disagreement between appraisers happens. A steeper assumed decline produces a lower valuation; a shallower one produces a higher valuation, and reasonable appraisers can land in meaningfully different places depending on how much of the well's actual production history they have to work from."
+   ]
+  },
+  {
+   "heading": "Discounted cash flow (DCF) modeling",
+   "paragraphs": [
+    "A more detailed variant of the income approach, DCF modeling projects month-by-month cash flows over the well's expected remaining life, sometimes incorporating multiple wells if the unit has more than one, then discounts each future cash flow back to present value individually rather than using a single blended multiple.",
+    "This method is more data-intensive and is typically used for larger interests or formal appraisal work, since it requires more granular production and pricing assumptions than a quick valuation needs."
+   ]
+  },
+  {
+   "heading": "Comparable sales approach",
+   "paragraphs": [
+    "For non-producing or lightly documented interests where there's little payment history to project, appraisers sometimes lean on recent comparable transactions in the same county or formation, similar to how real estate comps work, adjusted for differences in acreage position, depth, and lease status.",
+    "This approach is inherently rougher than the income method, since mineral sales aren't publicly recorded with price the way real estate sales often are, and true comparable data can be hard to access outside of industry deal flow."
+   ]
+  },
+  {
+   "heading": "Why appraised value and offer price can differ",
+   "paragraphs": [
+    "A formal appraisal produces a defensible, documented estimate for a specific purpose, an estate filing, a legal proceeding, an accounting requirement. A purchase offer reflects what one particular buyer is willing to pay right now, factoring in their own margin needs, portfolio fit, and how badly they want that specific position.",
+    "These two numbers are answering different questions, which is why an appraised value and a market offer on the same interest don't always match, and shouldn't be expected to."
+   ]
+  },
+  {
+   "heading": "What appraisers ask for",
+   "paragraphs": [
+    "A qualified mineral appraiser will typically request the deed showing your ownership, recent royalty statements if producing, the lease if one exists, and any information you have about nearby permitting or offset wells. The more complete the file, the more defensible the resulting appraisal, particularly if it needs to hold up under IRS or court scrutiny.",
+    "For date-of-death valuations tied to inherited minerals, the appraiser reconstructs value as of a specific historical date using production and pricing data from that period, which is a different exercise than valuing the interest as of today, and requires records covering that earlier window.",
+    "Appraisers working on estate matters sometimes need to reconstruct pricing and production data from years or decades in the past, which can require pulling historical state regulatory filings rather than relying on current operator statements. This retrospective work is a meaningfully different exercise than a present-day valuation and typically takes longer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "When do I actually need a formal mineral appraisal?",
+   "answer": "Most commonly for estate tax filings, establishing a stepped-up basis after inheritance, divorce settlements, or disputes among co-owners, where a documented, defensible value is required rather than just an offer."
+  },
+  {
+   "question": "How much does a formal mineral appraisal typically cost?",
+   "answer": "It varies with the complexity of the interest and how much production history exists, but it's generally a modest, flat or hourly fee relative to the size of most individual interests."
+  },
+  {
+   "question": "Can a broker's valuation substitute for a formal appraisal?",
+   "answer": "For estate, tax, or legal purposes, no, those situations typically require a qualified independent appraiser. For deciding whether an offer looks fair before selling, a broker's read on current market activity is a reasonable and free starting point."
+  },
+  {
+   "question": "Does the appraisal method change for non-producing minerals?",
+   "answer": "Yes, non-producing interests typically rely more on comparable sales and speculative drilling potential than on projected income, since there's no payment history yet to project forward."
+  },
+  {
+   "question": "Who is qualified to appraise mineral rights?",
+   "answer": "Petroleum engineers and mineral appraisers with specific experience valuing oil and gas interests, not general real estate or business appraisers, are the appropriate professionals for formal work."
+  },
+  {
+   "question": "How long does a formal mineral appraisal take?",
+   "answer": "Typically a few weeks, depending on how much production history and documentation is already available and how complex the ownership situation is."
+  },
+  {
+   "question": "Does an appraisal expire?",
+   "answer": "It doesn't expire in a legal sense, but a valuation tied to a specific date, useful for that year's tax filing, can become stale for current market purposes once activity or pricing shifts meaningfully."
+  }
+ ],
+ "wordCount": 898,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-themineralrightsbroker-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

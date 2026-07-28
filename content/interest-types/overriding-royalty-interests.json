@@ -1,0 +1,68 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Overriding Royalty Interests (ORRI): How They Work and Price",
+ "metaDescription": "An ORRI pays like a royalty but is carved from the leasehold, not the minerals, and it dies when the lease ends. Here's how that shapes value and risk.",
+ "heroLead": "An overriding royalty interest pays exactly like a royalty check but carries a built-in expiration date that a straight mineral royalty doesn't have.",
+ "intro": [
+  "An overriding royalty interest, almost always shortened to ORRI, is a share of production carved out of the leasehold estate rather than the mineral estate. It's created most often when a landman, geologist, or intermediate party assembles a lease and reserves a small royalty for themselves before assigning the lease to an operator, or when an operator sells or trades part of a lease and reserves an override on the piece they're giving up.",
+  "Functionally, an ORRI pays the same way a mineral owner's royalty does, a share of production, free of drilling and operating costs. Structurally, it's a fundamentally different kind of interest, and that difference shows up the moment the underlying lease stops being active."
+ ],
+ "sections": [
+  {
+   "heading": "How an ORRI Gets Carved Out of a Lease",
+   "paragraphs": [
+    "An ORRI is created out of the working interest, not the mineral estate. When someone holding a leasehold position, the right to drill under a specific lease, reserves a royalty for themselves before transferring that lease to another party, the reserved royalty becomes an override. It's an interest in that particular lease's production, not an interest in the minerals themselves, and the person creating it doesn't need to own any minerals at all to do so.",
+    "This is common in how deals get put together in the industry: a landman assembles acreage and leases, reserves a small ORRI as compensation, and sells the leasehold package to an operator who does the actual drilling. The operator drills, produces, and pays the override alongside the mineral owner's regular royalty."
+   ]
+  },
+  {
+   "heading": "The Defining Feature: It Dies With the Lease",
+   "paragraphs": [
+    "This is the single most important thing to understand about an ORRI. Because it's carved from the leasehold rather than the minerals, an overriding royalty interest exists only as long as the specific lease it came from stays in force. If that lease expires, terminates, or is released, without production, or after production ceases and the well is plugged, the ORRI terminates along with it. There's no reversion to a mineral estate, because the ORRI owner never held one.",
+    "Compare that to a mineral owner's royalty: if a lease expires, the mineral owner still owns the minerals and can lease again, recreating a royalty under the new lease. An ORRI owner has no such fallback. When the lease dies, the ORRI is simply gone, permanently, unless it happens to attach to a new lease by specific separate agreement, which is unusual."
+   ]
+  },
+  {
+   "heading": "ORRI vs. Royalty vs. NPRI: Where It Fits",
+   "paragraphs": [
+    "All three of these interests pay a share of production free of operating costs, which is why they're easy to confuse. The difference is in what each is carved from and how long it can last. A lessor's royalty comes from the mineral estate and can be recreated under a new lease because the mineral ownership survives. An NPRI is also carved from the mineral estate, typically by deed reservation, and likewise can outlast a single lease depending on its terms. An ORRI is carved from the leasehold itself and cannot outlast the lease it was born from, full stop.",
+    "For an owner deciding whether to hold or sell an ORRI, this structural ceiling on its lifespan is the central fact, not the current royalty rate or the current production numbers."
+   ]
+  },
+  {
+   "heading": "How Buyers Price the Lease-Life Risk",
+   "paragraphs": [
+    "Because an ORRI's value is entirely bounded by the remaining productive life of a specific lease and well, buyers price it more conservatively than they'd price an equivalent mineral royalty with the same current cash flow. A well with strong remaining reserves and years of production ahead supports a healthier valuation; a mature, late-life well nearing depletion or plugging carries real risk that the override's income simply stops with no path to renewal.",
+    "Sellers sometimes assume their ORRI should trade at the same multiple as a mineral royalty throwing off similar monthly income. It typically doesn't, and understanding why, the lease-dependency, before comparing offers avoids a mismatched expectation going into negotiations."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the well stops producing?",
+   "answer": "Once the underlying lease terminates, whether from the well being plugged, the lease expiring, or a release being filed, the ORRI terminates with it. There's no mineral ownership underneath an ORRI to fall back on."
+  },
+  {
+   "question": "Can I get an ORRI on a new lease if my old one expires?",
+   "answer": "Only if you separately negotiate and are granted a new override on the new lease, which isn't automatic. An ORRI doesn't carry forward to a replacement lease on its own."
+  },
+  {
+   "question": "How is an ORRI different from a mineral owner's royalty?",
+   "answer": "Both pay a cost-free share of production, but a mineral owner's royalty comes from owning the minerals themselves and can be recreated under future leases, while an ORRI is carved from the leasehold and expires permanently when that specific lease ends."
+  },
+  {
+   "question": "Do I need to own mineral rights to hold an ORRI?",
+   "answer": "No. An ORRI is created from the leasehold interest, not the mineral estate, so someone can hold an override without ever having owned any minerals at all."
+  }
+ ],
+ "status": "written",
+ "wordCount": 897,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-themineralrightsbroker-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

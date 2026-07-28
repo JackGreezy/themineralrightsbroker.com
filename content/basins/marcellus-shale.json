@@ -1,0 +1,76 @@
+{
+ "slug": "marcellus-shale",
+ "title": "Marcellus Shale Mineral Rights",
+ "type": "basin",
+ "group": "PA/WV",
+ "primaryKeyword": "marcellus shale mineral rights",
+ "seo": {
+  "vol": 10,
+  "cpc": 7.32
+ },
+ "metaTitle": "Marcellus Shale Mineral Rights: Dry vs Wet Gas Split",
+ "metaDescription": "Marcellus minerals in northeast Pennsylvania price differently than southwest PA or WV panhandle acreage. Know your gas type before evaluating an offer.",
+ "heroLead": "This play splits cleanly into two different markets depending on which corner of Appalachia you're in, and owners who don't know which side they're on tend to leave money on the table.",
+ "intro": [
+  "The Marcellus Shale underlies a huge swath of Appalachia, but it doesn't behave the same way everywhere. Northeastern Pennsylvania counties like Susquehanna, Bradford, and Tioga produce dry gas, with virtually no liquids to add value beyond the gas stream itself. Southwestern Pennsylvania and the West Virginia panhandle counties produce wetter gas rich in natural gas liquids, which typically fetch a better netback than dry gas alone. EQT is the largest operator basin-wide, with Coterra, Range Resources, Antero, and Chesapeake's successor Expand Energy all holding significant acreage across the play."
+ ],
+ "sections": [
+  {
+   "heading": "Dry gas northeast versus wet gas southwest",
+   "paragraphs": [
+    "If your minerals sit in Susquehanna or Bradford County, your royalty check is a pure play on Henry Hub gas pricing and whatever basis differential applies to gas moving out of northeastern Pennsylvania. That's straightforward to underwrite but offers no liquids upside when NGL prices are strong.",
+    "Southwest Pennsylvania and West Virginia panhandle wells producing into the wet gas window generate ethane, propane, and other liquids alongside methane, and those liquids sell against a different pricing structure than dry gas. When NGL prices are favorable relative to gas, wet-gas Marcellus royalty checks can meaningfully outperform dry gas checks even at similar total production volumes, which is worth understanding before comparing your own statement to a neighbor's or a national average."
+   ]
+  },
+  {
+   "heading": "The New York question",
+   "paragraphs": [
+    "New York state banned high-volume hydraulic fracturing in 2014, which means Marcellus minerals under New York counties along the Pennsylvania border are effectively stranded from development under current law. If you own minerals in a New York county near the productive Marcellus fairway, it's important to understand that no amount of nearby Pennsylvania activity changes your own development prospects unless the state policy changes, and any offer you receive should be evaluated with that reality front and center rather than assumed pricing based on cross-border activity."
+   ]
+  },
+  {
+   "heading": "Legacy leases and post-production deductions",
+   "paragraphs": [
+    "Appalachian leases signed during the early Marcellus boom years, roughly 2008 through 2012, often included royalty terms and post-production cost deduction language that has become a genuine point of dispute in Pennsylvania and West Virginia courts since. Deductions for gathering, compression, and processing can take a meaningful bite out of gross royalty value before you ever see a check, and the specific language in your lease determines how much the operator is entitled to deduct. Reviewing your actual lease terms, in addition to your check, is worth doing before any sale conversation."
+   ]
+  },
+  {
+   "heading": "What a listing process surfaces in a split market",
+   "paragraphs": [
+    "Because dry gas and wet gas Marcellus interests attract somewhat different buyer specialties, putting your interest in front of multiple buyers rather than accepting the first offer helps ensure you're reaching a buyer who actually understands your specific gas composition and deduction structure, rather than one pricing off a basin-wide average that doesn't reflect your actual net income."
+   ]
+  },
+  {
+   "heading": "Pipeline takeaway and the basis question",
+   "paragraphs": [
+    "Appalachian gas production grew so quickly during the Marcellus boom years that pipeline takeaway capacity struggled to keep pace for a stretch, creating real basis differentials between what producers in some parts of Pennsylvania and West Virginia actually realized at the wellhead versus national benchmark pricing. Additional pipeline projects completed over the past several years have eased some of that constraint, though capacity and differential pricing still vary meaningfully by county depending on which specific takeaway infrastructure serves your area. It's a factor worth asking about directly, since two neighboring counties can see different effective netbacks purely based on which pipeline system their gas moves through. It's a detail easy to overlook when comparing your check to a relative's in a nearby county, but it can explain a meaningful part of the gap, and it's a fair question to raise with any buyer whose offer seems to be pricing your gas at a national benchmark rather than your actual realized price."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is wet gas Marcellus acreage worth more than dry gas?",
+   "answer": "It often nets more per unit of production when NGL prices are strong, since liquids sell at a premium to dry gas alone, but this varies with commodity price cycles rather than being a fixed rule."
+  },
+  {
+   "question": "Can I sell minerals I own in New York state under the fracking ban?",
+   "answer": "Yes, ownership can still be sold or leased, but current state law prevents high-volume fracturing development, which limits near-term value compared to Pennsylvania or West Virginia acreage."
+  },
+  {
+   "question": "Why is my royalty check smaller than the gross value implies?",
+   "answer": "Post-production cost deductions for gathering, compression, and processing are common in Appalachian leases and can significantly reduce net royalty income; your specific lease language controls how much can be deducted."
+  },
+  {
+   "question": "Which operators are most active in the Marcellus right now?",
+   "answer": "EQT holds the largest overall position, with Coterra, Range Resources, Antero, and Expand Energy also running significant programs across different parts of the play."
+  }
+ ],
+ "status": "written",
+ "wordCount": 862,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-marcellus-shale-themineralrightsbroker-com.jpg",
+  "alt": "Marcellus Shale Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

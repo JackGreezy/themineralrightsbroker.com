@@ -1,0 +1,68 @@
+{
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "metaTitle": "Out-of-State Mineral Owners: Managing and Selling from Afar",
+ "metaDescription": "Managing mineral rights you've never seen, in a county you don't visit, has its own risks. Here's what absentee owners should know about tracking and selling.",
+ "heroLead": "Owning minerals in a county you've never set foot in works fine right up until something needs your attention and you're the hardest person on the list to reach.",
+ "intro": [
+  "Absentee ownership is the normal state of affairs for a large share of mineral owners. Interests get inherited by family members who moved away generations ago, or acquired as part of a larger estate that included land the current owner never visited. The acreage sits in a county that's just a name on a deed, managed entirely through mail, occasional phone calls, and whatever paperwork shows up unannounced.",
+  "That distance isn't necessarily a problem while everything runs smoothly. It becomes one the moment something requires a response, a pooling notice, a division order correction, a lease renewal offer, and the owner either doesn't see it in time or doesn't have the local context to know whether it's worth acting on."
+ ],
+ "sections": [
+  {
+   "heading": "What Gets Missed from a Distance",
+   "paragraphs": [
+    "Operators and county offices generally mail notices to whatever address is on file, and out-of-state owners who've moved, or whose contact information was never updated after an inheritance, can miss things entirely. Pooling and unitization notices, division order requests, and even royalty payments themselves can go to a stale address for years before anyone notices the checks stopped, or never started.",
+    "There's also a subtler cost: not knowing what's happening locally. An owner living in the county hears about new permits, new operators moving in, or neighbors getting approached to lease. An owner three states away finds out only when a letter arrives, if it arrives at all, which puts them at an information disadvantage in exactly the moments that matter most."
+   ]
+  },
+  {
+   "heading": "Escheatment and Unclaimed Property Risk",
+   "paragraphs": [
+    "When an operator can't locate a mineral or royalty owner, unpaid funds don't just sit indefinitely, they eventually get reported to the state as unclaimed property, a process called escheatment. Reclaiming funds after they've escheated to the state is possible but adds friction and delay that wouldn't exist if the owner's address had simply been current.",
+    "Out-of-state owners are disproportionately represented in unclaimed mineral proceeds for exactly this reason, distance plus outdated contact information is a common combination, and it's worth actively confirming your address is current with any operator paying you, rather than assuming the mail will eventually find you on its own."
+   ]
+  },
+  {
+   "heading": "Why Distance Makes a Quick Offer Tempting, and Risky",
+   "paragraphs": [
+    "A direct offer that arrives by mail, with a simple form to sign and return, is genuinely appealing to an owner who doesn't want to manage a courthouse or operator relationship from a thousand miles away. That convenience is real. But it's also exactly the situation a single buyer is counting on, someone unlikely to drive out and verify local activity, unlikely to easily compare the offer to anything else, and motivated to just be done with it.",
+    "The distance that makes management annoying doesn't have to make selling worse. A broker process can be run entirely by mail, phone, and email, the same way the ownership itself has been managed for years, without requiring the owner to be anywhere near the property."
+   ]
+  },
+  {
+   "heading": "A Remote-Friendly Path to Selling",
+   "paragraphs": [
+    "Selling from a distance works the same way as selling nearby: confirm title, get the interest in front of buyers who actively acquire in that specific county and play, let them bid, and close through a title company handling the paperwork by mail or electronically. None of the essential steps require the owner to be physically present, and the competitive part of the process, multiple buyers evaluating the same package, matters just as much for an absentee owner as it does for one living down the road from the acreage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if I'm missing royalty payments on minerals I own out of state?",
+   "answer": "Start by confirming your current address is on file with any operator you know is producing on your acreage, and check your state of residence's and the mineral's state's unclaimed property databases, since escheated funds are searchable and reclaimable."
+  },
+  {
+   "question": "Can I sell mineral rights entirely by mail without traveling to the county?",
+   "answer": "Yes, the vast majority of mineral sales close remotely through a title company, with documents signed by mail or electronically. Physical presence at the property or courthouse generally isn't required."
+  },
+  {
+   "question": "Is it harder to get a fair price on minerals I can't personally monitor?",
+   "answer": "Not if you use a process that does the local monitoring for you, checking recent permits, nearby lease activity, and comparable sales in that specific county before pricing the interest, rather than relying solely on whatever a single buyer tells you."
+  },
+  {
+   "question": "What should I do first if I inherited out-of-state minerals I know nothing about?",
+   "answer": "Confirm the legal description and county from the deed or estate documents, verify title is clear in your name, and check whether the acreage is currently leased or producing before deciding whether to hold or sell."
+  }
+ ],
+ "status": "written",
+ "wordCount": 850,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-themineralrightsbroker-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

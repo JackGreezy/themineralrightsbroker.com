@@ -1,0 +1,77 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Mineral Rights Broker | Sell or List for a Competitive Offer",
+ "metaDescription": "Work with a mineral rights broker instead of a single mailer buyer. Disclosed fees, multiple buyers, and a clear read on selling versus leasing.",
+ "heroLead": "Most mineral owners only ever see one offer. We put your interest in front of more than one, and we tell you exactly what that costs.",
+ "intro": [
+  "If you own mineral or royalty interests, chances are you've received at least one unsolicited offer in the mail. What you probably haven't received is a clear explanation of how that number was reached, whether it's competitive, or what your alternatives actually look like. That's the gap a mineral rights broker is built to close.",
+  "We work on a listing model rather than a single-buyer model. Instead of making you one offer priced to our own margin, we take your ownership details, position them against current activity in your county or play, and work multiple potential buyers toward a competitive closing price. Our fee is disclosed upfront, taken as a percentage of proceeds at closing, not buried in deductions you find out about after the fact."
+ ],
+ "sections": [
+  {
+   "heading": "The broker model, in plain terms",
+   "paragraphs": [
+    "A direct buyer and a broker solve different problems for you. A direct buyer wants to acquire your interest for their own portfolio, at a price that works for their margin, and there's no built-in mechanism pushing that number toward what the broader market would pay. That's not necessarily dishonest, it's just structurally a single data point.",
+    "A broker's job is different: represent the owner, not a single buyer's book. We gather the same ownership and activity information a buyer would want, then put it in front of several buyers who are actively looking for that kind of position, whether that's cash flow, basin inventory, or a specific formation. The result tends to be a tighter, more competitive number, because more than one buyer has to be willing to pay it.",
+    "None of this changes what your minerals actually are, drilling activity, decline curves, and commodity prices set the real ceiling and floor. What changes is whether one buyer sets the price in a vacuum, or several buyers compete for it."
+   ]
+  },
+  {
+   "heading": "Fee transparency, stated once and stated plainly",
+   "paragraphs": [
+    "We work on a disclosed fee taken as a percentage of the final closing price, agreed in writing before we list anything. There are no hidden deductions at closing, no surprise line items, and no obligation to accept any offer we bring you. If nothing closes, you owe nothing.",
+    "Compare this against a direct mailer offer, where the number quoted is typically already net of whatever margin the buyer needs, with no visibility into how that margin was built in. The math that matters isn't the headline number on either path, it's what actually lands in your account after fees and costs on each one, and we'll walk through that comparison honestly, even when it points toward keeping a direct offer rather than listing."
+   ]
+  },
+  {
+   "heading": "When a direct sale actually wins",
+   "paragraphs": [
+    "We're not going to pretend a broker relationship is always the better path, because it isn't. A small, straightforward interest with an already-fair offer in hand and no time or interest in comparison shopping can reasonably just be closed direct, especially if the buyer's terms are clean and the timeline works for you.",
+    "Direct sale also tends to make more sense when speed matters more than maximizing the last few percentage points of value, an estate that needs to close quickly, or an owner who simply wants the transaction finished without additional conversations. We'll tell you plainly if that's what your situation looks like, rather than pushing a listing that doesn't serve you."
+   ]
+  },
+  {
+   "heading": "Where we start",
+   "paragraphs": [
+    "Every conversation starts with understanding what you actually own: fee minerals or a royalty carved from a lease, producing or non-producing, and where the tract sits relative to current activity in that county or formation. From there we give you an honest read on whether listing broadly, taking a specific offer, or leasing instead makes the most sense for your situation.",
+    "That read costs nothing and doesn't commit you to anything. Owners who've inherited a fractional interest with no paperwork, owners comparing a mailer offer against what else might be out there, and owners settling an estate all start in roughly the same place: a plain conversation about what they own and what their real options are."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What does it cost to work with a mineral rights broker?",
+   "answer": "Our fee is a disclosed percentage of the final closing price, agreed in writing before anything is listed, and it's only owed if a sale actually closes."
+  },
+  {
+   "question": "Is listing always better than taking a direct offer?",
+   "answer": "No. Small, straightforward interests with a fair offer already on the table sometimes make more sense to close direct, and we'll tell you honestly when that's the case rather than push a listing that doesn't help you."
+  },
+  {
+   "question": "How is a brokered sale different from selling to the company that mailed me an offer?",
+   "answer": "A direct buyer prices to their own margin with no competing bid. A broker puts your interest in front of multiple potential buyers, which tends to produce a more competitive number, in exchange for a disclosed fee at closing."
+  },
+  {
+   "question": "Do you buy mineral rights yourselves?",
+   "answer": "Our role is representing owners in the listing and sale process, not acting as a single buyer pricing to our own book, which is the structural difference between a broker and a direct buyer."
+  },
+  {
+   "question": "What if I'm not sure whether to sell or lease?",
+   "answer": "That's a normal starting point. We'll walk through the tradeoffs for your specific interest, producing status, activity nearby, and your own timeline, before any decision about listing or selling gets made."
+  },
+  {
+   "question": "How long does the process typically take?",
+   "answer": "From an initial conversation to a closed sale, timelines typically run a few weeks to a couple months depending on title complexity and how quickly buyer interest develops for your specific position."
+  }
+ ],
+ "wordCount": 993,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-themineralrightsbroker-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

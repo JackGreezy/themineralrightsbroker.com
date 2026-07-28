@@ -1,0 +1,84 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How the Listing Process Works | Mineral Rights Broker",
+ "metaDescription": "Step-by-step: what happens after you contact us, how we position your mineral interest with buyers, and what closing actually involves.",
+ "heroLead": "Here's the listing process in the order it actually happens, no vague promises about what comes next.",
+ "intro": [
+  "Owners considering a broker relationship usually want to know exactly what they're signing up for before the first conversation goes anywhere. This page walks through each stage in order, from the initial call through a recorded deed, so there are no surprises about what we do, what you do, and when fees actually come into play."
+ ],
+ "sections": [
+  {
+   "heading": "The first call: ownership review",
+   "paragraphs": [
+    "We start with a straightforward conversation about what you own: county, approximate net mineral acres, whether the interest is producing, and any documents you already have on hand, a deed, a division order, recent royalty statements. Nothing is required to have this conversation, and it doesn't commit you to anything.",
+    "If you're missing paperwork, that's normal, especially for inherited or long-held interests, and we'll point you toward where to get it, usually the county clerk's office where the minerals sit, rather than making it a blocker to the conversation."
+   ]
+  },
+  {
+   "heading": "Checking your interest against nearby activity",
+   "paragraphs": [
+    "Once we understand your ownership, we look at what's actually happening near the tract: permits, recent completions, offset production, and how the interest compares to other positions we've seen move recently in that county or play. This is what lets us give you an honest read rather than a generic number.",
+    "For producing interests, recent royalty statements do a lot of this work for us, since they show real cash flow rather than a projection. For non-producing interests, we're weighing activity and lease status nearby instead.",
+    "This step is also where non-producing interests get treated differently than producing ones. Without a payment history to project, we're weighing permit filings, offset production, and lease activity on nearby tracts to give you a realistic sense of interest before any listing goes out."
+   ]
+  },
+  {
+   "heading": "Putting the fee arrangement in writing",
+   "paragraphs": [
+    "If listing broadly makes sense for your situation, we put the fee arrangement in writing before doing anything further, a stated percentage of the final closing price, owed only if a sale closes. Nothing about this fee changes once buyers are engaged, there's no renegotiating it after the fact.",
+    "This is also the point where we're direct about whether a listing actually makes sense versus taking a specific offer you already have in hand. Not every interest benefits from a broad marketing process, and we'd rather tell you that now than after signing an agreement."
+   ]
+  },
+  {
+   "heading": "Presenting your interest to buyers",
+   "paragraphs": [
+    "With the listing agreement in place, we present your interest to buyers actively looking for that kind of position, cash flow, inventory, a specific basin or formation, and manage the back-and-forth so you're not fielding a dozen separate calls yourself. You see every offer that comes in, with our read on how it compares.",
+    "You decide which offer to accept, or whether to counter, at every step. Nothing gets accepted on your behalf.",
+    "Buyers who pass on an interest still tell us something useful, usually about depth, formation, or unit size preferences, and that feedback shapes how we present the same interest to the next round of buyers if the first pass doesn't produce a strong offer."
+   ]
+  },
+  {
+   "heading": "Title work and getting the deed recorded",
+   "paragraphs": [
+    "Once an offer is accepted, the buyer's title work begins, confirming your deed history, checking for any heirship or chain-of-title gaps, and preparing the closing documents. If something surfaces here, an unprobated estate, an old ambiguous deed, we'll help you understand what's needed to resolve it rather than leaving you to figure it out alone.",
+    "Closing means signing and notarizing the deed, recording it at the county where the minerals sit, and receiving your proceeds, net of our disclosed fee, according to the timeline agreed in the closing documents."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I pay anything upfront to get started?",
+   "answer": "No, the initial ownership review and market read cost nothing, and our fee only applies to a closed sale, disclosed and agreed in writing before any listing begins."
+  },
+  {
+   "question": "Can I back out after signing a listing agreement?",
+   "answer": "Terms vary by agreement, but you are never obligated to accept any specific offer, and the listing agreement itself will state clearly what withdrawal looks like before you sign it."
+  },
+  {
+   "question": "How many buyers typically see my listing?",
+   "answer": "It depends on the interest and the play, but the goal is always more than one, since a single-buyer process is exactly what we're built to improve on."
+  },
+  {
+   "question": "What happens if title issues turn up during closing?",
+   "answer": "We'll walk you through what's needed to resolve it, whether that's a probate filing, an affidavit of heirship, or a curative deed, and connect you with an attorney if the situation calls for one."
+  },
+  {
+   "question": "Who handles recording the deed after closing?",
+   "answer": "The buyer or their title company typically handles recording as part of closing, and you should receive a recorded copy back as confirmation the transfer is complete."
+  },
+  {
+   "question": "Do you charge anything if a listing doesn't result in a sale?",
+   "answer": "No, our fee only applies to a closed sale. If nothing closes, nothing is owed."
+  }
+ ],
+ "wordCount": 865,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-themineralrightsbroker-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

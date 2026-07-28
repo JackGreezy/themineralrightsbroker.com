@@ -1,0 +1,83 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Your Royalty Statements",
+ "metaDescription": "A line-by-line guide to reading an oil and gas royalty statement, including the deduction lines most owners misunderstand or overlook.",
+ "heroLead": "Most owners glance at the total on a royalty check stub and skip the rest. The rest is where the real information is.",
+ "intro": [
+  "A royalty statement looks like a wall of numbers the first few times you see one, but it follows a consistent structure across most operators. Learning to read it properly tells you far more than the deposit total: which well is producing, how much it's declining, and what's actually being deducted before you get paid."
+ ],
+ "sections": [
+  {
+   "heading": "Production volume and price",
+   "paragraphs": [
+    "Near the top of most statements you'll find the well or unit identifier, the production month, and the volume produced in barrels of oil and/or mcf of gas, along with the price received per unit. Tracking this over several months is the clearest way to see a well's decline curve for yourself, rather than taking anyone's word for how fast it's falling off.",
+    "Price varies month to month with the broader market, so a lower check one month doesn't always mean declining production, it can just as easily mean a weaker price that month. Comparing volume trends separately from price trends over several statements clears this up."
+   ]
+  },
+  {
+   "heading": "Your decimal interest and gross value",
+   "paragraphs": [
+    "The statement applies your decimal interest, the same number confirmed on your division order, to the total production value to calculate your gross share before any deductions. If this decimal doesn't match what you signed on your division order, that's worth flagging with the operator directly.",
+    "Gross value is the number before deductions, and it's the figure to compare against prior months or against what a buyer might reference when discussing your interest's cash flow history."
+   ]
+  },
+  {
+   "heading": "The deduction lines",
+   "paragraphs": [
+    "This is the section most owners skip past, and it's usually labeled something like transportation, gathering, processing, or marketing deductions. These are costs the operator or purchaser incurs moving and preparing the product for sale, and depending on your specific lease language, some or all of them may be legally deductible from your royalty even though your lease describes a royalty free of production costs.",
+    "Severance and ad valorem taxes are typically shown separately from these operating deductions, and are standard, state-mandated deductions that apply regardless of lease terms. If deduction lines appear that seem inconsistent with your lease language, or that increase substantially with no explanation, that's worth a direct question to the operator's owner relations department."
+   ]
+  },
+  {
+   "heading": "Net payment and cumulative totals",
+   "paragraphs": [
+    "The final net amount is gross value minus deductions and taxes, and it's what actually gets deposited or mailed. Many statements also show a cumulative year-to-date total, useful for tax reporting and for tracking whether income is trending up or down over the course of the year.",
+    "Keeping statements organized by well and by year makes tax season easier and gives you real data if you ever want a buyer's offer checked against actual production history rather than a projection."
+   ]
+  },
+  {
+   "heading": "Using statements to spot problems early",
+   "paragraphs": [
+    "Comparing your decimal interest across several months of statements is a simple way to catch an error before it compounds. If the decimal shifts without an explanation, a unit amendment or ownership change you weren't told about, that's worth a direct call to the operator rather than assuming it's routine.",
+    "A sudden jump in deduction lines relative to prior months, without a corresponding change in production or a stated reason, is another pattern worth flagging. Most operators will explain the change once asked, and most discrepancies turn out to be clerical rather than deliberate, but catching it early avoids months of underpayment.",
+    "Some operators now provide statements through an online owner portal rather than mailed paper, which makes historical comparison easier since past months stay archived and searchable in one place rather than scattered across old mail."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check shrink even though I didn't sell anything?",
+   "answer": "Most often it's a combination of natural production decline, since wells produce less over time, and price fluctuations in oil and gas markets, both of which show up on the statement separately from any deduction issue."
+  },
+  {
+   "question": "What are post-production deductions?",
+   "answer": "Costs for gathering, transporting, processing, and marketing the oil or gas after it leaves the wellhead. Whether these can be deducted from your royalty depends on the specific language in your lease."
+  },
+  {
+   "question": "How often should I receive a royalty statement?",
+   "answer": "Most operators pay and report monthly for larger interests, though many states allow less frequent payment for very small amounts, often with a minimum threshold before a check is issued."
+  },
+  {
+   "question": "What should I do if the numbers on my statement don't add up?",
+   "answer": "Contact the operator's owner relations line directly with the specific well and statement date in hand. Most discrepancies are clerical and get resolved once flagged."
+  },
+  {
+   "question": "Do royalty statements help when getting an offer to sell?",
+   "answer": "Yes, recent statements are one of the most useful documents a buyer can review, since they show real cash flow history rather than an estimate."
+  },
+  {
+   "question": "Do all operators format royalty statements the same way?",
+   "answer": "No, formats vary by operator, though most include the same core elements: production volume, price, your decimal interest, deductions, and net payment, just arranged differently."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-themineralrightsbroker-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

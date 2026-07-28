@@ -1,0 +1,68 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Mineral Rights Actually Are and How They're Priced",
+ "metaDescription": "Mineral rights are ownership of what's below the surface, separate from the land itself. Here's what they include, how they pay, and how buyers price them.",
+ "heroLead": "Owning mineral rights means owning what's beneath the surface, not the surface itself, and that one distinction shapes everything else about how the asset works.",
+ "intro": [
+  "Mineral rights, sometimes called the mineral estate or mineral fee, are ownership of the oil, gas, and other minerals beneath a tract of land, held separately from ownership of the surface. In most oil and gas states, the mineral estate can be severed from the surface estate entirely, sold, leased, or inherited on its own path, independent of who owns the land above it.",
+  "For a family that's held mineral rights across generations, or for anyone who's just inherited or acquired an interest, understanding exactly what that ownership includes, and doesn't include, is the starting point for any decision about holding, leasing, or selling."
+ ],
+ "sections": [
+  {
+   "heading": "What the Mineral Estate Actually Owns",
+   "paragraphs": [
+    "Owning the mineral estate means owning the right to explore for, develop, and produce oil, gas, and typically other minerals under the tract, along with the income that production generates. It's a real property interest, recorded at the county courthouse like any deed, and it can be sold, gifted, inherited, or divided among multiple owners just like the surface estate can.",
+    "What it doesn't automatically include is the right to freely access the surface to drill, since in a split estate the surface may belong to someone else entirely. The mineral estate generally carries an implied right of reasonable use of the surface to develop the minerals, but that right is balanced against the surface owner's use of their land, which is where surface use agreements and, occasionally, disputes come in."
+   ]
+  },
+  {
+   "heading": "Executive Rights: Who Signs the Lease",
+   "paragraphs": [
+    "Executive rights are the authority to negotiate and sign an oil and gas lease on behalf of the mineral estate. Whole mineral owners typically hold their own executive rights. But mineral ownership is sometimes divided in a way that separates executive rights from a portion of the mineral interest, most commonly when a non-participating royalty interest is created, leaving one party to negotiate leases while another simply receives a royalty without a say in lease terms.",
+    "Knowing whether you hold executive rights over your interest, or whether someone else controls leasing decisions that affect you, matters for both current income and for how the interest gets valued in a sale."
+   ]
+  },
+  {
+   "heading": "How Mineral Owners Get Paid",
+   "paragraphs": [
+    "A mineral owner's income has three potential sources. A signing bonus, paid upfront when a lease is executed, regardless of whether drilling ever happens. Delay rentals, periodic payments in some leases to keep the lease active during the primary term without drilling, though many modern leases have moved away from this structure. And royalty, an ongoing share of production once a well is drilled and producing, paid free of drilling and operating costs but typically subject to post-production cost deductions depending on the lease language.",
+    "Only the last of these, royalty, represents ongoing income, and only if a well actually gets drilled. Bonus and delay rental payments are one-time or periodic amounts unrelated to whether production ever happens at all."
+   ]
+  },
+  {
+   "heading": "How Buyers Price Mineral Interests on Two Different Bases",
+   "paragraphs": [
+    "A producing mineral interest is valued primarily on its royalty income, using production history, remaining reserves, and decline curves to estimate future cash flow, then discounting that to a present value. A non-producing mineral interest has no income to base that on, so it's priced instead on the likelihood and timing of future leasing and drilling, informed by nearby permits, recent lease bonuses in the area, and where the tract sits relative to active development.",
+    "This split matters enormously for anyone comparing an offer against what they think their interest is worth. Producing and non-producing minerals aren't different tiers of the same valuation, they're valued by genuinely different methods, and knowing which basis applies to your interest is the first step to sanity-checking any number a buyer offers."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and a royalty interest?",
+   "answer": "Mineral rights are the full ownership interest, including executive rights to lease and the right to any bonus, delay rental, and royalty. A royalty interest is narrower, typically just the right to a share of production income, created when minerals are leased or when a royalty is carved out separately."
+  },
+  {
+   "question": "Can mineral rights be owned separately from the land above them?",
+   "answer": "Yes, in most oil and gas producing states mineral rights can be severed from surface ownership, meaning one person can own the surface while a different person or family owns the minerals underneath, each recorded and transferred independently."
+  },
+  {
+   "question": "Do I need to own the surface to sell my mineral rights?",
+   "answer": "No, mineral and surface ownership are entirely independent for sale purposes. You can sell mineral rights without owning or ever having owned the surface above them."
+  },
+  {
+   "question": "How do I find out if my mineral rights are leased or producing?",
+   "answer": "The county clerk's records in the county where the minerals are located will show any recorded lease. If the interest is producing, you should also be receiving division order statements from the operator showing your share of production."
+  }
+ ],
+ "status": "written",
+ "wordCount": 877,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-themineralrightsbroker-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

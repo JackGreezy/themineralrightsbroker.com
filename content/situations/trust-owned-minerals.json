@@ -1,0 +1,72 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Trust-Owned Mineral Rights: A Trustee's Guide to Selling",
+ "metaDescription": "Trustees selling mineral interests owe beneficiaries a prudent-investor duty. See how trust authority, diversification, and a documented sale process work together.",
+ "heroLead": "A trustee holding mineral rights answers to beneficiaries who may never see the property, only the decisions made about it, which makes documentation the whole game.",
+ "intro": [
+  "Trusts end up holding mineral interests for a handful of common reasons: a settlor placed family land or royalty interests into the trust during estate planning, a trust inherited fractional interests from a related estate, or a testamentary trust was created specifically to hold and manage mineral income for beneficiaries who weren't ready to receive it outright. Whatever the origin, the trustee's authority and duties around that asset come from two places: the trust instrument itself and the state's trust code.",
+  "Unlike an individual owner who can sell or hold for any reason, a trustee is bound by fiduciary standards that shape how the sale decision gets made and documented, even when the trustee is also a beneficiary."
+ ],
+ "sections": [
+  {
+   "heading": "What the Trust Instrument Actually Authorizes",
+   "paragraphs": [
+    "The first step is reading the trust document itself, not assuming standard powers apply. Some trusts explicitly authorize the trustee to sell mineral and royalty interests without further consent; others require notifying beneficiaries, obtaining consent from a majority, or even seeking court approval for certain transactions. A trustee who sells outside the scope of their granted authority can face a breach of trust claim even if the sale price was fair.",
+    "If the trust is silent on mineral interests specifically, most state trust codes default to giving the trustee reasonably broad power to manage and dispose of trust property, but 'reasonable' is doing a lot of work in that sentence, and it's worth getting the trust's own attorney to confirm the read before moving forward."
+   ]
+  },
+  {
+   "heading": "The Prudent Investor Rule and Concentration Risk",
+   "paragraphs": [
+    "Most states have adopted some version of the Uniform Prudent Investor Act, which asks trustees to manage trust assets as part of an overall portfolio rather than evaluating each asset in isolation. A mineral interest that represents a large, undiversified slice of the trust's total value, especially a non-producing or single-well interest with no income and real depletion risk, can itself become a prudent-investor problem regardless of how the interest was acquired.",
+    "This framing matters for how the sale gets justified. It isn't only about getting a good price, it's about whether continuing to hold a concentrated, illiquid, depleting asset serves the trust's diversification and income objectives compared to converting it to cash or a more liquid investment, and that broader framing is what a reviewing court or successor trustee will ultimately weigh."
+   ]
+  },
+  {
+   "heading": "Beneficiary Consent and Notice",
+   "paragraphs": [
+    "Even where the trust doesn't legally require beneficiary consent, notifying beneficiaries of a planned mineral sale and giving them a chance to raise concerns before closing is standard practice for a careful trustee. It reduces the odds of a later accounting dispute and creates a paper trail showing the trustee acted transparently, which matters if a beneficiary ever questions the trustee's judgment years down the road.",
+    "For trusts with multiple beneficiaries who may have different priorities, some wanting income preserved, others wanting the trust to hold less risk, documented communication about why the sale is happening tends to prevent disputes before they start."
+   ]
+  },
+  {
+   "heading": "Building a Sale Record That Protects the Trustee",
+   "paragraphs": [
+    "A trustee who sells a mineral interest to the first buyer who calls, without comparing that offer to anything else, is exposed if the sale is ever reviewed by a successor trustee, a beneficiary's attorney, or a court. A listing process that generates multiple bids from active buyers creates exactly the kind of record a prudent trustee wants on file: evidence that the trust tested the market rather than accepted an unverified number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can a trustee sell mineral rights without beneficiary approval?",
+   "answer": "It depends entirely on the trust instrument and state law. Some trusts grant broad discretionary authority; others require notice or consent for real property transactions. Review the trust document with the trust's attorney before proceeding."
+  },
+  {
+   "question": "What is the prudent investor rule and how does it apply here?",
+   "answer": "It's a standard, adopted in most states, requiring trustees to manage assets with the care of a prudent investor considering the overall portfolio, including diversification. A concentrated, non-producing mineral interest can raise prudent-investor concerns independent of its market value."
+  },
+  {
+   "question": "Does the trustee need a formal appraisal before selling?",
+   "answer": "Not always required by statute, but a documented valuation, whether from an appraisal or a competitive listing process with multiple bids, gives the trustee a defensible record that the sale price reflected market conditions."
+  },
+  {
+   "question": "How do sale proceeds get treated within the trust?",
+   "answer": "Typically the proceeds are reinvested or distributed according to the trust's income and principal provisions, which can differ from how the mineral royalty income itself was classified and distributed while the trust held the interest."
+  },
+  {
+   "question": "What if beneficiaries disagree about whether to sell?",
+   "answer": "The trustee ultimately has to exercise independent judgment consistent with fiduciary duty, but documenting that all beneficiaries were consulted and that the sale was market-tested tends to resolve disagreements faster than a unilateral decision would."
+  }
+ ],
+ "status": "written",
+ "wordCount": 857,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-themineralrightsbroker-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer: How It Works",
+ "metaDescription": "What a mineral deed actually does, how title transfer and recording work at the courthouse, and the title issues that most often slow down a sale.",
+ "heroLead": "A mineral sale isn't final until a deed is recorded at the courthouse. Everything before that is negotiation.",
+ "intro": [
+  "The mineral deed is the legal instrument that actually moves ownership from seller to buyer. It's a short document by page count, but every word in the legal description and the granting clause matters, because it's what a title examiner will read decades from now when the next transaction happens. This page covers how deeds and recording actually work, and the title issues that most commonly stall a closing."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed does and doesn't convey",
+   "paragraphs": [
+    "A mineral deed conveys ownership of the minerals themselves, separate from the surface estate, which is why mineral and surface ownership can be, and often are, held by entirely different people. The deed needs to state clearly what's being conveyed: all minerals, or a specific fraction; a specific formation or depth; and whether any existing lease and its royalty stream come with it.",
+    "Vague or generic legal descriptions cause real problems. A deed that doesn't match the county's recorded legal description of the tract, down to the section, township, and range, can create a title defect that surfaces years later when someone tries to sell or lease again."
+   ]
+  },
+  {
+   "heading": "Recording and why it matters",
+   "paragraphs": [
+    "Once signed and notarized, the deed has to be recorded in the county where the minerals are physically located, not where the seller or buyer lives. Recording puts the transfer on the public record and establishes priority against any later competing claim, which is why timing matters, a deed sitting unrecorded in someone's desk drawer offers no real protection.",
+    "Most buyers, or their title company, handle recording as part of closing. It's worth confirming this happened and getting a recorded copy back, since the county clerk's stamped copy is the proof that the transfer is complete and public."
+   ]
+  },
+  {
+   "heading": "The title issues that most often slow a closing",
+   "paragraphs": [
+    "Unprobated estates are the most common holdup. If a prior owner died and the minerals were never formally probated in the county where they sit, even if the family has informally treated the interest as belonging to a specific heir for years, a title examiner will require that gap to be resolved before insuring title.",
+    "Old, broad, or ambiguous prior conveyances are the second most common issue, particularly deeds from decades ago that reserved minerals in language that's since been interpreted differently by courts, or that didn't clearly specify depth or formation. These don't always kill a deal, but they usually require a curative document or an attorney's title opinion before closing."
+   ]
+  },
+  {
+   "heading": "Special warranty vs. quitclaim deeds",
+   "paragraphs": [
+    "Most mineral sales use a special warranty deed, where the seller guarantees they haven't personally done anything to cloud title during their ownership, but doesn't guarantee against defects that existed before they acquired it. A quitclaim deed offers no guarantee at all, simply conveying whatever interest the seller happens to hold, and is more common in family transfers or when resolving an heirship situation than in an arm's-length sale.",
+    "Which deed type applies affects how much protection the buyer has, and buyers will typically price a quitclaim transfer more cautiously than a special warranty deed, since they're taking on more title risk without the seller's guarantee."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does it take for a deed to be recorded?",
+   "answer": "It varies by county, but most recordings post within days to a few weeks after the deed is submitted, and many counties now provide an online index to confirm once it's posted."
+  },
+  {
+   "question": "What's the difference between a mineral deed and a lease?",
+   "answer": "A deed transfers ownership permanently. A lease grants an operator temporary development rights for a set term in exchange for royalty and bonus, while ownership stays with the mineral owner."
+  },
+  {
+   "question": "Can I sell minerals if there's an unresolved heirship issue?",
+   "answer": "Often yes, but it typically has to be resolved first, either through formal probate, an affidavit of heirship where the state allows it, or another curative step, before a buyer's title company will insure the transaction."
+  },
+  {
+   "question": "Do I need title insurance when selling mineral rights?",
+   "answer": "The buyer typically arranges title work to protect their purchase; as the seller, your main responsibility is providing accurate deed history and resolving any known title gaps before closing."
+  },
+  {
+   "question": "What is a legal description and why does it matter so much?",
+   "answer": "It's the precise, surveyed description of the tract, typically by section, township, and range, that the deed uses to identify exactly what land the minerals sit under. An inaccurate description can create real title problems later."
+  },
+  {
+   "question": "What is a mineral deed reservation?",
+   "answer": "A reservation is language in a surface property deed where the seller keeps the minerals for themselves while conveying the surface, which is how mineral and surface ownership commonly split apart in the first place."
+  },
+  {
+   "question": "Can a mineral deed be corrected after it's recorded?",
+   "answer": "Yes, through a correction deed filed to fix a clerical error, though anything beyond a minor correction, like a disputed legal description, usually needs an attorney's involvement."
+  }
+ ],
+ "wordCount": 864,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-themineralrightsbroker-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

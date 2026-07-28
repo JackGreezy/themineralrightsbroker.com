@@ -1,0 +1,77 @@
+{
+ "slug": "delaware-basin",
+ "title": "Delaware Basin Mineral Rights",
+ "type": "basin",
+ "group": "TX/NM",
+ "primaryKeyword": "delaware basin mineral rights",
+ "seo": {
+  "vol": null,
+  "cpc": null
+ },
+ "metaTitle": "Delaware Basin Mineral Rights: Deep, Gassy, Still Hot",
+ "metaDescription": "Delaware Basin minerals in Reeves, Loving, Culberson, Lea, or Eddy county sit under some of the deepest, most active drilling in Texas and New Mexico.",
+ "heroLead": "The Delaware side of the Permian runs deeper, gassier, and more overpressured than its Midland counterpart, and the buyer pool has adjusted to price that difference rather than avoid it.",
+ "intro": [
+  "The Delaware Basin covers the western half of the Permian complex, stretching from Reeves, Loving, Culberson, and Ward counties in Texas across the state line into Lea and Eddy counties, New Mexico. Wolfcamp, Bone Spring, and Avalon Shale sections stack here at depths that often run several thousand feet deeper than equivalent zones in the Midland Basin, which changes both the drilling economics and who's willing to bid on the minerals underneath."
+ ],
+ "sections": [
+  {
+   "heading": "Depth changes who shows up to bid",
+   "paragraphs": [
+    "Deeper wells cost more to drill and complete, and the pressure regimes in the Delaware require different casing programs than shallower Midland Basin targets. That raises the operator break-even, which in turn narrows the field of mineral buyers to those comfortable underwriting higher-cost, higher-pressure production. It's still a competitive market — Matador, EOG, Coterra, Devon, and Occidental all run active programs here — but the bidding pool skews toward buyers who specialize in Delaware-specific risk rather than generalists.",
+    "New Mexico counties on the Lea and Eddy side see some of the tightest bidding in the entire basin right now, driven partly by state-level permitting stability compared to the regulatory churn some operators have faced in other western states."
+   ]
+  },
+  {
+   "heading": "Gas weighting and what it does to your check",
+   "paragraphs": [
+    "Delaware wells commonly produce a richer gas and NGL stream than Midland Basin wells, which means your royalty check is more exposed to gas price swings than an equivalent Midland interest would be. When gas prices soften, Delaware royalty checks feel it faster and harder than oil-weighted Midland positions, and that volatility is priced into acquisition offers whether or not the buyer says so directly.",
+    "It's worth pulling your own statements and separating oil, gas, and NGL volumes line by line before accepting any number. A buyer quoting off headline BOE production without breaking out the commodity mix is quoting against an assumption, not your actual cash flow."
+   ]
+  },
+  {
+   "heading": "Core versus flank inside the Delaware",
+   "paragraphs": [
+    "Reeves and Loving counties sit in the thickest, most consistently productive part of the play and see the deepest operator commitment. Move toward Culberson's western edge or the shallower northern Delaware fringe near the Central Basin Platform and well results get more variable, which thins the buyer pool accordingly. Where your tract sits relative to existing laterals and permitted units matters more here than almost anywhere else in the Permian, because the formation quality changes meaningfully over short distances."
+   ]
+  },
+  {
+   "heading": "Listing against direct offers in a technical play",
+   "paragraphs": [
+    "Because Delaware Basin economics require more specialized underwriting, a listed sale process can surface real spread between buyers who model the deep pressure regime accurately and those quoting off basin-wide averages. A direct offer from a generalist buyer is often pricing in a discount for uncertainty they haven't bothered to resolve — a targeted listing forces buyers who actually know the local geology to compete on their real numbers instead."
+   ]
+  },
+  {
+   "heading": "Water handling as a cost line worth understanding",
+   "paragraphs": [
+    "Delaware Basin wells produce substantial volumes of produced water alongside oil and gas, and managing that water, whether through disposal wells or recycling for future completions, has become a significant part of operator cost structure across Reeves, Loving, and Ward counties in particular. Some operators have built out extensive water infrastructure and midstream partnerships specifically to manage this, and areas with established water handling capacity tend to see more consistent development pace than areas where an operator would need to build that infrastructure from scratch. It's a less obvious factor than well spacing or bench depth, but it's worth asking about if you're trying to understand why development near your tract has moved faster or slower than a neighboring section with what looks like similar geology on paper."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Delaware Basin mineral value lower than Midland because of the extra drilling cost?",
+   "answer": "Not necessarily. Higher well costs are offset by strong per-well production in the core, so pricing depends more on your specific location and commodity mix than on which side of the Permian you're in."
+  },
+  {
+   "question": "Why do New Mexico counties sometimes see more buyer interest than Texas ones?",
+   "answer": "Some buyers weight New Mexico acreage favorably for permitting consistency, though this shifts with state policy and shouldn't be assumed to hold indefinitely."
+  },
+  {
+   "question": "How do I know if my tract is core or flank Delaware acreage?",
+   "answer": "Look at offset well results and permitted units filed near your section through the county clerk or state oil and gas commission records; a broker can pull and interpret this for you."
+  },
+  {
+   "question": "Does a gassier well mean a worse deal for me as a mineral owner?",
+   "answer": "Not automatically. It means your income is more sensitive to gas price cycles, which is a risk factor to understand and price into any sale decision rather than a reason to assume lower value."
+  }
+ ],
+ "status": "written",
+ "wordCount": 853,
+ "image": {
+  "src": "/images/basins/mineral-rights-basins-delaware-basin-themineralrightsbroker-com.jpg",
+  "alt": "Delaware Basin Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

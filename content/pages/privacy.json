@@ -1,0 +1,84 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Mineral Rights Broker",
+ "metaDescription": "How we collect, use, and protect information you share with us about your mineral rights, including what we do and don't do with your personal details.",
+ "heroLead": "A plain explanation of what information we collect when you reach out, and what we do, and don't do, with it.",
+ "intro": [
+  "This page explains, in plain language rather than dense legal boilerplate, what information we collect when you use this site or reach out about a mineral or royalty interest, how we use it, and what choices you have. If anything here is unclear, reaching out directly gets you a straight answer faster than parsing legal text."
+ ],
+ "sections": [
+  {
+   "heading": "What information we collect",
+   "paragraphs": [
+    "When you contact us through a form, phone call, or email, we collect what you choose to share: your name, contact information, and details about the mineral or royalty interest you're asking about, county, acreage, production status, and any documents you send along. We also collect basic technical information automatically when you visit the site, like browser type and general location, through standard analytics tools.",
+    "We do not ask for sensitive financial account numbers or full government identification numbers through this site, and you should avoid sending that kind of information through an unencrypted contact form or email in general, whether to us or anyone else."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "Information you share is used to respond to your specific inquiry, evaluate a mineral interest at your request, and, if you choose to move forward, facilitate a listing or sale process. We don't use it for purposes beyond what you'd reasonably expect from reaching out about your minerals.",
+    "We do not sell your personal information to third parties. If we share ownership details with a potential buyer as part of a listing process, that only happens with your knowledge, since it's a necessary part of getting your interest in front of buyers, not a separate data sale."
+   ]
+  },
+  {
+   "heading": "How information is protected",
+   "paragraphs": [
+    "We take reasonable technical and administrative measures to protect information you share with us, but no method of transmission or storage online is completely secure, and we can't guarantee absolute security any more than any other website or business handling similar information can.",
+    "Documents you send, deeds, statements, division orders, are used only for the purpose of evaluating and processing your specific request, and are not retained longer than reasonably necessary for that purpose or any legal recordkeeping requirement that applies."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask what information we have on file about you, ask us to correct inaccurate details, or ask us to delete information we're not otherwise required to retain, at any time by reaching out directly through the contact page.",
+    "Using this site or reaching out doesn't obligate you to continue any conversation, and you can stop communication at any point without needing to give a reason."
+   ]
+  },
+  {
+   "heading": "Third parties involved in a transaction",
+   "paragraphs": [
+    "If a listing moves forward, certain information necessarily gets shared with parties involved in closing, potential buyers evaluating your interest, title companies handling recording, and, where applicable, the operator handling division orders. This sharing is limited to what's needed to complete the specific transaction you've agreed to pursue, and isn't a broader data-sharing arrangement beyond that purpose.",
+    "We don't control the privacy practices of third parties you separately engage, your own attorney or CPA, for example, and any information you share with them directly is governed by their own policies, not this one.",
+    "If you'd like a copy of the specific information we hold about you, or want to understand exactly what was shared with a buyer or title company during a past transaction, reach out directly and we'll provide a clear accounting of it.",
+    "This policy applies to information collected through this website and direct communication with us. It doesn't extend to third-party sites we might link to for reference, which operate under their own separate privacy practices."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my personal information to other companies?",
+   "answer": "No, we do not sell personal information to third parties. Ownership details are only shared with a potential buyer as part of a listing process you've agreed to move forward with."
+  },
+  {
+   "question": "What happens to documents I send you, like deeds or royalty statements?",
+   "answer": "They're used solely to evaluate and process your specific request and are not retained longer than necessary for that purpose or any applicable legal recordkeeping requirement."
+  },
+  {
+   "question": "Can I ask you to delete my information?",
+   "answer": "Yes, reach out directly and we'll delete information we're not otherwise required to retain for legal or recordkeeping purposes."
+  },
+  {
+   "question": "Do you use cookies or tracking on this site?",
+   "answer": "We use standard analytics tools to understand general site usage, browser type and approximate location, which is common practice and not tied to sensitive personal or financial data."
+  },
+  {
+   "question": "Is my information safe when I submit a contact form?",
+   "answer": "We take reasonable measures to protect information you share, though no online transmission is ever completely guaranteed secure, which is why we recommend not sending highly sensitive identifiers through any web form."
+  },
+  {
+   "question": "Do you share my information with marketing partners?",
+   "answer": "No, information is used to respond to and process your specific inquiry, not shared with unrelated marketing partners."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-themineralrightsbroker-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
