@@ -10,36 +10,105 @@
     "exchange-1031": "Mineral 1031 Exchange Guides"
   },
   "scrub": [
-    ["lead.generation", "brokerage intake"],
-    ["\\bguarantee(d|s)?\\b", "document"],
-    ["\\bhighest offer\\b", "best-supported bid after normalization"],
-    ["\\bbest price\\b", "owner-selected economic outcome"],
-    ["\\binstant valuation\\b", "preliminary market review"],
-    ["\\bno risk\\b", "no obligation to accept"],
-    ["\\bexclusive buyer network\\b", "qualified bidder set"],
-    ["\\baward-winning\\b", "process-focused"],
-    ["\\bsince 19\\d\\d\\b", "with mineral transaction experience"],
-    ["K2 Space", "Mineral Rights Broker"],
-    ["\\bK2\\b", "the mandate desk"],
-    ["satellite", "mineral interest"],
-    ["spacecraft", "mineral interest"],
-    ["orbital", "transaction"],
-    ["mission", "mandate"],
-    ["payload", "sale schedule"],
-    ["Gravitas", "final bid round"],
-    ["Trinity", "documented sale process"]
+    [
+      "lead.generation",
+      "brokerage intake"
+    ],
+    [
+      "\\bguarantee(d|s)?\\b",
+      "document"
+    ],
+    [
+      "\\bhighest offer\\b",
+      "best-supported bid after normalization"
+    ],
+    [
+      "\\bbest price\\b",
+      "owner-selected economic outcome"
+    ],
+    [
+      "\\binstant valuation\\b",
+      "preliminary market review"
+    ],
+    [
+      "\\bno risk\\b",
+      "no obligation to accept"
+    ],
+    [
+      "\\bexclusive buyer network\\b",
+      "qualified bidder set"
+    ],
+    [
+      "\\baward-winning\\b",
+      "process-focused"
+    ],
+    [
+      "\\bsince 19\\d\\d\\b",
+      "with mineral transaction experience"
+    ],
+    [
+      "K2 Space",
+      "Mineral Rights Broker"
+    ],
+    [
+      "\\bK2\\b",
+      "the mandate desk"
+    ],
+    [
+      "satellite",
+      "mineral interest"
+    ],
+    [
+      "spacecraft",
+      "mineral interest"
+    ],
+    [
+      "orbital",
+      "transaction"
+    ],
+    [
+      "mission",
+      "mandate"
+    ],
+    [
+      "payload",
+      "sale schedule"
+    ],
+    [
+      "Gravitas",
+      "final bid round"
+    ],
+    [
+      "Trinity",
+      "documented sale process"
+    ]
   ],
   "heroes": [
-    ["Run the Sale as a Mandate, Not an Unsolicited Offer", "Define the interest, engagement scope, compensation, bid instructions, timetable, buyer qualifications, reserve choice, and closing standard before outreach begins."],
-    ["Make Every Bid Price the Same Interest", "A comparable bid set uses one schedule for counties, tracts, net mineral acres or fractions, royalty burdens, depths, formations, reservations, wells, and included rights."],
-    ["Normalize More Than the Headline Number", "Cash consideration belongs beside title adjustments, diligence rights, financing conditions, deposit terms, deed language, closing date, and post-effective-date revenue treatment."],
-    ["Keep the Owner's Decision Rights Visible", "The process should state who may receive materials, when bids expire, whether a round advances, what may be reserved, and when the owner can decline every proposal."],
-    ["Carry the Winning Bid Into an Exact Closing File", "The final bid, purchase agreement, title schedule, adjustment ledger, deed exhibit, settlement statement, funding condition, and payor notice must describe the same interest."]
+    [
+      "Run the Sale as a Mandate, Not an Unsolicited Offer",
+      "Define the interest, engagement scope, compensation, bid instructions, timetable, buyer qualifications, reserve choice, and closing standard before outreach begins."
+    ],
+    [
+      "Make Every Bid Price the Same Interest",
+      "A comparable bid set uses one schedule for counties, tracts, net mineral acres or fractions, royalty burdens, depths, formations, reservations, wells, and included rights."
+    ],
+    [
+      "Normalize More Than the Headline Number",
+      "Cash consideration belongs beside title adjustments, diligence rights, financing conditions, deposit terms, deed language, closing date, and post-effective-date revenue treatment."
+    ],
+    [
+      "Keep the Owner's Decision Rights Visible",
+      "The process should state who may receive materials, when bids expire, whether a round advances, what may be reserved, and when the owner can decline every proposal."
+    ],
+    [
+      "Carry the Winning Bid Into an Exact Closing File",
+      "The final bid, purchase agreement, title schedule, adjustment ledger, deed exhibit, settlement statement, funding condition, and payor notice must describe the same interest."
+    ]
   ],
   "copy": {
     "home_title": "Mineral Rights Broker | Fort Worth Sale Mandate Desk",
     "home_meta": "A Fort Worth mineral rights brokerage desk for engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.",
-    "home_hero_title": "Run the Sale as a Mandate, Not an Unsolicited Offer",
+  "home_hero_title": "Fort Worth Mineral Rights Broker for Controlled, Competitive Sales",
     "home_intro_title": "A Controlled Process Creates Comparable Decisions",
     "home_intro": "The brokerage file begins with a defined interest and a written process. Every bidder receives the same schedule, evidence, deadline, access rules, clarification channel, and required bid format.",
     "home_situations_title": "The Ownership Situation Sets the Process",
@@ -76,56 +145,151 @@
     "nf_cta": "Return to Mineral Rights Broker"
   },
   "form_fields": [
-    ["firstName", "text", "First name", true],
-    ["lastName", "text", "Last name", true],
-    ["emailAddress", "email", "Email address", true],
-    ["phoneNumber", "tel", "Phone number", true],
-    ["propertyLocation", "text", "County, state, and legal description if known", true],
-    ["fileEvidence", "text", "Operator, payor, decimal, acres, deed, lease, or existing offer clues", false],
-    ["propertyDetails", "textarea", "What you own, the decision you are considering, and any timing or confidentiality requirements", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
   ],
   "about_blocks": [
-    ["Define the Engagement Before Marketing Begins", "A brokerage file should state the property and interest in scope, the owner's decision authority, confidentiality rules, outreach permissions, engagement term, termination rights, compensation method, reimbursable costs, conflicts process, excluded buyers, reserve authority, and the point at which legal or tax advisers enter. A broker should not blur representation, acquisition, referral, and advisory roles."],
-    ["Build One Interest Schedule and One Data Room", "Every bidder should price the same counties, tracts, legal descriptions, net mineral acres or fractions, interest types, lease burdens, depths, formations, reservations, executive rights, units, wells, operator records, payor decimals, and included documents. Conflicts remain labeled assumptions until evidence resolves them."],
-    ["Qualify the Bidder Set Before Distributing the File", "Qualification is not a logo list. The mandate records the bidder's purchasing entity, authorized contact, target geography and interest type, confidentiality acceptance, proof of funds or financing posture when relevant, diligence capability, closing history, deed requirements, and ability to meet the timetable."],
-    ["Issue Common Instructions and Normalize Every Proposal", "A bid form should require consideration, deposit, expiration, title threshold, adjustment formula, excluded tracts or depths, diligence period, financing condition, document form, warranty request, closing date, funding method, and post-effective-date revenue treatment. Deviations belong on a comparison matrix rather than inside unread footnotes."],
-    ["Control Clarifications and the Final Round", "Questions should flow through one channel and material clarifications should reach the eligible bidder set on equal terms. A final round should identify the remaining bidders, submission deadline, required bid form, permitted revisions, reserve decision, and whether the owner may accept, reject, negotiate, pause, or end the process."],
-    ["Carry the Selected Terms Through Diligence and Closing", "The selected bid is only a handoff. The file tracks purchase agreement changes, title requirements, curative responsibility, acreage or decimal adjustments, deed and exhibit revisions, settlement math, signer authority, notarization, funding conditions, recording, operator or payor notices, and the first post-closing ownership confirmation."]
+    [
+      "Define the Engagement Before Marketing Begins",
+      "A brokerage file should state the property and interest in scope, the owner's decision authority, confidentiality rules, outreach permissions, engagement term, termination rights, compensation method, reimbursable costs, conflicts process, excluded buyers, reserve authority, and the point at which legal or tax advisers enter. A broker should not blur representation, acquisition, referral, and advisory roles."
+    ],
+    [
+      "Build One Interest Schedule and One Data Room",
+      "Every bidder should price the same counties, tracts, legal descriptions, net mineral acres or fractions, interest types, lease burdens, depths, formations, reservations, executive rights, units, wells, operator records, payor decimals, and included documents. Conflicts remain labeled assumptions until evidence resolves them."
+    ],
+    [
+      "Qualify the Bidder Set Before Distributing the File",
+      "Qualification is not a logo list. The mandate records the bidder's purchasing entity, authorized contact, target geography and interest type, confidentiality acceptance, proof of funds or financing posture when relevant, diligence capability, closing history, deed requirements, and ability to meet the timetable."
+    ],
+    [
+      "Issue Common Instructions and Normalize Every Proposal",
+      "A bid form should require consideration, deposit, expiration, title threshold, adjustment formula, excluded tracts or depths, diligence period, financing condition, document form, warranty request, closing date, funding method, and post-effective-date revenue treatment. Deviations belong on a comparison matrix rather than inside unread footnotes."
+    ],
+    [
+      "Control Clarifications and the Final Round",
+      "Questions should flow through one channel and material clarifications should reach the eligible bidder set on equal terms. A final round should identify the remaining bidders, submission deadline, required bid form, permitted revisions, reserve decision, and whether the owner may accept, reject, negotiate, pause, or end the process."
+    ],
+    [
+      "Carry the Selected Terms Through Diligence and Closing",
+      "The selected bid is only a handoff. The file tracks purchase agreement changes, title requirements, curative responsibility, acreage or decimal adjustments, deed and exhibit revisions, settlement math, signer authority, notarization, funding conditions, recording, operator or payor notices, and the first post-closing ownership confirmation."
+    ]
   ],
   "taxonomy_enrichment": {
     "situations": [
-      ["Set the Mandate Around the Actual Decision", "{name} changes who may authorize outreach, which documents can be shared, whether confidentiality matters, how fast the file can move, and which title or family approvals belong ahead of a bid round. The engagement should name the decision-maker, other owners, excluded interests, reserved rights, timing constraint, existing offers, and any buyer contacts that predate the broker. The process remains owner-controlled: receiving market evidence does not obligate acceptance."],
-      ["Separate Authority, Title, and Market Questions", "For {name}, the broker should not treat authority, title, and value as one question. Authority identifies who may engage and sign. Title work identifies what can be conveyed and what must be cured. Market outreach tests buyer demand for the scheduled interest under common instructions. Keeping those workstreams separate prevents a bidder's title assumption from quietly becoming the owner's representation."]
+      [
+        "Set the Mandate Around the Actual Decision",
+        "{name} changes who may authorize outreach, which documents can be shared, whether confidentiality matters, how fast the file can move, and which title or family approvals belong ahead of a bid round. The engagement should name the decision-maker, other owners, excluded interests, reserved rights, timing constraint, existing offers, and any buyer contacts that predate the broker. The process remains owner-controlled: receiving market evidence does not obligate acceptance."
+      ],
+      [
+        "Separate Authority, Title, and Market Questions",
+        "For {name}, the broker should not treat authority, title, and value as one question. Authority identifies who may engage and sign. Title work identifies what can be conveyed and what must be cured. Market outreach tests buyer demand for the scheduled interest under common instructions. Keeping those workstreams separate prevents a bidder's title assumption from quietly becoming the owner's representation."
+      ]
     ],
     "interest-types": [
-      ["Name Every Right Included and Every Right Reserved", "A sale process for {name} should identify the exact estate, royalty character, executive rights, bonus and delay-rental rights, development rights, liabilities, lease burdens, depth limits, formations, surface relationship, and reservations. The schedule should state whether the bid covers all rights or a defined fraction. Buyer interest is not comparable when one proposal assumes broader rights than another."],
-      ["Match the Bid Form to the Interest Type", "The bid instructions for {name} should require the bidder to state what is being priced, the deed or assignment form expected, title standard, adjustment mechanics, requested warranties, and closing conditions. A qualified bidder for fee minerals may not be the right bidder for a working interest, NPRI, or overriding royalty. The mandate records fit rather than forcing every interest into one buyer profile."]
+      [
+        "Name Every Right Included and Every Right Reserved",
+        "A sale process for {name} should identify the exact estate, royalty character, executive rights, bonus and delay-rental rights, development rights, liabilities, lease burdens, depth limits, formations, surface relationship, and reservations. The schedule should state whether the bid covers all rights or a defined fraction. Buyer interest is not comparable when one proposal assumes broader rights than another."
+      ],
+      [
+        "Match the Bid Form to the Interest Type",
+        "The bid instructions for {name} should require the bidder to state what is being priced, the deed or assignment form expected, title standard, adjustment mechanics, requested warranties, and closing conditions. A qualified bidder for fee minerals may not be the right bidder for a working interest, NPRI, or overriding royalty. The mandate records fit rather than forcing every interest into one buyer profile."
+      ]
     ],
     "basins": [
-      ["Use Basin Evidence to Frame Outreach, Not Replace Tract Facts", "For {name}, the data room should distinguish public basin context from subject-property evidence. Permits, offsets, operator programs, takeaway constraints, price differentials, formation targets, and recent transactions can help shape a bidder list and questions. The offered tract still requires its own county record, lease, unit, well, depth, decimal, and title schedule."],
-      ["Require Bidders to Label Development Assumptions", "A bidder valuing {name} should identify which existing production, permitted locations, probable development, commodity cases, timing, decline, costs, deductions, and discounting support its proposal when that detail is material. The broker's comparison matrix should not certify reserves; it should expose where bid differences come from so the owner and advisers can evaluate them."]
+      [
+        "Use Basin Evidence to Frame Outreach, Not Replace Tract Facts",
+        "For {name}, the data room should distinguish public basin context from subject-property evidence. Permits, offsets, operator programs, takeaway constraints, price differentials, formation targets, and recent transactions can help shape a bidder list and questions. The offered tract still requires its own county record, lease, unit, well, depth, decimal, and title schedule."
+      ],
+      [
+        "Require Bidders to Label Development Assumptions",
+        "A bidder valuing {name} should identify which existing production, permitted locations, probable development, commodity cases, timing, decline, costs, deductions, and discounting support its proposal when that detail is material. The broker's comparison matrix should not certify reserves; it should expose where bid differences come from so the owner and advisers can evaluate them."
+      ]
     ],
     "locations": [
-      ["Build the State File Before Expanding the Bidder Set", "A brokerage review of {name} begins with the applicable county recording system, deed chain, probate or trust records, lease and pooling documents, regulatory data, operator and payor records, unit descriptions, tax records, and local conveyance practice. The state label organizes the file, but each tract remains tied to its own legal description and recorded instruments."],
-      ["Make Local Requirements Part of the Timetable", "For {name}, the mandate should account for title evidence, curative instruments, entity or fiduciary authority, marital-property questions, acknowledgment and recording requirements, transfer taxes or fees when applicable, deed conventions, and operator notice procedures. A bid deadline is only useful when the parties understand which local items can affect closing."]
+      [
+        "Build the State File Before Expanding the Bidder Set",
+        "A brokerage review of {name} begins with the applicable county recording system, deed chain, probate or trust records, lease and pooling documents, regulatory data, operator and payor records, unit descriptions, tax records, and local conveyance practice. The state label organizes the file, but each tract remains tied to its own legal description and recorded instruments."
+      ],
+      [
+        "Make Local Requirements Part of the Timetable",
+        "For {name}, the mandate should account for title evidence, curative instruments, entity or fiduciary authority, marital-property questions, acknowledgment and recording requirements, transfer taxes or fees when applicable, deed conventions, and operator notice procedures. A bid deadline is only useful when the parties understand which local items can affect closing."
+      ]
     ],
     "resources": [
-      ["Turn the Guide Into a Deliverable", "For {name}, the useful output is not another generic article. It is a document request, owner question, schedule field, bid instruction, comparison-matrix column, diligence item, or closing checkpoint. The mandate desk uses the guide to show which fact belongs in the file, who supplies it, how bidders may interpret it, and what remains unresolved."],
-      ["Keep Advice Boundaries Clear", "{name} may raise legal, title, tax, appraisal, engineering, reserve, securities, or exchange questions. The broker can organize facts, process, and proposal terms without replacing the owner's attorney, accountant, title professional, engineer, appraiser, or qualified intermediary. The file should identify which adviser owns each conclusion."]
+      [
+        "Turn the Guide Into a Deliverable",
+        "For {name}, the useful output is not another generic article. It is a document request, owner question, schedule field, bid instruction, comparison-matrix column, diligence item, or closing checkpoint. The mandate desk uses the guide to show which fact belongs in the file, who supplies it, how bidders may interpret it, and what remains unresolved."
+      ],
+      [
+        "Keep Advice Boundaries Clear",
+        "{name} may raise legal, title, tax, appraisal, engineering, reserve, securities, or exchange questions. The broker can organize facts, process, and proposal terms without replacing the owner's attorney, accountant, title professional, engineer, appraiser, or qualified intermediary. The file should identify which adviser owns each conclusion."
+      ]
     ],
     "investing": [
-      ["Normalize Economics Before Ranking Bids", "For {name}, compare cash consideration with deposit, financing, title threshold, adjustment formula, excluded acreage or depths, effective date, post-effective-date revenue, deed warranty, diligence period, extension rights, closing date, and funding certainty. A lower headline bid can produce a stronger owner outcome if another proposal carries broader exclusions or more aggressive adjustment rights."],
-      ["Preserve a Written Audit Trail", "The analysis for {name} should retain the bid as received, clarification questions, bidder responses, normalized matrix, owner instructions, adviser comments, final-round changes, selected terms, and reasons material to the decision. The audit trail protects process discipline; it is not a promise that any buyer will close or that any bid reflects an appraised value."],
-      ["Distinguish a Market Test From an Investment Opinion", "{name} can help an owner understand how qualified bidders frame production, development potential, commodity exposure, decline, timing, burdens, and risk, but a bid process does not convert those assumptions into a reserve report or investment recommendation. The mandate desk records what each bidder priced, which evidence it reviewed, which assets it excluded, how long the proposal remains open, and which conditions can change the closing amount. The owner can then take the normalized evidence to independent legal, tax, engineering, appraisal, or investment advisers without confusing buyer underwriting with neutral advice."],
-      ["Stress-Test the Closing Outcome", "The comparison for {name} should model more than the amount printed on page one. It should show the effect of acreage or decimal adjustments, excluded depths, title thresholds, curative costs, retained production, effective-date revenue, deductions, extension options, financing conditions, deposit treatment, warranty exposure, and the possibility that diligence does not finish on schedule. No model can remove uncertainty. Its purpose is to make the owner-visible decision tree explicit: accept, reject, clarify, counter, advance a bidder, reserve part of the interest, revise the schedule, pause the process, or keep the property."],
-      ["Document the Inputs Before Debating the Result", "A useful review of {name} starts with a dated source list. That may include recorded deeds, probate or trust instruments, leases and amendments, pooling or unit orders, division orders, recent statements, check details, operator and payor contacts, well and permit data, tract maps, title notes, previous offers, correspondence, and the owner's description of rights to retain. Each input should be marked received, missing, superseded, conflicting, or assumed. The resulting matrix can then show whether a price difference comes from a different interest schedule, a different development case, a different commodity or timing view, or a different contractual allocation of title and closing risk. The mandate desk does not turn incomplete records into certainty. It makes incompleteness visible before the owner ranks proposals."]
+      [
+        "Normalize Economics Before Ranking Bids",
+        "For {name}, compare cash consideration with deposit, financing, title threshold, adjustment formula, excluded acreage or depths, effective date, post-effective-date revenue, deed warranty, diligence period, extension rights, closing date, and funding certainty. A lower headline bid can produce a stronger owner outcome if another proposal carries broader exclusions or more aggressive adjustment rights."
+      ],
+      [
+        "Preserve a Written Audit Trail",
+        "The analysis for {name} should retain the bid as received, clarification questions, bidder responses, normalized matrix, owner instructions, adviser comments, final-round changes, selected terms, and reasons material to the decision. The audit trail protects process discipline; it is not a promise that any buyer will close or that any bid reflects an appraised value."
+      ],
+      [
+        "Distinguish a Market Test From an Investment Opinion",
+        "{name} can help an owner understand how qualified bidders frame production, development potential, commodity exposure, decline, timing, burdens, and risk, but a bid process does not convert those assumptions into a reserve report or investment recommendation. The mandate desk records what each bidder priced, which evidence it reviewed, which assets it excluded, how long the proposal remains open, and which conditions can change the closing amount. The owner can then take the normalized evidence to independent legal, tax, engineering, appraisal, or investment advisers without confusing buyer underwriting with neutral advice."
+      ],
+      [
+        "Stress-Test the Closing Outcome",
+        "The comparison for {name} should model more than the amount printed on page one. It should show the effect of acreage or decimal adjustments, excluded depths, title thresholds, curative costs, retained production, effective-date revenue, deductions, extension options, financing conditions, deposit treatment, warranty exposure, and the possibility that diligence does not finish on schedule. No model can remove uncertainty. Its purpose is to make the owner-visible decision tree explicit: accept, reject, clarify, counter, advance a bidder, reserve part of the interest, revise the schedule, pause the process, or keep the property."
+      ],
+      [
+        "Document the Inputs Before Debating the Result",
+        "A useful review of {name} starts with a dated source list. That may include recorded deeds, probate or trust instruments, leases and amendments, pooling or unit orders, division orders, recent statements, check details, operator and payor contacts, well and permit data, tract maps, title notes, previous offers, correspondence, and the owner's description of rights to retain. Each input should be marked received, missing, superseded, conflicting, or assumed. The resulting matrix can then show whether a price difference comes from a different interest schedule, a different development case, a different commodity or timing view, or a different contractual allocation of title and closing risk. The mandate desk does not turn incomplete records into certainty. It makes incompleteness visible before the owner ranks proposals."
+      ]
     ],
     "exchange-1031": [
-      ["Coordinate Without Giving Exchange Advice", "For {name}, the brokerage file should keep the qualified intermediary, attorney, accountant, title or closing team, buyer, and owner working from the same current sale schedule, consideration estimate, adjustment status, vesting facts, and expected closing date. The owner's advisers control qualification and elections. The broker controls accurate handoffs and does not present exchange treatment as guaranteed."],
-      ["Keep Bid Timing and Exchange Timing Distinct", "{name} adds deadlines and assignment instructions, but it does not erase title diligence, buyer qualification, deed accuracy, or owner approval. The timetable should identify bid dates, purchase-agreement execution, anticipated closing, intermediary engagement, identification deadline, acquisition deadline, replacement-property decisions, and backup paths without letting a buyer use exchange pressure to change unapproved terms."],
-      ["Confirm the Parties, Vesting, and Funds Path Early", "A file involving {name} should identify the current record owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, taxpayer advisers, intended assignment language, and account through which sale proceeds are expected to move. Those details must be confirmed by the appropriate professionals before closing documents or wire instructions are treated as final. The brokerage desk can maintain the contact sheet, version history, decision deadlines, and document checklist; it cannot decide whether ownership, property character, related-party rules, debt, boot, replacement property, or a proposed structure satisfies tax law."],
-      ["Maintain a Base Closing and an Exchange Closing Plan", "For {name}, the owner should be able to see what happens if the exchange proceeds as planned and what happens if it does not. The working schedule should separate the mineral-sale purchase agreement, title and adjustment process, deed and exhibit, settlement statement, intermediary assignment, notice to the buyer, proceeds routing, replacement-property identification, acquisition deadline, and any permitted backup choices. A possible exchange should not make the mineral sale documents vague, and the mineral buyer should not receive authority to make tax elections for the owner."],
-      ["Control Version Changes Across the Closing Team", "The coordination file for {name} should record the current purchase agreement, assignment language, title schedule, deed exhibit, consideration estimate, adjustment ledger, closing statement, wiring protocol, adviser contact list, and deadline calendar. When the buyer changes acreage, excluded rights, price, effective date, diligence timing, or closing conditions, the broker should flag the change for the owner and the responsible advisers instead of allowing old figures to travel into intermediary or settlement documents. The same discipline applies when the owner changes vesting, reserves an interest, adds a signer, revises replacement-property plans, or decides not to pursue the exchange. Accurate version control does not establish tax qualification, but it reduces the chance that an otherwise deliberate decision is undermined by mismatched transaction documents."]
+      [
+        "Coordinate Without Giving Exchange Advice",
+        "For {name}, the brokerage file should keep the qualified intermediary, attorney, accountant, title or closing team, buyer, and owner working from the same current sale schedule, consideration estimate, adjustment status, vesting facts, and expected closing date. The owner's advisers control qualification and elections. The broker controls accurate handoffs and does not present exchange treatment as guaranteed."
+      ],
+      [
+        "Keep Bid Timing and Exchange Timing Distinct",
+        "{name} adds deadlines and assignment instructions, but it does not erase title diligence, buyer qualification, deed accuracy, or owner approval. The timetable should identify bid dates, purchase-agreement execution, anticipated closing, intermediary engagement, identification deadline, acquisition deadline, replacement-property decisions, and backup paths without letting a buyer use exchange pressure to change unapproved terms."
+      ],
+      [
+        "Confirm the Parties, Vesting, and Funds Path Early",
+        "A file involving {name} should identify the current record owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, taxpayer advisers, intended assignment language, and account through which sale proceeds are expected to move. Those details must be confirmed by the appropriate professionals before closing documents or wire instructions are treated as final. The brokerage desk can maintain the contact sheet, version history, decision deadlines, and document checklist; it cannot decide whether ownership, property character, related-party rules, debt, boot, replacement property, or a proposed structure satisfies tax law."
+      ],
+      [
+        "Maintain a Base Closing and an Exchange Closing Plan",
+        "For {name}, the owner should be able to see what happens if the exchange proceeds as planned and what happens if it does not. The working schedule should separate the mineral-sale purchase agreement, title and adjustment process, deed and exhibit, settlement statement, intermediary assignment, notice to the buyer, proceeds routing, replacement-property identification, acquisition deadline, and any permitted backup choices. A possible exchange should not make the mineral sale documents vague, and the mineral buyer should not receive authority to make tax elections for the owner."
+      ],
+      [
+        "Control Version Changes Across the Closing Team",
+        "The coordination file for {name} should record the current purchase agreement, assignment language, title schedule, deed exhibit, consideration estimate, adjustment ledger, closing statement, wiring protocol, adviser contact list, and deadline calendar. When the buyer changes acreage, excluded rights, price, effective date, diligence timing, or closing conditions, the broker should flag the change for the owner and the responsible advisers instead of allowing old figures to travel into intermediary or settlement documents. The same discipline applies when the owner changes vesting, reserves an interest, adds a signer, revises replacement-property plans, or decides not to pursue the exchange. Accurate version control does not establish tax qualification, but it reduces the chance that an otherwise deliberate decision is undermined by mismatched transaction documents."
+      ]
     ]
   },
   "_business_voice": "Write all company and educational copy in the business voice using we, our, and us. Never narrate as an individual in first-person singular. Customer-perspective FAQ questions may still use the customer voice."

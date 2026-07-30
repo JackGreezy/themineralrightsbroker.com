@@ -40,6 +40,10 @@ if os.path.isdir(source):
 PY
 
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
+python3 "$S/website_taste_fleet.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ"
+python3 "$S/footer_maps.py" --project "$PROJ" --check
+python3 "$S/website_taste_fleet.py" --project "$PROJ" --check
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 
 python3 - "$PROJ" <<'PY'
@@ -76,7 +80,7 @@ for page in pages:
         if forbidden.lower() in visible.lower():
             failures.append(f"{page.relative_to(project)}: visible forbidden text: {forbidden}")
     footer = soup.select_one("footer")
-    if footer and footer.select("img,picture,svg,video,canvas,iframe,source"):
+    if footer and footer.select("img,picture,svg,video,canvas,source"):
         failures.append(f"{page.relative_to(project)}: footer media must be zero")
     for image in soup.select("img"):
         try:
@@ -87,12 +91,11 @@ for page in pages:
         if (width and width <= 32) or (height and height <= 32):
             failures.append(f"{page.relative_to(project)}: miniature image regression: {image.get('src', '')}")
     maps = soup.select('iframe[src*="google.com/maps"]')
+    footer_maps = footer.select('iframe[src*="google.com/maps"]') if footer else []
     map_count += len(maps)
-    if page.name == "contact.html" and len(maps) != 1:
-        failures.append(f"{page.relative_to(project)}: expected exactly one Google Maps embed")
+    if footer and len(footer_maps) != 1:
+        failures.append(f"{page.relative_to(project)}: expected exactly one Google Maps embed in the footer")
 
-if map_count != 1:
-    failures.append(f"sitewide Google Maps embed count is {map_count}, expected 1")
 
 if failures:
     print("COMPLIANCE FAIL:")

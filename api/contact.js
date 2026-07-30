@@ -63,23 +63,36 @@ async function payload(req) {
   return Object.fromEntries(new URLSearchParams(raw).entries());
 }
 
+function first(body, keys) {
+  for (const key of keys) {
+    const value = clean(body[key]);
+    if (value) return value;
+  }
+  return "";
+}
+
 function leadFrom(body, req) {
-  const first = clean(body.firstName);
-  const last = clean(body.lastName);
+  const legacyName = [clean(body.firstName), clean(body.lastName)].filter(Boolean).join(" ");
   return {
-    name: [first, last].filter(Boolean).join(" "),
-    email: clean(body.emailAddress),
-    phone: clean(body.phoneNumber),
-    propertyLocation: clean(body.propertyLocation),
-    recordClues: clean(body.fileEvidence || body.recordClues),
-    details: clean(body.propertyDetails),
-    honeypot: clean(body.website),
+    name: first(body, ["name", "contact_name", "owner_name"]) || legacyName,
+    email: first(body, ["email", "emailAddress"]),
+    phone: first(body, ["phone", "phoneNumber"]),
+    message: first(body, [
+      "message",
+      "propertyDetails",
+      "property_details",
+      "property_question",
+      "property_checkpoint",
+      "valuationQuestion",
+      "review_context"
+    ]),
+    honeypot: first(body, ["website", "url"]),
     source: clean(req.headers.referer || SITE.siteUrl + "/contact")
   };
 }
 
 function invalid(lead) {
-  if (!lead.name || !lead.email || !lead.phone || !lead.propertyLocation || !lead.details) {
+  if (!lead.name || !lead.email || !lead.phone || !lead.message) {
     return "Please complete each required field.";
   }
   if (!/^\S+@\S+\.\S+$/.test(lead.email)) return "Please enter a valid email address.";
@@ -113,9 +126,7 @@ async function sendEmail(to, lead) {
     ["Name", lead.name],
     ["Email", lead.email],
     ["Phone", lead.phone],
-    ["Mineral location", lead.propertyLocation],
-    ["Record and offer clues", lead.recordClues || "Not provided"],
-    ["Ownership and brokerage questions", lead.details],
+    ["Message", lead.message],
     ["Source", lead.source]
   ];
   const text = rows.map(([label, value]) => `${label}: ${value}`).join("\n");
@@ -132,7 +143,7 @@ async function sendEmail(to, lead) {
       from: { email: from, name: SITE.businessName },
       reply_to: { email: lead.email, name: lead.name },
       personalizations: [{ to: [{ email: to }] }],
-      subject: `Mineral brokerage review: ${lead.propertyLocation}`,
+      subject: `${SITE.businessName} inquiry: ${lead.name}`,
       content: [
         { type: "text/plain", value: text },
         { type: "text/html", value: html }
@@ -146,7 +157,6 @@ async function sendEmail(to, lead) {
 module.exports = async function handler(req, res) {
   if (req.method !== "POST") return json(res, 405, { ok: false, error: "Method not allowed." });
   if (!rateLimit(req)) return json(res, 429, { ok: false, error: "Please wait before trying again." });
-
   try {
     const lead = leadFrom(await payload(req), req);
     const error = invalid(lead);
@@ -162,6 +172,6 @@ module.exports = async function handler(req, res) {
     return redirect(res, "/contact?submitted=1");
   } catch (error) {
     console.error(error);
-    return json(res, 500, { ok: false, error: "We could not submit the brokerage file. Please call or email us." });
+    return json(res, 500, { ok: false, error: "The form could not be submitted. Please call or email the team." });
   }
 };
