@@ -91,15 +91,16 @@ body>img[border="0"][alt=""],body>div[style*="width: 1px"][style*="position: abs
 :root{--rr-taste-accent:#8fc63f;--rr-taste-dark:#111619;--rr-taste-light:#f4f6f7}
 .rr-home-h1{position:relative!important;z-index:2!important;max-width:15ch!important;margin:.8rem 0 1.25rem!important;color:#fff!important;font-family:inherit!important;font-size:clamp(3rem,7vw,7.5rem)!important;font-weight:700!important;letter-spacing:-.045em!important;line-height:.92!important;text-wrap:balance!important}
 body.rr-taste-slug *:not(.rr-taste-hero){background-image:none!important}
-.rr-taste-hero{position:relative!important;display:grid!important;align-items:end!important;box-sizing:border-box!important;min-height:clamp(22rem,45vw,38rem)!important;padding:clamp(2rem,6vw,6rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important;overflow:hidden!important}
+.rr-taste-hero{position:relative!important;left:auto!important;display:grid!important;grid-column:1/-1!important;align-items:end!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;min-height:clamp(24rem,45vw,40rem)!important;margin:0!important;padding:clamp(2rem,6vw,6rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important;overflow:hidden!important;float:none!important;transform:none!important;writing-mode:horizontal-tb!important;isolation:isolate!important}
 .rr-taste-hero::after{content:""!important;position:absolute!important;z-index:1!important;inset:0!important;display:block!important;background:linear-gradient(90deg,rgba(0,0,0,.68),rgba(0,0,0,.18))!important;pointer-events:none!important}
 .rr-taste-hero-media{position:absolute!important;z-index:0!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;object-position:center!important}
 .rr-taste-hero>:not(.rr-taste-hero-media){position:relative!important;z-index:2!important;height:auto!important;min-height:0!important;margin-top:0!important;margin-bottom:0!important;align-self:end!important}
-.rr-taste-hero-copy{position:relative!important;z-index:2!important;display:block!important;width:min(1180px,100%)!important;margin:0 auto!important}
-.rr-taste-hero h1,.rr-taste-hero h2{position:relative!important;z-index:2!important;max-width:18ch!important;margin:0!important;color:#fff!important;font-size:clamp(2.5rem,6vw,6.5rem)!important;line-height:.98!important;text-wrap:balance!important}
+.rr-taste-hero-copy{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:min(1180px,100%)!important;min-width:0!important;max-width:none!important;margin:0 auto!important}
+.rr-taste-hero h1,.rr-taste-hero h2{position:relative!important;z-index:2!important;display:block!important;box-sizing:border-box!important;width:auto!important;min-width:min(100%,18rem)!important;max-width:18ch!important;margin:0!important;color:#fff!important;font-size:clamp(2.5rem,6vw,6.5rem)!important;line-height:.98!important;text-wrap:balance!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important;writing-mode:horizontal-tb!important;text-orientation:mixed!important}
 .rr-taste-hero .byline{margin-top:1.25rem!important;color:rgba(255,255,255,.82)!important}
 .rr-taste-prose-shell{position:relative!important;left:50%!important;box-sizing:border-box!important;width:100vw!important;max-width:none!important;margin:0!important;transform:translateX(-50%)!important;float:none!important;grid-column:1/-1!important}
-[data-rr-taste-prose]{position:relative!important;left:auto!important;box-sizing:border-box!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin-left:auto!important;margin-right:auto!important;padding-top:clamp(3.5rem,7vw,6.5rem)!important;translate:none!important;transform:none!important;float:none!important;grid-column:1/-1!important}
+[data-rr-taste-prose]{position:relative!important;left:auto!important;display:block!important;box-sizing:border-box!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin-left:auto!important;margin-right:auto!important;padding-top:clamp(3.5rem,7vw,6.5rem)!important;translate:none!important;transform:none!important;float:none!important;grid-column:1/-1!important}
+[data-rr-taste-prose]>h2,[data-rr-taste-prose]>h3,[data-rr-taste-prose]>p,[data-rr-taste-prose]>ul,[data-rr-taste-prose]>ol,[data-rr-taste-prose]>blockquote{display:block!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;float:none!important;writing-mode:horizontal-tb!important;word-break:normal!important;overflow-wrap:break-word!important}
 .rr-taste-related,.rr-taste-cta{position:relative!important;left:50%!important;box-sizing:border-box!important;width:min(1220px,calc(100vw - 48px))!important;max-width:none!important;margin-left:0!important;transform:translateX(-50%)!important}
 .rr-taste-related{margin-top:clamp(4rem,8vw,7rem)!important;padding:clamp(2.75rem,6vw,5.5rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important}
 .rr-taste-kicker{margin:0 0 .85rem!important;color:var(--rr-taste-accent)!important;font-size:.75rem!important;font-weight:800!important;letter-spacing:.16em!important;line-height:1.2!important;text-transform:uppercase!important}
@@ -117,12 +118,24 @@ body.rr-taste-slug *:not(.rr-taste-hero){background-image:none!important}
 .rr-taste-link::after{content:""!important;position:absolute!important;right:1.5rem!important;bottom:1.5rem!important;display:block!important;width:.55rem!important;height:.55rem!important;border-top:2px solid var(--rr-taste-accent)!important;border-right:2px solid var(--rr-taste-accent)!important;transform:rotate(45deg)!important}
 .rr-taste-related-actions{display:flex!important;justify-content:flex-end!important;padding-top:2rem!important}
 .rr-taste-button{display:inline-flex!important;align-items:center!important;justify-content:center!important;box-sizing:border-box!important;min-height:3.5rem!important;padding:.85rem 1.35rem!important;border:2px solid currentColor!important;border-radius:0!important;background:transparent!important;color:inherit!important;font:inherit!important;font-weight:800!important;line-height:1!important;text-decoration:none!important}
-.rr-taste-cta{display:grid!important;grid-template-columns:minmax(0,1.3fr) minmax(17rem,.7fr)!important;align-items:end!important;gap:clamp(2rem,5vw,5rem)!important;margin-bottom:clamp(4rem,8vw,7rem)!important;padding:clamp(2.75rem,6vw,5.5rem)!important;background:var(--rr-taste-accent)!important;color:#fff!important}
+.rr-taste-cta{display:grid!important;grid-template-columns:minmax(0,1.3fr) minmax(17rem,.7fr)!important;align-items:end!important;gap:clamp(2rem,5vw,5rem)!important;margin-bottom:clamp(4rem,8vw,7rem)!important;padding:clamp(2.75rem,6vw,5.5rem)!important;background:var(--rr-taste-dark)!important;color:#fff!important}
+.rr-taste-cta .rr-taste-kicker{color:#fff!important}
 .rr-taste-cta-copy p:last-child{max-width:46rem!important;margin:1.35rem 0 0!important;color:rgba(255,255,255,.85)!important;font-size:1rem!important;line-height:1.75!important}
 .rr-taste-cta-actions{display:flex!important;flex-direction:column!important;gap:.8rem!important}
 .rr-taste-cta-actions a{width:100%!important}
 .rr-taste-cta-primary{border-color:#fff!important;background:#fff!important;color:var(--rr-taste-dark)!important}
 .rr-taste-cta-secondary{border-color:rgba(255,255,255,.78)!important;color:#fff!important}
+.rr-taste-faq{position:relative!important;left:50%!important;box-sizing:border-box!important;width:min(1080px,calc(100vw - 48px))!important;max-width:none!important;margin:clamp(4rem,8vw,7rem) 0 0!important;padding:clamp(2rem,5vw,4.5rem)!important;background:var(--rr-taste-light)!important;color:var(--rr-taste-dark)!important;transform:translateX(-50%)!important}
+.rr-taste-faq-head{display:grid!important;grid-template-columns:minmax(0,.7fr) minmax(0,1.3fr)!important;gap:clamp(1.5rem,5vw,5rem)!important;margin-bottom:2rem!important}
+.rr-taste-faq h2{margin:0!important;font-size:clamp(2rem,4vw,4rem)!important;line-height:1.02!important;text-wrap:balance!important}
+.rr-taste-faq-intro{margin:0!important;color:color-mix(in srgb,var(--rr-taste-dark) 70%,transparent)!important;line-height:1.7!important}
+.rr-taste-faq details{margin:0!important;border-top:1px solid color-mix(in srgb,var(--rr-taste-dark) 22%,transparent)!important;padding:1.2rem 0!important}
+.rr-taste-faq details:last-child{border-bottom:1px solid color-mix(in srgb,var(--rr-taste-dark) 22%,transparent)!important}
+.rr-taste-faq summary{position:relative!important;display:block!important;padding-right:3rem!important;color:inherit!important;font-weight:800!important;line-height:1.35!important;cursor:pointer!important;list-style:none!important}
+.rr-taste-faq summary::-webkit-details-marker{display:none!important}
+.rr-taste-faq summary::after{content:""!important;position:absolute!important;top:.25rem!important;right:.35rem!important;display:block!important;width:.7rem!important;height:.7rem!important;border-right:2px solid currentColor!important;border-bottom:2px solid currentColor!important;transform:rotate(45deg)!important;transition:transform .18s ease!important}
+.rr-taste-faq details[open] summary::after{transform:translateY(.35rem) rotate(225deg)!important}
+.rr-taste-faq-answer{max-width:52rem!important;padding:.9rem 3rem 0 0!important;color:color-mix(in srgb,var(--rr-taste-dark) 76%,transparent)!important;line-height:1.75!important}
 body.rr-taste-variant-1 .rr-taste-related-head{grid-template-columns:1fr!important;text-align:center!important}
 body.rr-taste-variant-1 .rr-taste-related-intro{margin-inline:auto!important}
 body.rr-taste-variant-2 .rr-taste-related{display:grid!important;grid-template-columns:minmax(17rem,.72fr) minmax(0,1.28fr)!important;gap:clamp(2rem,5vw,5rem)!important}
@@ -203,6 +216,7 @@ body.rr-ref-www-vard-com header .rr-header-cta{color:#fff!important;font-size:.9
 }
 @media(max-width:900px){header .rr-header-phone-item,header .rr-header-phone-standalone,header .rr-header-cta-item,header .rr-header-utility,header .rr-vard-desktop-nav{display:none!important}body.rr-ref-www-vard-com header .rr-vard-desktop-nav,body.rr-ref-www-vard-com header .rr-header-phone,body.rr-ref-www-vard-com header .rr-header-cta{display:none!important}header .rr-dropdown-host>.rr-dropdown-menu{display:none!important}}
 @media(max-width:720px){
+  .rr-taste-hero h1,.rr-taste-hero h2{min-width:0!important}
   [data-rr-taste-prose]{width:calc(100vw - 32px)!important;padding-top:3rem!important}
   .rr-taste-related,.rr-taste-cta{width:calc(100vw - 32px)!important}
   .rr-taste-related{margin-top:3.5rem!important;padding:2.4rem 1.2rem!important}
@@ -213,6 +227,8 @@ body.rr-ref-www-vard-com header .rr-header-cta{color:#fff!important;font-size:.9
   .rr-taste-related-actions,body.rr-taste-variant-2 .rr-taste-related-actions{grid-column:1!important;justify-content:stretch!important}
   .rr-taste-related-actions a{width:100%!important}
   .rr-taste-cta{margin-bottom:3.5rem!important;padding:2.4rem 1.2rem!important}
+  .rr-taste-faq{width:calc(100vw - 32px)!important;padding:2.4rem 1.2rem!important}
+  .rr-taste-faq-head{grid-template-columns:1fr!important;gap:1rem!important}
   .rr-contact-map{width:calc(100vw - 32px)!important;height:19rem!important}
   #contact-form{grid-template-columns:1fr!important;width:calc(100vw - 32px)!important;padding:1.4rem 1rem!important}
   #contact-form .rr-contact-field,#contact-form>button{grid-column:1!important}
@@ -223,11 +239,44 @@ body.rr-ref-www-vard-com header .rr-header-cta{color:#fff!important;font-size:.9
   body[data-rr-page="contact"] .fieldset>p{box-sizing:border-box!important;width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important}
   body[data-rr-page="contact"] .fieldset{padding-left:0!important;padding-right:0!important}
 }
+</style><style id="rr-mineral-slug-profile">
+body.rr-design-k2-stages{--rr-profile-radius:0px;--rr-profile-inset:26px;--rr-profile-lift:9px;--rr-profile-paper:#0c1118;--rr-profile-ink:#f4f7f9}
+body.rr-design-k2-stages .rr-taste-prose-shell,body.rr-design-k2-stages [data-rr-taste-prose],body.rr-design-k2-stages .rr-taste-related,body.rr-design-k2-stages .rr-taste-cta,body.rr-design-k2-stages .rr-taste-faq{font-family:Telegraf, Arial, sans-serif!important}
+body.rr-design-k2-stages .rr-taste-hero h1,body.rr-design-k2-stages [data-rr-taste-prose]>h2,body.rr-design-k2-stages [data-rr-taste-prose]>h3,body.rr-design-k2-stages .rr-taste-related h2,body.rr-design-k2-stages .rr-taste-cta h2,body.rr-design-k2-stages .rr-taste-faq h2{font-family:Telegraf, Arial, sans-serif!important}
+body.rr-design-k2-stages .rr-taste-prose-shell{background:var(--rr-profile-paper)!important;color:var(--rr-profile-ink)!important}
+body.rr-design-k2-stages [data-rr-taste-prose]{color:var(--rr-profile-ink)!important}
+body.rr-design-k2-stages [data-rr-taste-prose]>h2,body.rr-design-k2-stages [data-rr-taste-prose]>h3,body.rr-design-k2-stages [data-rr-taste-prose]>p,body.rr-design-k2-stages [data-rr-taste-prose]>ul,body.rr-design-k2-stages [data-rr-taste-prose]>ol,body.rr-design-k2-stages [data-rr-taste-prose]>blockquote{color:var(--rr-profile-ink)!important;opacity:1!important;visibility:visible!important}
+body.rr-design-k2-stages [data-rr-taste-prose]>a:not(.rr-taste-button){color:var(--rr-taste-accent)!important;text-decoration-thickness:2px!important;text-underline-offset:.2em!important}
+body.rr-design-k2-stages .rr-taste-related,body.rr-design-k2-stages .rr-taste-cta,body.rr-design-k2-stages .rr-taste-faq{border-radius:var(--rr-profile-radius)!important}
+body.rr-design-k2-stages .rr-taste-button{border-radius:var(--rr-profile-radius)!important}
+body.rr-design-k2-stages .rr-taste-faq,body.rr-design-k2-stages .rr-taste-faq h2,body.rr-design-k2-stages .rr-taste-faq summary{color:var(--rr-profile-ink)!important}
+body.rr-design-k2-stages .rr-taste-faq-intro,body.rr-design-k2-stages .rr-taste-faq-answer,body.rr-design-k2-stages .rr-taste-faq-answer p{color:#c8d0d8!important;opacity:1!important}
+body.rr-design-k2-stages .rr-taste-faq details{border-color:rgba(255,255,255,.24)!important}
+body.rr-design-k2-stages .rr-taste-hero{width:min(1080px,calc(100% - 80px))!important;margin:44px auto 0!important;min-height:46rem!important;border-left:2px solid var(--rr-taste-accent)!important}
+body.rr-design-k2-stages .rr-taste-hero{left:calc(50% - 50vw + max(40px,calc((100vw - 1080px)/2)))!important;width:min(1080px,calc(100vw - 80px))!important;margin-left:0!important;margin-right:0!important}}
+body.rr-design-k2-stages .rr-taste-hero::after{background:linear-gradient(0deg,rgba(0,0,0,.8),rgba(0,0,0,.16))!important}
+body.rr-design-k2-stages .rr-taste-hero h1{font-size:clamp(2.8rem,5.2vw,5.8rem)!important;letter-spacing:-.025em!important}
+body.rr-design-k2-stages .rr-taste-hero.rr-taste-hero--long h1{max-width:24ch!important;font-size:clamp(2.15rem,3.8vw,4.4rem)!important;line-height:.98!important;letter-spacing:-.03em!important}
+body.rr-design-k2-stages .rr-taste-hero.rr-taste-hero--xlong h1{max-width:28ch!important;font-size:clamp(1.9rem,3vw,3.5rem)!important;line-height:1!important;letter-spacing:-.025em!important}
+body.rr-design-k2-stages .rr-taste-related{display:block!important;border-top:8px solid var(--rr-taste-accent)!important;background:#111!important}
+body.rr-design-k2-stages .rr-taste-links{gap:1rem!important;padding-top:2rem!important}
+body.rr-design-k2-stages .rr-taste-link{min-height:13rem!important;border:1px solid rgba(255,255,255,.25)!important;border-radius:var(--rr-profile-radius)!important}
+body.rr-design-k2-stages .rr-taste-link-index{font-size:2.2rem!important;color:var(--rr-taste-accent)!important;font-weight:900!important}
+body.rr-design-k2-stages .rr-taste-related{background-color:var(--rr-taste-dark)!important}
+body.rr-design-k2-stages .rr-taste-related *{background-color:transparent!important;background-image:none!important}
+body.rr-design-k2-stages .rr-taste-related,body.rr-design-k2-stages .rr-taste-related h2,body.rr-design-k2-stages .rr-taste-related .rr-taste-link,body.rr-design-k2-stages .rr-taste-related .rr-taste-link strong{color:#fff!important}
+body.rr-design-k2-stages .rr-taste-related-intro,body.rr-design-k2-stages .rr-taste-related .rr-taste-link small{color:#d6dde2!important;opacity:1!important}
+body.rr-design-k2-stages .rr-taste-cta{border:1px solid var(--rr-taste-accent)!important;background:var(--rr-taste-dark)!important;box-shadow:9px 9px 0 var(--rr-taste-accent)!important}
+body.rr-design-k2-stages .rr-taste-faq{border:1px solid var(--rr-taste-accent)!important;background:var(--rr-taste-dark)!important;color:#fff!important}
+body.rr-design-k2-stages .rr-taste-faq h2,body.rr-design-k2-stages .rr-taste-faq summary{color:#fff!important}
+body.rr-design-k2-stages .rr-taste-faq-intro,body.rr-design-k2-stages .rr-taste-faq-answer,body.rr-design-k2-stages .rr-taste-faq-answer p{color:#c8d0d8!important;opacity:1!important}
+body.rr-design-k2-stages .rr-taste-faq details{border-color:rgba(255,255,255,.24)!important}
+@media(max-width:720px){body.rr-design-k2-stages .rr-taste-hero{left:0!important;width:100%!important;margin:0!important;min-height:31rem!important;border-radius:0!important;clip-path:none!important;transform:none!important;padding:2rem 1.25rem!important}body.rr-design-k2-stages .rr-taste-hero-media{inset:0!important;width:100%!important;border-radius:0!important}body.rr-design-k2-stages .rr-taste-related{display:block!important;padding:2.4rem 1.2rem!important;border-radius:0!important}body.rr-design-k2-stages .rr-taste-related-actions{grid-column:1!important}body.rr-design-k2-stages .rr-taste-links{grid-template-columns:1fr!important}body.rr-design-k2-stages .rr-taste-link{grid-row:auto!important;min-height:0!important;aspect-ratio:auto!important;margin-top:0!important;border-radius:0!important;text-align:left!important}body.rr-design-k2-stages .rr-taste-cta{display:grid!important;grid-template-columns:1fr!important;width:calc(100vw - 32px)!important;padding:2.4rem 1.2rem!important;border-radius:0!important;clip-path:none!important;box-shadow:none!important}body.rr-design-k2-stages .rr-taste-cta-actions{display:flex!important}body.rr-design-k2-stages .rr-taste-faq{width:calc(100vw - 32px)!important;border-radius:0!important;padding:2.4rem 1.2rem!important}}
 </style><style id="rr-footer-map-style">
 footer .rr-footer-map{position:relative!important;display:block!important;grid-column:1/-1!important;flex:0 0 auto!important;clear:both!important;box-sizing:border-box!important;width:min(100%,72rem)!important;max-width:calc(100% - 2rem)!important;height:clamp(15rem,30vw,21rem)!important;min-height:clamp(15rem,30vw,21rem)!important;margin:clamp(1.5rem,4vw,3.5rem) auto 0!important;padding:0!important;overflow:hidden!important;border:1px solid rgba(127,127,127,.28)!important;border-radius:.35rem!important;background:#e7e7e7!important;box-shadow:0 14px 34px rgba(0,0,0,.14)!important;isolation:isolate!important}
 footer .rr-footer-map iframe{position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important;border-radius:inherit!important;background:#e7e7e7!important}
 @media(max-width:700px){footer .rr-footer-map{width:100%!important;max-width:100%!important;height:16rem!important;min-height:16rem!important;margin-top:1.5rem!important;border-radius:.25rem!important}}
-</style></head><body class="rr-taste-slug rr-taste-variant-0 rr-ref-k2space-com" data-rr-page="internal" style=""><div class="page-wrapper"><div class="global-styles w-embed"><style>
+</style></head><body class="rr-taste-slug rr-taste-variant-0 rr-ref-k2space-com rr-design-k2-stages" data-rr-page="internal" style=""><div class="page-wrapper"><div class="global-styles w-embed"><style>
 
 /* Make text look crisper and more legible in all browsers */
 body {
@@ -413,7 +462,7 @@ margin: 0rem !important;
   }
 }
 
-</style></div><div class="main-wrapper"><header class="navbar w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner"><div class="navbar_container"><a class="navbar_logo-link w-nav-brand rr-wordmark" href="/"><span class="rr-wm-1">Mineral Rights</span><span class="rr-wm-2">Broker</span></a><div aria-label="Contact options" class="rr-header-utility"><a class="rr-header-phone" href="tel:+8175551013">817-555-1013</a></div><div class="navbar_link-wrapper"><a class="navbar_link w-nav-link" href="/situations">Situations</a><a aria-current="page" class="navbar_link w-nav-link w--current" href="/interest-types">Interests</a><a class="navbar_link w-nav-link" href="/basins">Basins</a><a class="navbar_link w-nav-link" href="/resources">Resources</a><a class="navbar_link w-nav-link" href="/about">About</a><a class="navbar_link w-nav-link rr-header-cta" href="/contact#contact-form">Contact</a></div><button aria-label="Menu" class="rr-burger" type="button"><span></span><span></span><span></span></button></div></header><section class="section_satelites-header rr-taste-hero" style="--rr-hero-image:url('/ours/resources/mineral-rights-resources-royalty-statements-guide-themineralrightsbroker-com.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/resources/mineral-rights-resources-royalty-statements-guide-themineralrightsbroker-com.jpg"/><div class="padding-global"><div class="container-large"><div class="satelites-header_component"><div class="bg-section"><div class="bg-overlay_saturation"></div></div><div class="satelites-header_grid"><div class="satelites-header_text" data-w-id="6d0fb030-2ba4-ac25-0348-2349cdcd46b0" style="-webkit-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"><h1 class="heading-style-h3">Reading Your Royalty Statements</h1></div><div class="satelites-header_paragraph" data-w-id="b1890648-5839-45de-283b-a538807f31de" id="w-node-b1890648-5839-45de-283b-a538807f31de-2b21940a" style="-webkit-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">A line-by-line guide to reading an oil and gas royalty statement, including the deduction lines most owners misunderstand or overlook.</div></div><div class="line-mask"></div></div></div></div></section><div class="rr-taste-prose-shell"><div class="faq_group is-mega" data-rr-prose="detail" data-rr-taste-prose="" style="opacity:0"><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>Most owners glance at the total on a royalty check stub and skip the rest. The rest is where the real information is.</p><p>A royalty statement looks like a wall of numbers the first few times you see one, but it follows a consistent structure across most operators. Learning to read it properly tells you far more than the deposit total: which well is producing, how much it's declining, and what's actually being deducted before you get paid.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">Production volume and price</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>Near the top of most statements you'll find the well or unit identifier, the production month, and the volume produced in barrels of oil and/or mcf of gas, along with the price received per unit. Tracking this over several months is the clearest way to see a well's decline curve for yourself, rather than taking anyone's word for how fast it's falling off.</p><p>Price varies month to month with the broader market, so a lower check one month doesn't always mean declining production, it can just as easily mean a weaker price that month. Comparing volume trends separately from price trends over several statements clears this up.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">Your decimal interest and gross value</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>The statement applies your decimal interest, the same number confirmed on your division order, to the total production value to calculate your gross share before any deductions. If this decimal doesn't match what you signed on your division order, that's worth flagging with the operator directly.</p><p>Gross value is the number before deductions, and it's the figure to compare against prior months or against what a buyer might reference when discussing your interest's cash flow history.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">The deduction lines</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>This is the section most owners skip past, and it's usually labeled something like transportation, gathering, processing, or marketing deductions. These are costs the operator or purchaser incurs moving and preparing the product for sale, and depending on your specific lease language, some or all of them may be legally deductible from your royalty even though your lease describes a royalty free of production costs.</p><p>Severance and ad valorem taxes are typically shown separately from these operating deductions, and are standard, state-mandated deductions that apply regardless of lease terms. If deduction lines appear that seem inconsistent with your lease language, or that increase substantially with no explanation, that's worth a direct question to the operator's owner relations department.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">Net payment and cumulative totals</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>The final net amount is gross value minus deductions and taxes, and it's what actually gets deposited or mailed. Many statements also show a cumulative year-to-date total, useful for tax reporting and for tracking whether income is trending up or down over the course of the year.</p><p>Keeping statements organized by well and by year makes tax season easier and gives you real data if you ever want a buyer's offer checked against actual production history rather than a projection.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">Using statements to spot problems early</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><p>Comparing your decimal interest across several months of statements is a simple way to catch an error before it compounds. If the decimal shifts without an explanation, a unit amendment or ownership change you weren't told about, that's worth a direct call to the operator rather than assuming it's routine.</p><p>A sudden jump in deduction lines relative to prior months, without a corresponding change in production or a stated reason, is another pattern worth flagging. Most operators will explain the change once asked, and most discrepancies turn out to be clerical rather than deliberate, but catching it early avoids months of underpayment.</p><p>Some operators now provide statements through an online owner portal rather than mailed paper, which makes historical comparison easier since past months stay archived and searchable in one place rather than scattered across old mail.</p></div></nav></div><div class="faq_item w-dropdown" data-delay="0" data-hover="false"><div class="faq_question w-dropdown-toggle">Questions Owners Ask Before Authorizing a Sale Process</div><nav class="faq_answer w-dropdown-list"><div class="faq_answer-block"><h3>Why did my royalty check shrink even though I didn't sell anything?</h3><p>Most often it's a combination of natural production decline, since wells produce less over time, and price fluctuations in oil and gas markets, both of which show up on the statement separately from any deduction issue.</p><h3>What are post-production deductions?</h3><p>Costs for gathering, transporting, processing, and marketing the oil or gas after it leaves the wellhead. Whether these can be deducted from your royalty depends on the specific language in your lease.</p><h3>How often should I receive a royalty statement?</h3><p>Most operators pay and report monthly for larger interests, though many states allow less frequent payment for very small amounts, often with a minimum threshold before a check is issued.</p><h3>What should I do if the numbers on my statement don't add up?</h3><p>Contact the operator's owner relations line directly with the specific well and statement date in hand. Most discrepancies are clerical and get resolved once flagged.</p><h3>Do royalty statements help when getting an offer to sell?</h3><p>Yes, recent statements are one of the most useful documents a buyer can review, since they show real cash flow history rather than an estimate.</p><h3>Do all operators format royalty statements the same way?</h3><p>No, formats vary by operator, though most include the same core elements: production volume, price, your decimal interest, deductions, and net payment, just arranged differently.</p></div></nav></div><section class="rr-taste-related" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">Brokerage Resources</p><h2>Continue through Brokerage Resources</h2></div><p class="rr-taste-related-intro">Compare the records, ownership questions, and purchase details that connect Reading Your Royalty Statements with these related guides.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/resources/division-orders-explained"><strong>Division Orders Explained</strong><small>What a division order is, why an operator sends one, and what to check before signing, including decimal interest, effective date, and payee information.</small></a><a class="rr-taste-link" href="/resources/lease-vs-sell"><strong>Lease vs. Sell: Which Is Right?</strong><small>A framework for deciding whether to lease your mineral rights for royalty income or sell outright, including the risks and tradeoffs of each path.</small></a><a class="rr-taste-link" href="/resources/taxes-when-selling-minerals"><strong>Taxes When You Sell Mineral Rights</strong><small>Capital gains basics, the step-up in basis for inherited minerals, and how the sale of mineral rights is typically treated at tax time. Confirm specifics with your CPA.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/resources">View All Brokerage Resources</a></div></section><section class="rr-taste-cta" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Mineral Rights Broker</p><h2>Want to organize a comparable, documented mineral-sale process?</h2><p>Send the county and state, owner name, deed reference, operator or payor, recent statement, lease, division order, probate or trust record, and any written offer already received.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Open a Brokerage Review</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+8175551013">Call 817-555-1013</a></div></section></div></div><section class="section_satelites"><div class="spacer-xxhuge is-smaller"></div><div class="padding-global"><div class="container-large"><div class="satelites_component"><div class="satelites_tab-wrapper" data-w-id="7750a836-e173-6498-a026-075bc22aa744" style="-webkit-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"><div class="tabs_menu hide-mobile-landscape"><a class="satelites_tab-nav-item is-mega w-inline-block" data-w-id="b01a77a0-9c65-b43c-5100-ee3b92eb3b16" href="/contact" id="mega"><div>Mega</div></a><a class="satelites_tab-nav-item is-giga w-inline-block" data-w-id="e6ae7359-2712-854a-609f-d445c26b5671" href="/contact"><div>Giga</div></a></div><div class="tabs_wrapper"><div class="tabs_pane"></div><div class="tabs_menu show-landscape"><a class="satelites_tab-nav-item is-mega w-inline-block" data-w-id="1070adc1-3484-88bb-4ecd-18dcfdbd2388" href="/contact" id="mega-mobile"><div>Mega</div></a><a class="satelites_tab-nav-item is-giga w-inline-block" data-w-id="1070adc1-3484-88bb-4ecd-18dcfdbd238b" href="/contact"><div>Giga</div></a></div></div></div></div></div></div><div class="spacer-xxhuge"></div></section><footer class="footer_wrapper"><section class="footer"><div class="padding-global"><div class="container-large"><div class="footer_component"><div class="footer_block"><div class="footer_grid"><div class="footer_link-wrapper"><a class="footer_link" href="/situations">Ownership Situations</a><a class="footer_link" href="/interest-types">Interest Types</a><a class="footer_link" href="/basins">Producing Basins</a><a class="footer_link" href="/resources">Brokerage Resources</a><a class="footer_link" href="/about">About</a><a class="footer_link" href="/contact">Contact</a></div></div></div><div class="footer_bottom">© 2026 Mineral Rights Broker. All rights reserved.</div></div></div></div></section><div class="rr-footer-map" data-rr-footer-map=""><iframe allowfullscreen="" data-rr-footer-map-frame="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=500+Throckmorton+St%2C+Fort+Worth%2C+TX+76102&amp;output=embed" style="position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important" title="Google map"></iframe></div><nav class="rr-footer-ia"><a href="/locations">Mineral Rights by State</a><a href="/situations">Ownership Situations</a><a href="/interest-types">Mineral Interest Types</a><a href="/basins">Producing Basins</a><a href="/resources">Brokerage Resources</a><a href="/investing">Bid and Value Analysis</a><a href="/exchange-1031">Mineral 1031 Exchange Guides</a><a href="/about">About</a><a href="/contact">Contact</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms</a></nav></footer></div></div>
+</style></div><div class="main-wrapper"><header class="navbar w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner"><div class="navbar_container"><a class="navbar_logo-link w-nav-brand rr-wordmark" href="/"><span class="rr-wm-1">Mineral Rights</span><span class="rr-wm-2">Broker</span></a><div aria-label="Contact options" class="rr-header-utility"><a class="rr-header-phone" href="tel:+8175551013">817-555-1013</a></div><div class="navbar_link-wrapper"><a class="navbar_link w-nav-link" href="/situations">Situations</a><a aria-current="page" class="navbar_link w-nav-link w--current" href="/interest-types">Interests</a><a class="navbar_link w-nav-link" href="/basins">Basins</a><a class="navbar_link w-nav-link" href="/resources">Resources</a><a class="navbar_link w-nav-link" href="/about">About</a><a class="navbar_link w-nav-link rr-header-cta" href="/contact#contact-form">Contact</a></div><button aria-label="Menu" class="rr-burger" type="button"><span></span><span></span><span></span></button></div></header><section class="section_satelites-header rr-taste-hero rr-taste-hero--long" style="--rr-hero-image:url('/ours/resources/mineral-rights-resources-royalty-statements-guide-themineralrightsbroker-com.jpg')"><img alt="" aria-hidden="true" class="rr-taste-hero-media" src="/ours/resources/mineral-rights-resources-royalty-statements-guide-themineralrightsbroker-com.jpg"/><div class="padding-global"><div class="container-large"><div class="satelites-header_component"><div class="bg-section"><div class="bg-overlay_saturation"></div></div><div class="satelites-header_grid"><div class="satelites-header_text" data-w-id="6d0fb030-2ba4-ac25-0348-2349cdcd46b0" style="-webkit-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"></div><div class="satelites-header_paragraph" data-w-id="b1890648-5839-45de-283b-a538807f31de" id="w-node-b1890648-5839-45de-283b-a538807f31de-2b21940a" style="-webkit-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 1rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">A line-by-line guide to reading an oil and gas royalty statement, including the deduction lines most owners misunderstand or overlook.</div></div><div class="line-mask"></div></div></div></div><div class="rr-taste-hero-copy"><h1 class="heading-style-h3">Reading Your Royalty Statements</h1></div></section><div class="rr-taste-prose-shell"><div class="rr-taste-generated-prose" data-rr-prose="detail" data-rr-taste-prose=""><p>Most owners glance at the total on a royalty check stub and skip the rest. The rest is where the real information is.</p><p>A royalty statement looks like a wall of numbers the first few times you see one, but it follows a consistent structure across most operators. Learning to read it properly tells you far more than the deposit total: which well is producing, how much it's declining, and what's actually being deducted before you get paid.</p><h2>Production volume and price</h2><p>Near the top of most statements you'll find the well or unit identifier, the production month, and the volume produced in barrels of oil and/or mcf of gas, along with the price received per unit. Tracking this over several months is the clearest way to see a well's decline curve for yourself, rather than taking anyone's word for how fast it's falling off.</p><p>Price varies month to month with the broader market, so a lower check one month doesn't always mean declining production, it can just as easily mean a weaker price that month. Comparing volume trends separately from price trends over several statements clears this up.</p><h2>Your decimal interest and gross value</h2><p>The statement applies your decimal interest, the same number confirmed on your division order, to the total production value to calculate your gross share before any deductions. If this decimal doesn't match what you signed on your division order, that's worth flagging with the operator directly.</p><p>Gross value is the number before deductions, and it's the figure to compare against prior months or against what a buyer might reference when discussing your interest's cash flow history.</p><h2>The deduction lines</h2><p>This is the section most owners skip past, and it's usually labeled something like transportation, gathering, processing, or marketing deductions. These are costs the operator or purchaser incurs moving and preparing the product for sale, and depending on your specific lease language, some or all of them may be legally deductible from your royalty even though your lease describes a royalty free of production costs.</p><p>Severance and ad valorem taxes are typically shown separately from these operating deductions, and are standard, state-mandated deductions that apply regardless of lease terms. If deduction lines appear that seem inconsistent with your lease language, or that increase substantially with no explanation, that's worth a direct question to the operator's owner relations department.</p><h2>Net payment and cumulative totals</h2><p>The final net amount is gross value minus deductions and taxes, and it's what actually gets deposited or mailed. Many statements also show a cumulative year-to-date total, useful for tax reporting and for tracking whether income is trending up or down over the course of the year.</p><p>Keeping statements organized by well and by year makes tax season easier and gives you real data if you ever want a buyer's offer checked against actual production history rather than a projection.</p><h2>Using statements to spot problems early</h2><p>Comparing your decimal interest across several months of statements is a simple way to catch an error before it compounds. If the decimal shifts without an explanation, a unit amendment or ownership change you weren't told about, that's worth a direct call to the operator rather than assuming it's routine.</p><p>A sudden jump in deduction lines relative to prior months, without a corresponding change in production or a stated reason, is another pattern worth flagging. Most operators will explain the change once asked, and most discrepancies turn out to be clerical rather than deliberate, but catching it early avoids months of underpayment.</p><p>Some operators now provide statements through an online owner portal rather than mailed paper, which makes historical comparison easier since past months stay archived and searchable in one place rather than scattered across old mail.</p><section class="rr-taste-faq rr-taste-faq--system" data-rr-design="k2-stages" data-rr-taste-faq=""><div class="rr-taste-faq-head"><div><p class="rr-taste-kicker">Comparable sale file</p><h2>Questions Owners Ask Before Authorizing a Sale Process</h2></div><p class="rr-taste-faq-intro">These answers keep every bidder working from the same asset definition, evidence, timing, access, and requested terms.</p></div><div class="rr-taste-faq-items"><details class="rr-taste-faq-item"><summary>Why did my royalty check shrink even though I didn't sell anything?</summary><div class="rr-taste-faq-answer"><p>Most often it's a combination of natural production decline, since wells produce less over time, and price fluctuations in oil and gas markets, both of which show up on the statement separately from any deduction issue.</p></div></details><details class="rr-taste-faq-item"><summary>What are post-production deductions?</summary><div class="rr-taste-faq-answer"><p>Costs for gathering, transporting, processing, and marketing the oil or gas after it leaves the wellhead. Whether these can be deducted from your royalty depends on the specific language in your lease.</p></div></details><details class="rr-taste-faq-item"><summary>How often should I receive a royalty statement?</summary><div class="rr-taste-faq-answer"><p>Most operators pay and report monthly for larger interests, though many states allow less frequent payment for very small amounts, often with a minimum threshold before a check is issued.</p></div></details><details class="rr-taste-faq-item"><summary>What should I do if the numbers on my statement don't add up?</summary><div class="rr-taste-faq-answer"><p>Contact the operator's owner relations line directly with the specific well and statement date in hand. Most discrepancies are clerical and get resolved once flagged.</p></div></details><details class="rr-taste-faq-item"><summary>Do royalty statements help when getting an offer to sell?</summary><div class="rr-taste-faq-answer"><p>Yes, recent statements are one of the most useful documents a buyer can review, since they show real cash flow history rather than an estimate.</p></div></details><details class="rr-taste-faq-item"><summary>Do all operators format royalty statements the same way?</summary><div class="rr-taste-faq-answer"><p>No, formats vary by operator, though most include the same core elements: production volume, price, your decimal interest, deductions, and net payment, just arranged differently.</p></div></details></div></section><section aria-label="Related Brokerage Resources" class="rr-taste-related rr-taste-related--stages" data-rr-design="k2-stages" data-rr-taste-related=""><div class="rr-taste-related-head"><div><p class="rr-taste-kicker">Brokerage process</p><h2>Prepare the next controlled sale step</h2></div><p class="rr-taste-related-intro">Carry the property schedule, evidence room, bidder rules, deadline, clarification record, and conveyance scope from Reading Your Royalty Statements into these guides.</p></div><div class="rr-taste-links rr-taste-links-3"><a class="rr-taste-link" href="/resources/division-orders-explained" style="--rr-link-index:1"><span aria-hidden="true" class="rr-taste-link-index">01</span><strong>Division Orders Explained</strong><small>What a division order is, why an operator sends one, and what to check before signing, including decimal interest, effective date, and payee information.</small></a><a class="rr-taste-link" href="/resources/lease-vs-sell" style="--rr-link-index:2"><span aria-hidden="true" class="rr-taste-link-index">02</span><strong>Lease vs. Sell: Which Is Right?</strong><small>A framework for deciding whether to lease your mineral rights for royalty income or sell outright, including the risks and tradeoffs of each path.</small></a><a class="rr-taste-link" href="/resources/taxes-when-selling-minerals" style="--rr-link-index:3"><span aria-hidden="true" class="rr-taste-link-index">03</span><strong>Taxes When You Sell Mineral Rights</strong><small>Capital gains basics, the step-up in basis for inherited minerals, and how the sale of mineral rights is typically treated at tax time. Confirm specifics with your CPA.</small></a></div><div class="rr-taste-related-actions"><a class="rr-taste-button" href="/resources">Review the Brokerage Process</a></div></section><section class="rr-taste-cta rr-taste-cta--launch" data-rr-design="k2-stages" data-rr-taste-cta=""><div class="rr-taste-cta-copy"><p class="rr-taste-kicker">Mineral Rights Broker</p><h2>Want to organize a comparable, documented mineral-sale process?</h2><p>Send the county and state, owner name, deed reference, operator or payor, recent statement, lease, division order, probate or trust record, and any written offer already received.</p></div><div class="rr-taste-cta-actions"><a class="rr-taste-button rr-taste-cta-primary" href="/contact#contact-form">Open a Brokerage Review</a><a class="rr-taste-button rr-taste-cta-secondary" href="tel:+8175551013">Call 817-555-1013</a></div></section></div></div><section class="section_satelites"><div class="spacer-xxhuge is-smaller"></div><div class="padding-global"><div class="container-large"><div class="satelites_component"><div class="satelites_tab-wrapper" data-w-id="7750a836-e173-6498-a026-075bc22aa744" style="-webkit-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"><div class="tabs_menu hide-mobile-landscape"><a class="satelites_tab-nav-item is-mega w-inline-block" data-w-id="b01a77a0-9c65-b43c-5100-ee3b92eb3b16" href="/contact" id="mega"><div>Mega</div></a><a class="satelites_tab-nav-item is-giga w-inline-block" data-w-id="e6ae7359-2712-854a-609f-d445c26b5671" href="/contact"><div>Giga</div></a></div><div class="tabs_wrapper"><div class="tabs_pane"></div><div class="tabs_menu show-landscape"><a class="satelites_tab-nav-item is-mega w-inline-block" data-w-id="1070adc1-3484-88bb-4ecd-18dcfdbd2388" href="/contact" id="mega-mobile"><div>Mega</div></a><a class="satelites_tab-nav-item is-giga w-inline-block" data-w-id="1070adc1-3484-88bb-4ecd-18dcfdbd238b" href="/contact"><div>Giga</div></a></div></div></div></div></div></div><div class="spacer-xxhuge"></div></section><footer class="footer_wrapper"><section class="footer"><div class="padding-global"><div class="container-large"><div class="footer_component"><div class="footer_block"><div class="footer_grid"><div class="footer_link-wrapper"><a class="footer_link" href="/situations">Ownership Situations</a><a class="footer_link" href="/interest-types">Interest Types</a><a class="footer_link" href="/basins">Producing Basins</a><a class="footer_link" href="/resources">Brokerage Resources</a><a class="footer_link" href="/about">About</a><a class="footer_link" href="/contact">Contact</a></div></div></div><div class="footer_bottom">© 2026 Mineral Rights Broker. All rights reserved.</div></div></div></div></section><div class="rr-footer-map" data-rr-footer-map=""><iframe allowfullscreen="" data-rr-footer-map-frame="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=500+Throckmorton+St%2C+Fort+Worth%2C+TX+76102&amp;output=embed" style="position:absolute!important;inset:0!important;display:block!important;width:100%!important;height:100%!important;margin:0!important;padding:0!important;border:0!important" title="Google map"></iframe></div><nav class="rr-footer-ia"><a href="/locations">Mineral Rights by State</a><a href="/situations">Ownership Situations</a><a href="/interest-types">Mineral Interest Types</a><a href="/basins">Producing Basins</a><a href="/resources">Brokerage Resources</a><a href="/investing">Bid and Value Analysis</a><a href="/exchange-1031">Mineral 1031 Exchange Guides</a><a href="/about">About</a><a href="/contact">Contact</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms</a></nav></footer></div></div>
 <div id="days"></div>
 <div class="navbar_link-wrapper" data-rr-mobile=""><button aria-label="Close" class="rr-x" type="button"></button><a class="rr-m-link" href="/situations">Situations</a><a class="rr-m-link" href="/interest-types">Interests</a><a class="rr-m-link" href="/basins">Basins</a><a class="rr-m-link" href="/resources">Resources</a><a class="rr-m-link" href="/about">About</a><a class="rr-m-link" href="/contact">Contact</a><a class="rr-m-link" href="/contact">Open a Brokerage Review</a><a class="rr-m-link" href="tel:8175551013">817-555-1013</a></div><div class="rr-scrim"></div><script id="rr-nav">(function(){var B=document.body,navVersion=0;
 function apply(open){B.classList.toggle('rr-nav-open',open);
@@ -483,6 +532,44 @@ document.querySelectorAll('.eael-accordion-header').forEach(function(button){
   button.addEventListener('click',toggle);button.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')toggle(e);});
   button.dataset.rrAccordionReady='true';
 });
+function rrEnsureControlPair(root,prev,next){
+  var controls=root.querySelector(':scope > .rr-carousel-controls');
+  var existingPrev=controls&&controls.querySelector('.rr-carousel-control--prev');
+  var existingNext=controls&&controls.querySelector('.rr-carousel-control--next');
+  if(existingPrev&&existingNext)return {prev:existingPrev,next:existingNext};
+  [prev,next].forEach(function(legacy){
+    if(!legacy||!legacy.isConnected)return;
+    legacy.removeAttribute('aria-label');
+    legacy.removeAttribute('role');
+    legacy.removeAttribute('tabindex');
+    legacy.setAttribute('aria-hidden','true');
+    legacy.style.setProperty('display','none','important');
+  });
+  controls=document.createElement('div');
+  controls.className='rr-carousel-controls';
+  prev=document.createElement('button');next=document.createElement('button');
+  prev.type='button';next.type='button';
+  controls.appendChild(prev);controls.appendChild(next);
+  root.insertBefore(controls,root.firstChild);
+  prev.classList.add('rr-carousel-control','rr-carousel-control--prev');
+  next.classList.add('rr-carousel-control','rr-carousel-control--next');
+  [prev,next].forEach(function(control){
+    control.style.setProperty('position','relative','important');
+    control.style.setProperty('display','grid','important');
+    control.style.setProperty('visibility','visible','important');
+    control.style.setProperty('opacity','1','important');
+    control.style.setProperty('pointer-events','auto','important');
+    control.style.setProperty('box-sizing','border-box','important');
+    control.style.setProperty('width','44px','important');
+    control.style.setProperty('min-width','44px','important');
+    control.style.setProperty('height','44px','important');
+    control.style.setProperty('min-height','44px','important');
+  });
+  prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
+  prev.setAttribute('type','button');next.setAttribute('type','button');
+  prev.textContent='';next.textContent='';
+  return {prev:prev,next:next};
+}
 document.querySelectorAll('[data-rr-carousel]').forEach(function(root){
   if(root.dataset.rrCarouselReady)return;
   var viewport=root.querySelector('.jcarousel'),list=viewport&&viewport.querySelector('ul');
@@ -507,6 +594,7 @@ document.querySelectorAll('[data-rr-carousel="rail"]').forEach(function(root){
   var host=root.closest('.grid.js-slider')||root.closest('section')||root;
   var prev=root.querySelector(root.dataset.rrPrev||'.js-cover-carousel-prev')||host.querySelector(root.dataset.rrPrev||'.js-cover-carousel-prev');
   var next=root.querySelector(root.dataset.rrNext||'.js-cover-carousel-next')||host.querySelector(root.dataset.rrNext||'.js-cover-carousel-next');
+  var controlPair=rrEnsureControlPair(root,prev,next);prev=controlPair.prev;next=controlPair.next;
   var viewport=track.parentElement,index=0,requested=parseInt(root.dataset.rrVisible||'4',10)||4;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function step(){
@@ -546,18 +634,61 @@ document.querySelectorAll('[data-rr-carousel="direct"]').forEach(function(root){
   if(!items.length)return;
   var prev=root.querySelector(root.dataset.rrPrev||'.back-arrow,.prev-arrow,.slider-prev,.controls-prev,.carousel-arrow--prev');
   var next=root.querySelector(root.dataset.rrNext||'.next-arrow,.forward-arrow,.slider-next,.controls-next,.carousel-arrow--next');
+  var nestedPrev=root.querySelector('[aria-label^="Previous"]'),nestedNext=root.querySelector('[aria-label^="Next"]');
+  if(!prev&&nestedPrev)prev=nestedPrev.closest('button,a')||nestedPrev;
+  if(!next&&nestedNext)next=nestedNext.closest('button,a')||nestedNext;
+  if(!prev||!next){
+    var looseControls=[].slice.call(root.querySelectorAll('button,a')).filter(function(control){
+      return !items.some(function(item){return item===control||item.contains(control);})
+        && !control.closest('header,footer,form');
+    });
+    if(looseControls.length>=2){
+      prev=prev||looseControls[looseControls.length-2];
+      next=next||looseControls[looseControls.length-1];
+    }
+  }
+  var directControls=rrEnsureControlPair(root,prev,next);prev=directControls.prev;next=directControls.next;
   var index=0,requested=parseInt(root.dataset.rrVisible||'3',10)||3;
-  function visible(){return window.matchMedia('(max-width:760px)').matches?1:requested;}
+  function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,items.length);}
   function render(){
     var count=visible(),max=Math.max(0,items.length-count);index=Math.max(0,Math.min(index,max));
-    track.style.display='flex';track.style.overflow='visible';track.style.transition='transform 360ms ease';
-    track.style.transform='translate3d('+(-index*(100/count))+'%,0,0)';
-    items.forEach(function(item){item.style.display='block';item.style.flex='0 0 '+(100/count)+'%';item.style.maxWidth=(100/count)+'%';});
-    if(prev){prev.classList.toggle('slick-disabled',index===0);prev.classList.toggle('disabled',index===0);}
-    if(next){next.classList.toggle('slick-disabled',index===max);next.classList.toggle('disabled',index===max);}
+    root.style.setProperty('overflow','hidden','important');
+    track.style.setProperty('display','flex','important');
+    track.style.setProperty('width','100%','important');
+    track.style.setProperty('max-width','none','important');
+    track.style.setProperty('overflow','visible','important');
+    track.style.setProperty('transition','transform 360ms ease','important');
+    items.forEach(function(item,n){
+      item.style.setProperty('display','block','important');
+      item.style.setProperty('flex','0 0 '+(100/count)+'%','important');
+      item.style.setProperty('width',(100/count)+'%','important');
+      item.style.setProperty('max-width',(100/count)+'%','important');
+      item.style.setProperty('min-width','0','important');
+      item.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));
+    });
+    var step=items.length>1?Math.abs(items[1].offsetLeft-items[0].offsetLeft):0;
+    if(step<2)step=Math.max(1,root.getBoundingClientRect().width/count);
+    track.style.setProperty('transform','translate3d('+(-index*step)+'px,0,0)','important');
+    root.dataset.rrCarouselIndex=String(index);
+    root.dataset.rrCarouselMax=String(max);
+    if(prev){
+      prev.classList.toggle('slick-disabled',index===0);prev.classList.toggle('disabled',index===0);
+      prev.setAttribute('aria-disabled',String(index===0));prev.disabled=prev.tagName==='BUTTON'&&index===0;
+    }
+    if(next){
+      next.classList.toggle('slick-disabled',index===max);next.classList.toggle('disabled',index===max);
+      next.setAttribute('aria-disabled',String(index===max));next.disabled=next.tagName==='BUTTON'&&index===max;
+    }
   }
-  function bind(control,delta){if(!control)return;control.setAttribute('role','button');control.setAttribute('tabindex','0');control.addEventListener('click',function(e){e.preventDefault();e.stopImmediatePropagation();index+=delta;render();},true);control.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();e.stopImmediatePropagation();index+=delta;render();}},true);}
-  bind(prev,-1);bind(next,1);
+  function bind(control,delta,label,kind){
+    if(!control)return;
+    control.classList.add('rr-carousel-control','rr-carousel-control--'+kind);
+    control.setAttribute('role','button');control.setAttribute('tabindex','0');control.setAttribute('aria-label',label);
+    var move=function(e){e.preventDefault();e.stopImmediatePropagation();index+=delta;render();};
+    control.addEventListener('click',move,true);
+    control.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')move(e);},true);
+  }
+  bind(prev,-1,'Previous slide','prev');bind(next,1,'Next slide','next');
   var paused=false,delay=parseInt(root.dataset.rrAutoplay||'0',10)||0;
   root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});
   if(delay){window.setInterval(function(){if(!paused){var max=Math.max(0,items.length-visible());index=index>=max?0:index+1;render();}},delay);}
@@ -571,15 +702,9 @@ document.querySelectorAll('[data-rr-carousel="agency"]').forEach(function(root){
   if(slides.length<2)return;
   var prev=root.querySelector(root.dataset.rrPrev||'.left-btn');
   var next=root.querySelector(root.dataset.rrNext||'.right-btn');
-  if((!prev||!next)&&root.dataset.rrNoControls!=='true'){
-    var generatedControls=document.createElement('div');
-    generatedControls.className='rr-agency-controls';
-    prev=document.createElement('button');next=document.createElement('button');
-    prev.type='button';next.type='button';
-    prev.className='rr-agency-control rr-agency-control--prev';
-    next.className='rr-agency-control rr-agency-control--next';
-    generatedControls.appendChild(prev);generatedControls.appendChild(next);root.appendChild(generatedControls);
-  }
+  var agencyControls=rrEnsureControlPair(root,prev,next);prev=agencyControls.prev;next=agencyControls.next;
+  prev.classList.add('rr-agency-control','rr-agency-control--prev');
+  next.classList.add('rr-agency-control','rr-agency-control--next');
   var currentCount=root.querySelector('.splide__count-current');
   var totalCount=root.querySelector('.splide__count-total');
   var index=0,requested=parseInt(root.dataset.rrVisible||'4',10)||4;
@@ -722,6 +847,7 @@ document.querySelectorAll('[data-rr-carousel="paired"]').forEach(function(root){
   }
   tabs.slice(0,count).forEach(function(tab,n){tab.addEventListener('click',function(e){e.preventDefault();index=n;render();});});
   var prev=root.querySelector('button[aria-label^="Previous"]'),next=root.querySelector('button[aria-label^="Next"]');
+  var pairedControls=rrEnsureControlPair(root,prev,next);prev=pairedControls.prev;next=pairedControls.next;
   if(prev)prev.addEventListener('click',function(e){e.preventDefault();index=(index-1+count)%count;render();});
   if(next)next.addEventListener('click',function(e){e.preventDefault();index=(index+1)%count;render();});
   var delay=parseInt(root.dataset.rrAutoplay||'0',10)||0,paused=false;
@@ -737,6 +863,7 @@ document.querySelectorAll('[data-rr-carousel="gallery"]').forEach(function(root)
   var tabs=root.dataset.rrTabs?[].slice.call(root.querySelectorAll(root.dataset.rrTabs)):[];
   var prev=root.querySelector(root.dataset.rrPrev||'.prev');
   var next=root.querySelector(root.dataset.rrNext||'.next');
+  var galleryControls=rrEnsureControlPair(root,prev,next);prev=galleryControls.prev;next=galleryControls.next;
   var index=0;
   function render(){
     var thumb=thumbs[index],src=thumb.currentSrc||thumb.getAttribute('src');
@@ -764,6 +891,7 @@ document.querySelectorAll('[data-rr-carousel="tns"]').forEach(function(root){
   var tabs=[].slice.call(root.querySelectorAll(root.dataset.rrTabs||'.tns-nav [data-nav]'));
   var prev=root.querySelector(root.dataset.rrPrev||'.tns-controls [data-controls="prev"]');
   var next=root.querySelector(root.dataset.rrNext||'.tns-controls [data-controls="next"]');
+  var tnsControls=rrEnsureControlPair(root,prev,next);prev=tnsControls.prev;next=tnsControls.next;
   var count=tabs.length?Math.min(tabs.length,slides.length):slides.length,index=0;
   function render(){
     track.style.setProperty('transition','transform 350ms ease','important');
@@ -798,6 +926,7 @@ document.querySelectorAll('[data-rr-carousel="stacked"]').forEach(function(root)
   var tabs=[].slice.call(root.querySelectorAll(root.dataset.rrTabs||'[role="tab"]'));
   var prev=root.querySelector(root.dataset.rrPrev||'button[aria-label^="Previous"]');
   var next=root.querySelector(root.dataset.rrNext||'button[aria-label^="Next"]');
+  var stackedControls=rrEnsureControlPair(root,prev,next);prev=stackedControls.prev;next=stackedControls.next;
   var index=Math.max(0,slides.findIndex(function(slide){return slide.classList.contains('is-active')||slide.classList.contains('active');}));
   function render(){
     slides.forEach(function(slide,n){
@@ -849,18 +978,16 @@ document.querySelectorAll('[data-rr-carousel="slick"]').forEach(function(root){
   if(!slides.length)return;
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   var arrows=[];
-  if(root.dataset.rrNoControls!=='true'){
-    if(root.dataset.rrPrev){var mappedPrev=root.querySelector(root.dataset.rrPrev);if(mappedPrev)arrows.push(mappedPrev);}
-    if(root.dataset.rrNext){var mappedNext=root.querySelector(root.dataset.rrNext);if(mappedNext)arrows.push(mappedNext);}
-    if(!arrows.length)arrows=[].slice.call(root.querySelectorAll('.slick-arrow,.feature.prev,.feature.next'));
-  }
+  if(root.dataset.rrPrev){var mappedPrev=root.querySelector(root.dataset.rrPrev);if(mappedPrev)arrows.push(mappedPrev);}
+  if(root.dataset.rrNext){var mappedNext=root.querySelector(root.dataset.rrNext);if(mappedNext)arrows.push(mappedNext);}
+  if(!arrows.length)arrows=[].slice.call(root.querySelectorAll('.slick-arrow,.feature.prev,.feature.next'));
   var dots=[].slice.call(root.querySelectorAll('.slick-dots li button'));
-  if(!arrows.length&&slides.length>1&&root.dataset.rrNoControls!=='true'){
-    var prev=document.createElement('button'),next=document.createElement('button');
-    prev.type=next.type='button';prev.className='slick-arrow slick-prev';next.className='slick-arrow slick-next';
-    prev.setAttribute('aria-label','Previous slide');next.setAttribute('aria-label','Next slide');
-    root.appendChild(prev);root.appendChild(next);arrows=[].slice.call(root.querySelectorAll('.slick-arrow'));
-  }
+  var slickPrev=arrows.find(function(arrow){return arrow.classList.contains('prev')||arrow.classList.contains('slick-prev');});
+  var slickNext=arrows.find(function(arrow){return arrow.classList.contains('next')||arrow.classList.contains('slick-next');});
+  var slickControls=rrEnsureControlPair(root,slickPrev,slickNext);
+  slickControls.prev.classList.add('slick-arrow','slick-prev');
+  slickControls.next.classList.add('slick-arrow','slick-next');
+  arrows=[slickControls.prev,slickControls.next];
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:requested;}
   function render(){
     var count=visible(),max=Math.max(0,slides.length-count);index=Math.max(0,Math.min(index,max));
@@ -876,10 +1003,10 @@ document.querySelectorAll('[data-rr-carousel="slick"]').forEach(function(root){
       slide.style.setProperty('width',(100/slides.length)+'%','important');
       slide.classList.toggle('slick-current',n===index);slide.classList.toggle('slick-active',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));
     });
-    arrows.forEach(function(arrow){arrow.classList.toggle('slick-disabled',(arrow.classList.contains('prev')&&index===0)||(arrow.classList.contains('next')&&index===max));});
+    arrows.forEach(function(arrow){var previous=[].slice.call(arrow.classList).some(function(name){return name.indexOf('prev')>=0;});arrow.classList.toggle('slick-disabled',(previous&&index===0)||(!previous&&index===max));arrow.setAttribute('aria-disabled',String((previous&&index===0)||(!previous&&index===max)));});
     dots.forEach(function(dot,n){var active=n===index;var item=dot.closest('li');if(item)item.classList.toggle('slick-active',active);dot.setAttribute('aria-current',active?'true':'false');});
   }
-  arrows.forEach(function(arrow){arrow.setAttribute('role','button');arrow.setAttribute('tabindex','0');arrow.addEventListener('click',function(e){e.preventDefault();index+=arrow.classList.contains('prev')?-1:1;render();});arrow.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();index+=arrow.classList.contains('prev')?-1:1;render();}});});
+  arrows.forEach(function(arrow){arrow.setAttribute('role','button');arrow.setAttribute('tabindex','0');var previous=[].slice.call(arrow.classList).some(function(name){return name.indexOf('prev')>=0;});arrow.addEventListener('click',function(e){e.preventDefault();index+=previous?-1:1;render();});arrow.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();index+=previous?-1:1;render();}});});
   dots.slice(0,slides.length).forEach(function(dot,n){dot.addEventListener('click',function(e){e.preventDefault();index=n;render();});dot.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();index=n;render();}});});
   var paused=false,delay=parseInt(root.dataset.rrAutoplay||'0',10)||0;
   root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});
@@ -919,6 +1046,13 @@ document.querySelectorAll('[data-rr-carousel="splide"]').forEach(function(root){
   var slides=[].slice.call(list.children).filter(function(el){return el.classList.contains('splide__slide')&&!el.classList.contains('splide__slide--clone');});
   if(!slides.length)return;
   Array.prototype.slice.call(list.children).forEach(function(el){if(el.classList.contains('splide__slide--clone'))el.remove();});
+  var donorGap=parseFloat(getComputedStyle(list).columnGap)||parseFloat(getComputedStyle(list).gap)||0;
+  var splidePrev=root.querySelector('.splide__arrow--prev,.lp-arrow--prev');
+  var splideNext=root.querySelector('.splide__arrow--next,.lp-arrow--next');
+  var splideControls=rrEnsureControlPair(root,splidePrev,splideNext);
+  splideControls.prev.classList.add('splide__arrow','splide__arrow--prev');
+  splideControls.next.classList.add('splide__arrow','splide__arrow--next');
+  var splideArrows=[splideControls.prev,splideControls.next];
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
   function render(){
@@ -926,9 +1060,9 @@ document.querySelectorAll('[data-rr-carousel="splide"]').forEach(function(root){
     track.style.overflow='hidden';list.style.display='flex';list.style.flexWrap='nowrap';list.style.gap='0px';list.style.width=(slides.length*100/count)+'%';
     list.style.transition='transform 360ms ease';list.style.transform='translate3d('+(-index*100/slides.length)+'%,0,0)';
     slides.forEach(function(slide,n){slide.style.display='block';slide.style.boxSizing='border-box';slide.style.paddingRight=donorGap+'px';slide.style.flex='0 0 '+(100/slides.length)+'%';slide.style.width=(100/slides.length)+'%';slide.style.height='auto';slide.classList.toggle('is-active',n===index);slide.classList.toggle('is-visible',n>=index&&n<index+count);slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
-    root.querySelectorAll('.splide__arrow,.lp-arrow').forEach(function(arrow){var prev=arrow.classList.contains('splide__arrow--prev')||arrow.classList.contains('lp-arrow--prev');arrow.disabled=(prev&&index===0)||(!prev&&index===max);});
+    splideArrows.forEach(function(arrow){var prev=arrow.classList.contains('splide__arrow--prev')||arrow.classList.contains('lp-arrow--prev');arrow.disabled=(prev&&index===0)||(!prev&&index===max);arrow.setAttribute('aria-disabled',String(arrow.disabled));});
   }
-  root.querySelectorAll('.splide__arrow,.lp-arrow').forEach(function(arrow){arrow.addEventListener('click',function(e){e.preventDefault();index+=(arrow.classList.contains('splide__arrow--prev')||arrow.classList.contains('lp-arrow--prev'))?-1:1;render();});});
+  splideArrows.forEach(function(arrow){arrow.addEventListener('click',function(e){e.preventDefault();index+=(arrow.classList.contains('splide__arrow--prev')||arrow.classList.contains('lp-arrow--prev'))?-1:1;render();});});
   var delay=parseInt(root.dataset.rrAutoplay||'0',10)||0,paused=false;
   var pauseButton=root.querySelector('.cmp-carousel__action--pause'),playButton=root.querySelector('.cmp-carousel__action--play');
   function syncPlaybackControls(){
@@ -949,10 +1083,18 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   if(!slides.length)return;
   Array.prototype.slice.call(list.children).forEach(function(el){if(el.classList.contains('swiper-slide-duplicate'))el.remove();});
   var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
-  function isPrev(arrow){return arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
+  var normalizedControls=null;
+  function isPrev(arrow){return arrow.classList.contains('rr-carousel-control--prev')||arrow.classList.contains('elementor-swiper-button-prev')||arrow.classList.contains('swiper-arrow-prev')||[].slice.call(arrow.classList).some(function(c){return c.indexOf('swiper-button-prev')===0;});}
   function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
-  function controls(){var configured=[];if(root.dataset.rrPrev)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrPrev)));if(root.dataset.rrNext)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrNext)));if(configured.length)return configured;var own=root.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');if(own.length)return own;var host=root.closest('.elementor-widget')||root.parentElement||root;return host.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');}
+  function controls(){if(normalizedControls)return normalizedControls;var configured=[];if(root.dataset.rrPrev)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrPrev)));if(root.dataset.rrNext)configured=configured.concat([].slice.call(root.querySelectorAll(root.dataset.rrNext)));if(configured.length)return configured;var own=root.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');if(own.length)return own;var host=root.closest('.elementor-widget')||root.parentElement||root;return host.querySelectorAll('.elementor-swiper-button-prev,.elementor-swiper-button-next,.swiper-arrow-prev,.swiper-arrow-next,[class*="swiper-button-prev"],[class*="swiper-button-next"]');}
   function bullets(){var host=root.dataset.rrCompanions?root.querySelector(root.dataset.rrCompanions):root.querySelector('.swiper-pagination');return host?[].slice.call(host.querySelectorAll('.swiper-pagination-bullet')):[];}
+  var foundControls=[].slice.call(controls());
+  var swiperPrev=foundControls.find(isPrev);
+  var swiperNext=foundControls.find(function(control){return !isPrev(control);});
+  var swiperControls=rrEnsureControlPair(root,swiperPrev,swiperNext);
+  swiperControls.prev.classList.add('swiper-button-prev');
+  swiperControls.next.classList.add('swiper-button-next');
+  normalizedControls=[swiperControls.prev,swiperControls.next];
   function render(){
     var count=visible(),max=Math.max(0,slides.length-count);index=Math.max(0,Math.min(index,max));
     if(root.classList.contains('swiper-fade')){
@@ -982,6 +1124,31 @@ document.querySelectorAll('[data-rr-carousel="swiper"]').forEach(function(root){
   if(delay){root.addEventListener('mouseenter',function(){paused=true;});root.addEventListener('mouseleave',function(){paused=false;});window.setInterval(function(){if(!paused){var max=Math.max(0,slides.length-visible());index=index>=max?0:index+1;render();}},delay);}
   window.addEventListener('resize',render);root.dataset.rrSwiperReady='true';render();
 });
+document.querySelectorAll('[data-rr-carousel="horizontal"],[data-rr-carousel="true"]').forEach(function(root){
+  if(root.dataset.rrHorizontalReady||root.dataset.rrCarouselReady)return;
+  var track=root.dataset.rrTrack?root.querySelector(root.dataset.rrTrack):null;
+  track=track||root.querySelector('.swiper-wrapper,.slick-track,.flickity-slider,.splide__list,[data-rr-track]')||root;
+  var selector=root.dataset.rrSlides||'.swiper-slide,.slick-slide,.splide__slide,[data-rr-slide]';
+  var slides=[].slice.call(track.querySelectorAll(':scope > '+selector)).filter(function(slide){return !slide.classList.contains('slick-cloned')&&!slide.classList.contains('splide__slide--clone')&&!slide.classList.contains('swiper-slide-duplicate');});
+  if(!slides.length)slides=[].slice.call(track.children).filter(function(child){return child.nodeType===1;});
+  if(slides.length<2)return;
+  var pair=rrEnsureControlPair(root,null,null),prev=pair.prev,next=pair.next;
+  var index=0,requested=parseInt(root.dataset.rrVisible||'1',10)||1;
+  function visible(){return window.matchMedia('(max-width:760px)').matches?1:Math.min(requested,slides.length);}
+  function render(){
+    var count=visible(),max=Math.max(0,slides.length-count);index=Math.max(0,Math.min(index,max));
+    root.style.setProperty('overflow','hidden','important');
+    track.style.setProperty('display','flex','important');track.style.setProperty('width','100%','important');track.style.setProperty('max-width','none','important');track.style.setProperty('transition','transform 360ms ease','important');
+    slides.forEach(function(slide,n){slide.style.setProperty('display','block','important');slide.style.setProperty('flex','0 0 '+(100/count)+'%','important');slide.style.setProperty('width',(100/count)+'%','important');slide.style.setProperty('max-width',(100/count)+'%','important');slide.style.setProperty('min-width','0','important');slide.setAttribute('aria-hidden',String(!(n>=index&&n<index+count)));});
+    var step=slides.length>1?Math.abs(slides[1].offsetLeft-slides[0].offsetLeft):0;if(step<2)step=Math.max(1,root.getBoundingClientRect().width/count);
+    track.style.setProperty('transform','translate3d('+(-index*step)+'px,0,0)','important');
+    root.dataset.rrCarouselIndex=String(index);root.dataset.rrCarouselMax=String(max);
+    prev.disabled=index===0;next.disabled=index===max;prev.setAttribute('aria-disabled',String(index===0));next.setAttribute('aria-disabled',String(index===max));
+  }
+  prev.addEventListener('click',function(e){e.preventDefault();index-=1;render();});
+  next.addEventListener('click',function(e){e.preventDefault();index+=1;render();});
+  window.addEventListener('resize',render);root.dataset.rrHorizontalReady='true';render();
+});
 document.querySelectorAll('.uf-cus-sel').forEach(function(root){
   var toggle=root.querySelector('.uf-cus-sel-toggle'),menu=root.querySelector('.uf-cus-sel-menu');
   var input=root.parentElement&&root.parentElement.querySelector('input.js-select');
@@ -1007,13 +1174,22 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-prose="detail"] h2,.rr-detail-prose h2{margin-top:42px!important;margin-bottom:16px!important;overflow:visible!important;text-overflow:clip!important;-webkit-line-clamp:unset;white-space:normal!important}
 [data-rr-prose="detail"] ul,.rr-detail-prose ul{padding-left:22px!important}
 [data-rr-band],[data-rr-static-grid]{overflow:visible!important;max-width:100%!important}
-[data-rr-static-grid],[data-rr-band] .swiper-wrapper,[data-rr-band] .swiper-slide:has(a),[data-rr-band] .elementor-loop-container,[data-rr-band] .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
+[data-rr-static-grid],[data-rr-band]:not(:has([data-rr-carousel])) .elementor-loop-container,[data-rr-band]:not(:has([data-rr-carousel])) .elementor-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))!important;gap:24px!important;width:100%!important;max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;transform:none!important;height:auto!important;min-height:0!important;opacity:1!important;visibility:visible!important}
 [data-rr-static-grid]>*{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;float:none!important;width:auto!important;max-width:100%!important;min-width:0!important;margin:0!important;transform:none!important;opacity:1!important;visibility:visible!important}
-[data-rr-band] .slick-list,[data-rr-band] .swiper,[data-rr-band] .swiper-wrapper,[data-rr-band] .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
+[data-rr-band]:not(:has([data-rr-carousel])) .slick-list,[data-rr-band]:not(:has([data-rr-carousel])) .swiper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-wrapper,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-slide{overflow:visible!important;height:auto!important;transform:none!important}
 [data-rr-band] img:not([data-rr-carousel] img),[data-rr-static-grid] img{display:block!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}
 [data-rr-carousel="slick"] .slick-list{overflow:hidden!important}
 [data-rr-band] .site-img img,[data-rr-band] .properties-img img,[data-rr-band] .communities-img img,[data-rr-band] figure img,[data-rr-band] [class*="image"] img,[data-rr-band] [class*="Image"] img{height:260px!important}
-[data-rr-band] canvas,[data-rr-static-grid] canvas,.swiper-button-prev,.swiper-button-next,.navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
+[data-rr-band] canvas,[data-rr-static-grid] canvas,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-prev,[data-rr-band]:not(:has([data-rr-carousel])) .swiper-button-next,[data-rr-band]:not(:has([data-rr-carousel])) .navigation-container,[class*="Video_controller"],[class*="video-button"],[class*="play-button"]{display:none!important}
+[data-rr-carousel] .rr-carousel-controls{display:flex!important;justify-content:flex-end!important;gap:10px!important;margin:24px 0 0!important}
+[data-rr-carousel] .rr-carousel-control{position:relative!important;display:grid!important;place-items:center!important;box-sizing:border-box!important;min-width:44px!important;width:44px!important;height:44px!important;padding:0!important;border:2px solid #fff!important;border-radius:999px!important;background:var(--rr-taste-dark,#111)!important;color:#fff!important;cursor:pointer!important}
+[data-rr-carousel] .rr-carousel-control::before{content:""!important;display:block!important;width:10px!important;height:10px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
+[data-rr-carousel] .rr-carousel-control--prev::before{transform:rotate(-135deg)!important;margin-left:4px!important}
+[data-rr-carousel] .rr-carousel-control--next::before{transform:rotate(45deg)!important;margin-right:4px!important}
+[data-rr-carousel] .rr-carousel-control.disabled,[data-rr-carousel] .rr-carousel-control:disabled{opacity:.35!important;cursor:default!important}
+[data-rr-carousel] .swiper-wrapper,[data-rr-carousel] .swiper-slide,[data-rr-carousel] article,[data-rr-carousel] article>*{min-width:0!important}
+[data-rr-band="resources"] [data-rr-carousel="direct"] .swiper-slide article>.flex{flex-direction:column!important;align-items:flex-start!important}
+[data-rr-band="resources"] [data-rr-carousel="direct"] .swiper-slide article>.flex>p{display:block!important;width:100%!important;min-width:0!important;word-break:normal!important;overflow-wrap:break-word!important}
 [data-rr-carousel="agency"] .rr-agency-controls{display:flex!important;justify-content:flex-end!important;gap:10px!important;margin:24px 0 0!important}
 [data-rr-carousel="agency"] .rr-agency-control{display:grid!important;place-items:center!important;width:48px!important;height:48px!important;padding:0!important;border:2px solid #111!important;border-radius:0!important;background:#fff!important;color:#111!important;cursor:pointer!important}
 [data-rr-carousel="agency"] .rr-agency-control::before{content:""!important;display:block!important;width:11px!important;height:11px!important;border-top:2px solid currentColor!important;border-right:2px solid currentColor!important}
@@ -1022,6 +1198,19 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
 [data-rr-carousel="agency"] .rr-agency-control.disabled{opacity:.35!important;cursor:default!important}
 [data-rr-band] a,[data-rr-static-grid] a{min-width:0!important;white-space:normal!important;overflow:visible!important;text-overflow:clip!important}
 [data-rr-band] [class*="title"],[data-rr-band] [class*="Title"],[data-rr-band] [class*="label"],[data-rr-band] [class*="Label"],[data-rr-band] h2,[data-rr-band] h3,[data-rr-band] h4,[data-rr-band] span{white-space:normal!important;overflow:visible!important;text-overflow:clip!important;word-break:normal!important;overflow-wrap:break-word!important;max-width:100%!important}
+[data-rr-band="situations"].section--narrative-key-numbers{position:relative!important;inset:auto!important;display:block!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;height:auto!important;min-height:0!important;margin:0!important;padding:0!important;transform:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .pin-spacer,[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin{position:relative!important;inset:auto!important;display:block!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;height:auto!important;min-height:0!important;margin:0!important;padding:0!important;grid-column:1/-1!important;transform:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin{display:grid!important;grid-template-columns:minmax(16rem,.65fr) minmax(0,1.35fr)!important;align-items:start!important;gap:clamp(2rem,6vw,7rem)!important;padding:clamp(3rem,7vw,7rem)!important}
+[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin>.flex{grid-column:1!important;width:auto!important;max-width:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin>[class~="visible@md"]{grid-column:2!important;display:block!important;width:auto!important;max-width:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .cards--narrative-key-numbers{position:relative!important;inset:auto!important;display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;height:auto!important;gap:1px!important;transform:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number{position:relative!important;inset:auto!important;display:grid!important;grid-template-columns:minmax(0,1fr)!important;align-content:start!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;min-width:0!important;min-height:17rem!important;padding:clamp(1.4rem,2.6vw,2.5rem)!important;gap:1rem!important;transform:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .key-number{grid-column:1!important;display:block!important;width:auto!important;min-width:0!important;max-width:12ch!important;margin:0!important;font-size:clamp(1.65rem,2.35vw,2.8rem)!important;line-height:1!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text{grid-column:1!important;display:block!important;width:auto!important;min-width:0!important;max-width:38rem!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text p{width:auto!important;min-width:0!important;max-width:none!important;margin:0!important;font-size:clamp(.94rem,1.15vw,1.08rem)!important;line-height:1.55!important}
+[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .meta{display:none!important}
+[data-rr-band="situations"].section--narrative-key-numbers>.hidden\@md{display:none!important}
+@media(max-width:760px){[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin{display:block!important;padding:3rem 1.2rem!important}[data-rr-band="situations"].section--narrative-key-numbers .js-to-pin>[class~="visible@md"]{display:none!important}[data-rr-band="situations"].section--narrative-key-numbers>.hidden\@md{display:grid!important;padding:2rem 1.2rem!important}[data-rr-band="situations"].section--narrative-key-numbers .cards--narrative-key-numbers{grid-template-columns:1fr!important}[data-rr-band="situations"].section--narrative-key-numbers .card--key-number{grid-template-columns:1fr!important;min-height:0!important}[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .key-number,[data-rr-band="situations"].section--narrative-key-numbers .card--key-number .card__text{grid-column:1!important}}
 .mk-section-video{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;padding:0!important;transform:none!important}
 .mk-section-video img{display:block!important;width:100%!important;height:100%!important;max-width:none!important;object-fit:cover!important;opacity:1!important;visibility:visible!important}
 .mk-gallery .mk-svg-icon,.mk-gallery .image-hover-overlay{display:none!important}

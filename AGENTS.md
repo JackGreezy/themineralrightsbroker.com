@@ -14,3 +14,4 @@
 - Every public contact form has exactly four visitor fields in this order: Name, Email, Phone, Message. Field names are `name`, `email`, `phone`, and `message`.
 - Every desktop header shows 817-555-1013 and a clear CTA that lands on `/contact#contact-form`. Consolidate secondary links before allowing overlap; dropdowns must open on hover/focus and keep the trigger-to-menu gap selectable.
 - Every page-level footer contains one Google Maps embed and no other footer media. Contact also contains one unlabeled body map. The street address remains metadata/map-query only and never appears as visible page copy.
+- Slug-page heroes, FAQ treatments, related navigation, carousel controls, and closing CTAs must use this donor's own homepage typography and composition. Never substitute the shared look of another fleet site or a recolored universal block.

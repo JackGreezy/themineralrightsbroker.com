@@ -108,7 +108,7 @@
   "copy": {
     "home_title": "Mineral Rights Broker | Fort Worth Sale Mandate Desk",
     "home_meta": "A Fort Worth mineral rights brokerage desk for engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.",
-  "home_hero_title": "Fort Worth Mineral Rights Broker for Controlled, Competitive Sales",
+    "home_hero_title": "Fort Worth Mineral Rights Broker for Controlled, Competitive Sales",
     "home_intro_title": "A Controlled Process Creates Comparable Decisions",
     "home_intro": "The brokerage file begins with a defined interest and a written process. Every bidder receives the same schedule, evidence, deadline, access rules, clarification channel, and required bid format.",
     "home_situations_title": "The Ownership Situation Sets the Process",
@@ -292,5 +292,13 @@
       ]
     ]
   },
-  "_business_voice": "Write all company and educational copy in the business voice using we, our, and us. Never narrate as an individual in first-person singular. Customer-perspective FAQ questions may still use the customer voice."
+  "_business_voice": "Write all company and educational copy in the business voice using we, our, and us. Never narrate as an individual in first-person singular. Customer-perspective FAQ questions may still use the customer voice.",
+  "slug_ui": {
+    "related_kicker": "Brokerage process",
+    "related_heading": "Prepare the next controlled sale step",
+    "related_intro": "Carry the property schedule, evidence room, bidder rules, deadline, clarification record, and conveyance scope from {item} into these guides.",
+    "related_action": "Review the Brokerage Process",
+    "faq_kicker": "Comparable sale file",
+    "faq_intro": "These answers keep every bidder working from the same asset definition, evidence, timing, access, and requested terms."
+  }
 }
