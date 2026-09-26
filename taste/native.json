@@ -1,0 +1,40 @@
+{
+  "classes": {
+    "header.navbar a.rr-header-cta": "button",
+    "#contact-form .rr-contact-field": "form_field-wrapper",
+    "#contact-form label": "form_label",
+    "#contact-form input": "form_input w-input",
+    "#contact-form textarea": "form_input w-input",
+    "#contact-form button[type=submit]": "button is-form-submit"
+  },
+  "remove": {
+    "all": [
+      "section.section_timeline-header",
+      ".timeline_item .timeline_left",
+      ".timeline_item img.timeline_planet-mobile",
+      ".section_satelites .tabs_menu",
+      ".section_satelites img.satelites-heading",
+      ".section_home-header .heading-style-color",
+      ".section_home-header .corner_wrapper",
+      ".section_planet .planet_image-scroll",
+      ".section_planet .planet_info-wrapper.show-tablet",
+      ".section_testimonials img.is-testimonial",
+      ".section_planet .planet-info_wrapper.show-tablet"
+    ],
+    "slug": [
+      "section.section_satelites"
+    ]
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "templates": {
+    "faq": "<div class=\"home-phrase_component is-smaller\"><h2 class=\"heading-style-h3\">{heading}</h2><p class=\"home-list_paragraph\">{intro}</p><div class=\"faq_group\">{items}</div></div>",
+    "faq_item": "<details class=\"faq_item\"><summary class=\"faq_question\"><span>{q}</span></summary><div class=\"faq_answer\"><div class=\"faq_answer-block\">{a}</div></div></details>",
+    "related": "<section class=\"section_home-list\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"slider_top\"><h2 class=\"heading-style-h3\">{heading}</h2></div><p class=\"home-list_paragraph\">{intro}</p></div></div><div>{items}</div><div class=\"home-list_button\"><div class=\"padding-global\"><div class=\"container-large\"><a class=\"button is-icon\" href=\"{all_href}\">{all_label} →</a></div></div></div></section>",
+    "related_item": "<a class=\"home-list\" href=\"{href}\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"home-item\"><div class=\"css-grid\"><div class=\"heading-style-h3 is-list\">{name}</div><div class=\"home-list_paragraph\">{teaser}</div></div></div></div></div></a>",
+    "cta": "<section class=\"section_phrase\"><div class=\"padding-global full-height\"><div class=\"container-large full-height\"><div class=\"phrase_component\"><h2 class=\"phrase_text\">{title}</h2><p class=\"home-list_paragraph\">{intro}</p><div class=\"slider_top\"><a class=\"button\" href=\"{contact_href}\">{label} →</a><a class=\"button is-icon\" href=\"{tel_href}\">Call {phone}</a></div></div></div></div></section>"
+  }
+}
