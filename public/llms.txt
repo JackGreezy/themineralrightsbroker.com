@@ -1,6 +1,6 @@
 # Mineral Rights Broker
 
-> A Fort Worth mineral rights brokerage desk for engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.
+> A mineral rights brokerage desk for owners in any producing state, covering engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.
 
 ## Mineral Rights by State
 - https://themineralrightsbroker.com/locations/texas

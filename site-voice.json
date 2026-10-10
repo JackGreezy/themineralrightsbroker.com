@@ -1,5 +1,6 @@
 {
-  "_": "This voice belongs only to themineralrightsbroker.com in Fort Worth. It is a mineral-sale mandate desk that separates brokerage process from purchase advocacy: define the engagement, disclose compensation, assemble an exact interest schedule, qualify bidders, issue common bid instructions, normalize exceptions and timing, run a controlled best-and-final round, preserve the owner's reserve choice, document title diligence, negotiate the purchase agreement, and track closing and payor transfer. It must never be copied into a reusable voice pack or reused for another domain.",
+  "hero_city_suffix": false,
+  "_": "This voice belongs only to themineralrightsbroker.com, a mineral-sale broker working files in any producing state. It is a mineral-sale mandate desk that separates brokerage process from purchase advocacy: define the engagement, disclose compensation, assemble an exact interest schedule, qualify bidders, issue common bid instructions, normalize exceptions and timing, run a controlled best-and-final round, preserve the owner's reserve choice, document title diligence, negotiate the purchase agreement, and track closing and payor transfer. It must never be copied into a reusable voice pack or reused for another domain.",
   "taxonomy_titles": {
     "situations": "Ownership Situations",
     "locations": "Mineral Rights by State",
@@ -110,9 +111,9 @@
     ]
   ],
   "copy": {
-    "home_title": "Mineral Rights Broker | Fort Worth Sale Mandate Desk",
-    "home_meta": "A Fort Worth mineral rights brokerage desk for engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.",
-    "home_hero_title": "Fort Worth Mineral Rights Broker for Controlled, Competitive Sales",
+    "home_title": "Mineral Rights Broker | Sale Mandate Desk",
+    "home_meta": "A mineral rights brokerage desk for owners in any producing state, covering engagement scope, fee disclosure, interest schedules, qualified bidding, bid normalization, title diligence, purchase agreements, and closing control.",
+    "home_hero_title": "Mineral Rights Broker for Controlled, Competitive Sales",
     "home_intro_title": "A Controlled Process Creates Comparable Decisions",
     "home_intro": "The brokerage file begins with a defined interest and a written process. Every bidder receives the same schedule, evidence, deadline, access rules, clarification channel, and required bid format.",
     "home_situations_title": "The Ownership Situation Sets the Process",
@@ -136,12 +137,12 @@
     "detail_cta_title": "Want to organize a comparable, documented mineral-sale process?",
     "faq_heading": "Questions Owners Ask Before Authorizing a Sale Process",
     "about_title": "How a Mineral-Sale Mandate Moves",
-    "about_p1": "Mineral Rights Broker is a Fort Worth mandate desk built around one buyer-neutral sequence: define the engagement, disclose compensation, assemble the interest schedule, organize the data room, qualify bidders, issue common instructions, normalize proposals, run a controlled final round, document the selected terms, coordinate title diligence, close, and follow the transfer.",
+    "about_p1": "Mineral Rights Broker is a mandate desk that runs one buyer-neutral sequence for tracts in every producing state: define the engagement, disclose compensation, assemble the interest schedule, organize the data room, qualify bidders, issue common instructions, normalize proposals, run a controlled final round, document the selected terms, coordinate title diligence, close, and follow the transfer.",
     "about_p2": "The owner should be able to distinguish market evidence from brokerage opinion, a headline bid from normalized economics, a preliminary indication from an executable proposal, and a selected bidder from a completed closing.",
     "contact_title": "Open a Brokerage Review",
     "contact_intro": "Send the county and state, owner name, deed reference, operator or payor, recent statement, lease, division order, probate or trust record, and any written offer already received. The mandate desk will begin with the evidence in hand.",
     "contact_section_title": "Start With the Interest and the Decision You Control",
-    "footer_tagline": "A Fort Worth mineral-sale mandate desk for owners who want scope, compensation, bidders, assumptions, economics, diligence, documents, and closing conditions visible in one process.",
+    "footer_tagline": "A mineral-sale mandate desk for owners in any producing state who want scope, compensation, bidders, assumptions, economics, diligence, documents, and closing conditions visible in one process.",
     "privacy": "Mineral Rights Broker uses submitted contact, ownership, property, production, lease, title, probate, trust, entity, offer, and process information only to answer an inquiry and evaluate a potential brokerage engagement or mineral transaction. We do not sell submitted personal information. Do not submit bank credentials, government identification numbers, or original documents through this website.",
     "terms": "This website provides general educational and transaction-process information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, or exchange advice. A brokerage engagement, buyer outreach, fee arrangement, bid process, purchase proposal, title review, and closing depend on written terms and the exact interest involved. Consult your own qualified professionals before authorizing marketing or signing a mineral or royalty conveyance.",
     "nf_title": "That Mandate File Is Not in This Index",
