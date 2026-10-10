@@ -11,7 +11,7 @@
   "city": "Fort Worth",
   "state": "Texas",
   "region": "Fort Worth, the Permian Basin, and producing states nationwide",
-  "phone": "817-555-1013",
+  "phone": "817-859-7960",
   "email": "broker@themineralrightsbroker.com",
   "address": "500 Throckmorton St, Fort Worth, TX 76102",
   "vertical": "mineral-rights",
@@ -19,12 +19,42 @@
   "hero_image": "/ours/locations/sell-mineral-rights-texas.jpg",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/themineralrightsbroker.com/site-voice.json",
   "nav": [
-    ["Situations", "/situations"],
-    ["Interests", "/interest-types"],
-    ["Basins", "/basins"],
-    ["Resources", "/resources"],
-    ["About", "/about"],
-    ["Contact", "/contact"]
+    [
+      "Situations",
+      "/situations"
+    ],
+    [
+      "Interests",
+      "/interest-types"
+    ],
+    [
+      "Basins",
+      "/basins"
+    ],
+    [
+      "Resources",
+      "/resources"
+    ],
+    [
+      "About",
+      "/about"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
   ],
-  "cta": ["Open a Brokerage Review", "/contact"]
+  "cta": [
+    "Open a Brokerage Review",
+    "/contact"
+  ],
+  "logo_url": "/brand/logo.png",
+  "favicon": "/brand/favicon-32.png",
+  "brand_logo": "/brand/logo.png",
+  "brand_logo_header": "/brand/logo.png",
+  "brand_logo_footer": "",
+  "brand_favicon": "/favicon.ico",
+  "brand_favicon_png": "/brand/favicon-32.png",
+  "brand_apple_icon": "/brand/apple-touch-icon.png",
+  "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:none!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n"
 }

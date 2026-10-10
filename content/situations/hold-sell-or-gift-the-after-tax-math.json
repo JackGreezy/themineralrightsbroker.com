@@ -1,0 +1,73 @@
+{
+ "slug": "hold-sell-or-gift-the-after-tax-math",
+ "title": "Hold, Sell, or Gift: The After-Tax Math",
+ "type": "situation",
+ "status": "written",
+ "note": "three paths an older owner has; capital gains now vs step-up at death vs carryover on gift; depletion recapture note; CPA cue once",
+ "primaryKeyword": "hold sell or gift mineral rights",
+ "metaTitle": "Hold, Sell, or Gift Mineral Rights: After-Tax Math",
+ "metaDescription": "An older mineral owner has three paths: sell now, hold until death, or gift in life. Compare how basis, gain, and depletion differ before you choose.",
+ "heroLead": "Three decisions sit in front of an older mineral owner, and each one resets the tax picture differently. The sensible way to compare them is after tax, after decline, and across the whole family.",
+ "intro": [
+  "Owners in their seventies and eighties often tell us the same thing: the minerals have always been in the family, nobody wants to make a mistake, and the checks are getting smaller. Treat this page as a framework for a conversation with your advisers, not as advice. Tax outcomes depend on how and when you acquired the interest, your state, your overall estate, and rules that change.",
+  "We run sale mandates for mineral owners and we do not buy the interests ourselves, so we have no stake in which of the three paths you choose. Our interest is that whichever you pick, the numbers behind it are laid out on one page and compared honestly."
+ ],
+ "sections": [
+  {
+   "heading": "Selling While You Are Living",
+   "paragraphs": [
+    "A sale converts the interest to cash. In general, the gain is the sale price minus your adjusted basis, and a long holding period usually means the gain is taxed at long-term rates rather than ordinary rates. If the interest has been in the family for decades with little recorded basis, the taxable gain can be a large share of the price. That is the main cost of selling, and it is a real one.",
+    "On the other side of the ledger, a sale ends exposure to commodity prices and depletion, removes concentration from a portfolio, and leaves cash that is easy to divide among heirs without creating dozens of tiny undivided interests. For an owner who is receiving shrinking checks and would like a simpler estate, that certainty has value that does not show up in the tax line."
+   ]
+  },
+  {
+   "heading": "Holding Until Death and the Step-Up in Basis",
+   "paragraphs": [
+    "Under federal law, property that passes at death generally receives a basis equal to its fair market value on the date of death, often called a step-up. Heirs who later sell may owe little or no gain on appreciation that occurred during your lifetime. For a low-basis mineral interest, that can be a strong argument for holding.",
+    "Two cautions keep the argument honest. First, the step-up resets basis to value at death, and a depleting asset may be worth less by then than it is today, so the benefit applies to a smaller number. Second, holding keeps the interest exposed to price swings and to the decline curve for years, and it may pass to heirs as several fractional pieces across counties and possibly more than one state, each needing its own probate or deed work."
+   ]
+  },
+  {
+   "heading": "Gifting During Life and Carryover Basis",
+   "paragraphs": [
+    "A lifetime gift usually carries over your basis to the recipient rather than stepping it up. The child who receives the interest takes your low basis and your holding period, so a later sale can produce the same taxable gain you would have faced. Gifts above the annual exclusion generally require a gift tax return and use part of the lifetime exemption, although tax may not actually be due.",
+    "Gifting can still make sense: it may move future income to a family member in a lower bracket, simplify management, or fit a larger plan. It can also create several co-owners with different goals, which complicates leasing and later sale. Gifting a share of a declining asset is not the same as gifting a share of a stable one."
+   ]
+  },
+  {
+   "heading": "The Depletion Recapture Note",
+   "paragraphs": [
+    "Owners who have taken depletion deductions on royalty income may have reduced their basis over time. On a sale, that lower basis raises the gain, and in certain situations part of the gain attributable to prior deductions can be treated as ordinary income instead of capital gain under recapture rules. Whether any of this applies depends on the interest and your records."
+   ]
+  },
+  {
+   "heading": "Putting the Three Paths on One Page",
+   "paragraphs": [
+    "Ask your estate attorney and CPA to run each path with the same inputs: current value estimates, adjusted basis, expected decline, your state, other assets, and likely heirs. A useful comparison shows spendable after-tax value today, projected after-tax value to heirs at different horizons, and administrative burden on the family. If a sale is on the table, a mandate gives you comparable bids to use in that model rather than a single unverified number."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does my family get a step-up in basis if I keep the minerals?",
+   "answer": "Generally, property included in your estate receives a basis reset to fair market value at death under federal rules. The effect depends on the value at that time, your state, and your advisers' read of the facts."
+  },
+  {
+   "question": "If I gift the minerals to my children, what basis do they take?",
+   "answer": "Typically yours. Gifted property usually carries over the donor's basis and holding period, so the recipient may face the same gain on a later sale that you would have faced."
+  },
+  {
+   "question": "Do I pay tax if I sell while I am living?",
+   "answer": "Usually there is tax on the gain over your adjusted basis, with the rate depending on holding period, income, and state rules. Prior depletion deductions can also affect the result."
+  },
+  {
+   "question": "Can I sell only part of the interest and keep the rest?",
+   "answer": "Yes, a partial sale by tract, by fraction, or with a retained royalty is possible. The schedule has to state precisely what is conveyed and what stays with you."
+  },
+  {
+   "question": "Why not simply give the minerals to my heirs now?",
+   "answer": "It can make sense, but it passes along your tax basis and can leave several co-owners to manage a declining asset. Compare it against holding and selling before deciding."
+  }
+ ],
+ "wordCount": 967
+}

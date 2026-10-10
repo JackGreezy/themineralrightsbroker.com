@@ -1,0 +1,74 @@
+{
+ "slug": "trust-and-estate-sale-of-mineral-interests",
+ "title": "Trust and Estate Sale of Mineral Interests",
+ "type": "situation",
+ "status": "written",
+ "note": "how a trustee or executor runs a brokered sale; fiduciary duty, documentation, beneficiary communication, listing vs direct",
+ "primaryKeyword": "trustee sale of mineral rights",
+ "metaTitle": "Trustee Sale of Mineral Rights: A Brokered Process",
+ "metaDescription": "How a trustee or executor can run a documented, competitive sale of mineral interests, from authority and notice to bids, closing, and the fiduciary file.",
+ "heroLead": "A fiduciary is judged on process long after the closing date. A brokered mineral sale is one way to produce the file that shows the decision was informed, even-handed, and recorded.",
+ "intro": [
+  "Trustees and executors often inherit a mineral position they did not choose and rarely understand: several tracts, a few operators, statements arriving by mail, and beneficiaries who each want something different. The assets are real property interests with income attached, and a sale decision falls under the same prudence expected of any fiduciary decision.",
+  "We run controlled sale mandates, and we do not buy the interests ourselves. This page describes how a brokered process generally works for a fiduciary. It is not legal advice, and the authority you hold comes from the instrument and your state's law, which your own counsel must read."
+ ],
+ "sections": [
+  {
+   "heading": "Confirm Authority Before Anyone Sees the File",
+   "paragraphs": [
+    "Authority comes first, and it differs by vehicle. An executor generally needs letters testamentary or letters of administration, and in some states the court must approve a sale of real property or at least confirm that independent administration permits one. A trustee works from the trust instrument, which may grant a power of sale outright, require beneficiary notice or consent, or require court approval.",
+    "If the decedent owned minerals in a state different from the one where probate opened, an ancillary proceeding may be needed there. Have the attorney confirm this at the outset, since it determines timing for every bidder and for the title company."
+   ]
+  },
+  {
+   "heading": "Build the Interest Schedule the Fiduciary Can Defend",
+   "paragraphs": [
+    "Before outreach, assemble one schedule listing each county and legal description, the net mineral acres or fraction, the interest type, the leases and depths, the producing wells and operators, and the pay decimals. Note every inconsistency between deeds, division orders, and statements as an open item rather than resolving it quietly.",
+    "That schedule becomes the common basis for every proposal. It also becomes the fiduciary's evidence that the property was identified carefully, which matters if a beneficiary later asks what exactly was sold."
+   ]
+  },
+  {
+   "heading": "Why a Competitive Process Helps the Record",
+   "paragraphs": [
+    "A trustee or executor who accepts the first unsolicited letter is exposed to the question of what else was available. A mandate invites qualified buyers to bid on the same schedule under the same instructions and deadline, then normalizes the proposals for deposit, title threshold, adjustment formula, closing date, and exclusions. The comparison does not decide for the fiduciary; it informs a decision that the fiduciary documents.",
+    "Direct sale to one buyer can be sensible, particularly for a small non-producing interest where a full process would cost more than it returns. The honest test is proportionality: the size and complexity of the interest against the effort and fees of marketing it. We disclose compensation in writing before outreach and say so if a direct approach looks better."
+   ]
+  },
+  {
+   "heading": "Keep Beneficiaries Informed and the Reasoning on Paper",
+   "paragraphs": [
+    "Regular communication prevents most later disputes. Fiduciaries commonly tell beneficiaries why a sale is being considered, how bids will be gathered, when the reserve decision will be made, and how proceeds will be handled. Written notice, where the instrument or statute calls for it, should be kept with the file.",
+    "The record should also hold the engagement terms, the schedule, the bid matrix, the reason the chosen proposal was preferred, advice received from counsel and the tax professional, and the closing statement. Each item is small, and together they turn a judgment call into a defensible decision."
+   ]
+  },
+  {
+   "heading": "From Accepted Bid to Payor Transfer",
+   "paragraphs": [
+    "After a bid is chosen, the purchase agreement, title review, deed exhibit, and closing statement should describe exactly the same interest. The fiduciary signs in a representative capacity, supported by letters or a trust certification, and the deed is recorded in each county. Payors then need the deed and notice to change pay decimals, and suspense on prior months should be addressed in the adjustment terms rather than left to chance."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a trustee need beneficiary consent to sell mineral rights?",
+   "answer": "It depends on the trust instrument and state law. Some trusts grant a power of sale outright; others require notice, consent, or court approval. Have the trust's attorney read the document before outreach."
+  },
+  {
+   "question": "What does an executor need to sell minerals from an estate?",
+   "answer": "Generally, letters testamentary or letters of administration, and in some states court approval or confirmation of independent administration powers. If minerals sit in another state, ancillary proceedings may also be needed."
+  },
+  {
+   "question": "Is a brokered sale better than selling to one direct buyer?",
+   "answer": "Not always. A competitive process helps document prudence on larger or producing interests, while a small non-producing tract may suit a direct sale. Weigh the size of the interest against the cost of marketing it."
+  },
+  {
+   "question": "Who pays a broker in a fiduciary sale?",
+   "answer": "Compensation terms vary and should be disclosed in writing before marketing begins. The fiduciary should know the method, any reimbursable costs, and who bears them before signing an engagement."
+  },
+  {
+   "question": "Must a fiduciary accept the best-supported bid?",
+   "answer": "No. The fiduciary may decline all proposals and continue to hold if that serves the beneficiaries better. The process informs the decision and does not replace it."
+  }
+ ],
+ "wordCount": 889
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "minerals-in-a-retirement-income-plan",
+ "title": "Minerals in a Retirement Income Plan",
+ "type": "situation",
+ "status": "written",
+ "note": "advisor framing: a declining royalty stream vs a lump sum redeployed; sequence risk; after-tax; patient tone; not advice",
+ "primaryKeyword": "mineral rights retirement income",
+ "metaTitle": "Mineral Rights in a Retirement Income Plan",
+ "metaDescription": "Royalty checks decline, and retirement spending does not. See how to weigh a depleting mineral stream against a lump sum, after tax, before you decide.",
+ "heroLead": "A royalty check feels like income, but a producing well returns capital and earnings together, and the mix changes every year. A retirement plan has to know which part it is spending.",
+ "intro": [
+  "Many of the owners who contact us are retired or close to it, and the minerals arrived long ago through a parent, a spouse, or a ranch purchase. The monthly deposit has become part of the household budget, which is exactly why the question deserves patience rather than a quick answer. We run sale mandates; we do not manage portfolios, and nothing here is investment, tax, or legal advice. What we can do is frame the decision the way a family office would, as one asset inside a whole balance sheet.",
+  "The useful comparison is not a royalty check against a sale price. It is a declining, commodity-linked, concentrated cash stream against whatever the same capital could do once it is sold, taxed, and redeployed into a diversified plan that you can actually draw from for twenty or thirty years."
+ ],
+ "sections": [
+  {
+   "heading": "What the Royalty Check Actually Represents",
+   "paragraphs": [
+    "A producing well pays out a reservoir. Early production is high, then the rate falls steeply in the first few years and flattens into a long tail, with the steepest drop typically in unconventional horizontal wells and a gentler slope in older vertical wells. Each check therefore contains some return on the asset and some return of the asset, and the proportion shifts toward depletion over time.",
+    "A planner who treats a trailing twelve-month total as permanent income overstates what the household can safely spend. The better first step is a well-by-well schedule from the last two years of statements: operator, well, decimal, volumes, and deductions. That schedule shows which wells carry the income, how old they are, and how fast each is falling. Only then can anyone judge how much of the stream is repeatable."
+   ]
+  },
+  {
+   "heading": "Sequence Risk When the Asset Is Also the Paycheck",
+   "paragraphs": [
+    "Sequence risk is the damage done when poor returns arrive early in a withdrawal period. Minerals add a second layer. Royalty income follows oil and gas prices, which can fall at the same moment equity markets do, and the wells underneath are depleting regardless of price. A household that relies on the checks and also on a portfolio can find both weakening together.",
+    "Concentration compounds this. A few net mineral acres in one county, paid by one operator, is a single-basin, single-counterparty position. Advisors routinely ask whether any one holding should exceed a set share of the plan. A family that would never put a large share of retirement savings into one drilling program may be holding something similar by inheritance."
+   ]
+  },
+  {
+   "heading": "The Redeployed Lump Sum: What Has to Be True",
+   "paragraphs": [
+    "Selling converts a depleting, volatile stream into capital that can be invested for diversification and drawn on a schedule you choose. That works only if the price reflects the wells and the title, the proceeds net of tax are redeployed deliberately, and the new withdrawal rate is sustainable. A sale at a weak moment in the commodity cycle, or one that pays for a decline curve at the wrong age, can leave a household worse off than patient holding.",
+    "Holding has its own arithmetic. If the wells are young, the acreage is undrilled but well positioned, or the household has ample other income, keeping the interest and revisiting the question each year can be entirely reasonable. We say so plainly. A sale is one outcome of the process, never the assumed result."
+   ]
+  },
+  {
+   "heading": "Taxes Between the Gross Number and the Spendable Number",
+   "paragraphs": [
+    "Royalty income is generally taxed as ordinary income when received, often softened by a depletion allowance. A sale is generally taxed differently, usually as a gain over your basis, and the character of that gain can depend on how long you held the interest and on depletion previously claimed. Basis itself depends on whether the interest was bought, gifted, or inherited. State income tax and the net investment income tax may also apply depending on circumstances.",
+    "None of that can be settled in a web page. Before you decide, ask your CPA to model two or three years of after-tax cash flow under holding and under a sale at several illustrative prices, then compare those to your spending plan. That comparison, not the headline bid, is the number that matters."
+   ]
+  },
+  {
+   "heading": "Where a Brokered Process Fits",
+   "paragraphs": [
+    "If the analysis points toward a sale, a mandate lets you test the market on a single written schedule of your interest, receive comparable proposals, and keep the right to decline every one. We disclose how we are compensated before outreach begins, and we do not buy the interest ourselves. If the analysis points toward holding, we will tell you that too, and the file stays useful for the next review."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I rely on my royalty checks as retirement income?",
+   "answer": "Partly, with care. Checks vary with commodity prices and fall as wells age, so most planners treat them as a variable, declining source and plan spending around a conservative estimate built from individual well histories rather than last year's total."
+  },
+  {
+   "question": "Is a lump sum better than monthly royalty checks?",
+   "answer": "Neither is better in every case. The answer depends on well age, tract position, your other income, your tax situation, and whether you would redeploy proceeds into a diversified plan you can draw from sustainably."
+  },
+  {
+   "question": "How are mineral sale proceeds taxed compared with royalty income?",
+   "answer": "Royalties are generally ordinary income when received, while a sale produces a gain measured against your basis, with the treatment depending on holding period and past depletion. Your CPA should model both before you commit."
+  },
+  {
+   "question": "What if I want to keep some minerals and sell some?",
+   "answer": "A partial sale is possible, by tract, by fraction, or by reserving a share of the royalty. The schedule must state exactly what is conveyed and what is kept so every bidder prices the same interest."
+  },
+  {
+   "question": "Does asking for market evidence obligate me to sell?",
+   "answer": "No. Receiving proposals does not commit you to accept one. You decide whether any bid is worth taking, and you can decline all of them and keep holding."
+  }
+ ],
+ "wordCount": 1055
+}

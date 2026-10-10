@@ -8,13 +8,15 @@
  "voice": "family-office-advisor: portfolio framing, after-tax outcomes, patient tone",
  "angle": "broker/listing model vs direct sale; fee transparency",
  "taxonomyCounts": {
-  "locations": 24,
   "basins": 23,
-  "situations": 10,
+  "exchange-1031": 10,
   "interest-types": 6,
+  "investing": 10,
+  "locations": 24,
+  "pages": 7,
   "resources": 10,
-  "pages": 7
+  "situations": 13
  },
- "totalPages": 80,
+ "totalPages": 103,
  "status": "scaffold"
 }

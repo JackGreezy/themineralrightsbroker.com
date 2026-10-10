@@ -3,7 +3,7 @@
   "name": "Mineral Rights Broker",
   "city": "Fort Worth",
   "region": "Fort Worth, the Permian Basin, and producing states nationwide",
-  "phone": "817-555-1013",
+  "phone": "817-859-7960",
   "email": "broker@themineralrightsbroker.com",
   "domain": "themineralrightsbroker.com",
   "vertical": "mineral-rights"
@@ -1473,6 +1473,177 @@
       "width": 1600,
       "height": 1000
      },
+     "imageAlt": "",
+     "related": []
+    },
+    {
+     "slug": "minerals-in-a-retirement-income-plan",
+     "name": "Minerals in a Retirement Income Plan",
+     "meta": "Royalty checks decline, and retirement spending does not. See how to weigh a depleting mineral stream against a lump sum, after tax, before you decide.",
+     "sections": [
+      {
+       "title": "",
+       "html": "<p>A royalty check feels like income, but a producing well returns capital and earnings together, and the mix changes every year. A retirement plan has to know which part it is spending.</p><p>Many of the owners who contact us are retired or close to it, and the minerals arrived long ago through a parent, a spouse, or a ranch purchase. The monthly deposit has become part of the household budget, which is exactly why the question deserves patience rather than a quick answer. We run sale mandates; we do not manage portfolios, and nothing here is investment, tax, or legal advice. What we can do is frame the decision the way a family office would, as one asset inside a whole balance sheet.</p><p>The useful comparison is not a royalty check against a sale price. It is a declining, commodity-linked, concentrated cash stream against whatever the same capital could do once it is sold, taxed, and redeployed into a diversified plan that you can actually draw from for twenty or thirty years.</p>"
+      },
+      {
+       "title": "What the Royalty Check Actually Represents",
+       "html": "<p>A producing well pays out a reservoir. Early production is high, then the rate falls steeply in the first few years and flattens into a long tail, with the steepest drop typically in unconventional horizontal wells and a gentler slope in older vertical wells. Each check therefore contains some return on the asset and some return of the asset, and the proportion shifts toward depletion over time.</p><p>A planner who treats a trailing twelve-month total as permanent income overstates what the household can safely spend. The better first step is a well-by-well schedule from the last two years of statements: operator, well, decimal, volumes, and deductions. That schedule shows which wells carry the income, how old they are, and how fast each is falling. Only then can anyone judge how much of the stream is repeatable.</p>"
+      },
+      {
+       "title": "Sequence Risk When the Asset Is Also the Paycheck",
+       "html": "<p>Sequence risk is the damage done when poor returns arrive early in a withdrawal period. Minerals add a second layer. Royalty income follows oil and gas prices, which can fall at the same moment equity markets do, and the wells underneath are depleting regardless of price. A household that relies on the checks and also on a portfolio can find both weakening together.</p><p>Concentration compounds this. A few net mineral acres in one county, paid by one operator, is a single-basin, single-counterparty position. Advisors routinely ask whether any one holding should exceed a set share of the plan. A family that would never put a large share of retirement savings into one drilling program may be holding something similar by inheritance.</p>"
+      },
+      {
+       "title": "The Redeployed Lump Sum: What Has to Be True",
+       "html": "<p>Selling converts a depleting, volatile stream into capital that can be invested for diversification and drawn on a schedule you choose. That works only if the price reflects the wells and the title, the proceeds net of tax are redeployed deliberately, and the new withdrawal rate is sustainable. A sale at a weak moment in the commodity cycle, or one that pays for a decline curve at the wrong age, can leave a household worse off than patient holding.</p><p>Holding has its own arithmetic. If the wells are young, the acreage is undrilled but well positioned, or the household has ample other income, keeping the interest and revisiting the question each year can be entirely reasonable. We say so plainly. A sale is one outcome of the process, never the assumed result.</p>"
+      },
+      {
+       "title": "Taxes Between the Gross Number and the Spendable Number",
+       "html": "<p>Royalty income is generally taxed as ordinary income when received, often softened by a depletion allowance. A sale is generally taxed differently, usually as a gain over your basis, and the character of that gain can depend on how long you held the interest and on depletion previously claimed. Basis itself depends on whether the interest was bought, gifted, or inherited. State income tax and the net investment income tax may also apply depending on circumstances.</p><p>None of that can be settled in a web page. Before you decide, ask your CPA to model two or three years of after-tax cash flow under holding and under a sale at several illustrative prices, then compare those to your spending plan. That comparison, not the headline bid, is the number that matters.</p>"
+      },
+      {
+       "title": "Where a Brokered Process Fits",
+       "html": "<p>If the analysis points toward a sale, a mandate lets you test the market on a single written schedule of your interest, receive comparable proposals, and keep the right to decline every one. We disclose how we are compensated before outreach begins, and we do not buy the interest ourselves. If the analysis points toward holding, we will tell you that too, and the file stays useful for the next review.</p>"
+      }
+     ],
+     "faqs": [
+      {
+       "q": "Can I rely on my royalty checks as retirement income?",
+       "a": "<p>Partly, with care. Checks vary with commodity prices and fall as wells age, so most planners treat them as a variable, declining source and plan spending around a conservative estimate built from individual well histories rather than last year's total.</p>"
+      },
+      {
+       "q": "Is a lump sum better than monthly royalty checks?",
+       "a": "<p>Neither is better in every case. The answer depends on well age, tract position, your other income, your tax situation, and whether you would redeploy proceeds into a diversified plan you can draw from sustainably.</p>"
+      },
+      {
+       "q": "How are mineral sale proceeds taxed compared with royalty income?",
+       "a": "<p>Royalties are generally ordinary income when received, while a sale produces a gain measured against your basis, with the treatment depending on holding period and past depletion. Your CPA should model both before you commit.</p>"
+      },
+      {
+       "q": "What if I want to keep some minerals and sell some?",
+       "a": "<p>A partial sale is possible, by tract, by fraction, or by reserving a share of the royalty. The schedule must state exactly what is conveyed and what is kept so every bidder prices the same interest.</p>"
+      },
+      {
+       "q": "Does asking for market evidence obligate me to sell?",
+       "a": "<p>No. Receiving proposals does not commit you to accept one. You decide whether any bid is worth taking, and you can decline all of them and keep holding.</p>"
+      }
+     ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
+     "related": []
+    },
+    {
+     "slug": "hold-sell-or-gift-the-after-tax-math",
+     "name": "Hold, Sell, or Gift: The After-Tax Math",
+     "meta": "An older mineral owner has three paths: sell now, hold until death, or gift in life. Compare how basis, gain, and depletion differ before you choose.",
+     "sections": [
+      {
+       "title": "",
+       "html": "<p>Three decisions sit in front of an older mineral owner, and each one resets the tax picture differently. The sensible way to compare them is after tax, after decline, and across the whole family.</p><p>Owners in their seventies and eighties often tell us the same thing: the minerals have always been in the family, nobody wants to make a mistake, and the checks are getting smaller. Treat this page as a framework for a conversation with your advisers, not as advice. Tax outcomes depend on how and when you acquired the interest, your state, your overall estate, and rules that change.</p><p>We run sale mandates for mineral owners and we do not buy the interests ourselves, so we have no stake in which of the three paths you choose. Our interest is that whichever you pick, the numbers behind it are laid out on one page and compared honestly.</p>"
+      },
+      {
+       "title": "Selling While You Are Living",
+       "html": "<p>A sale converts the interest to cash. In general, the gain is the sale price minus your adjusted basis, and a long holding period usually means the gain is taxed at long-term rates rather than ordinary rates. If the interest has been in the family for decades with little recorded basis, the taxable gain can be a large share of the price. That is the main cost of selling, and it is a real one.</p><p>On the other side of the ledger, a sale ends exposure to commodity prices and depletion, removes concentration from a portfolio, and leaves cash that is easy to divide among heirs without creating dozens of tiny undivided interests. For an owner who is receiving shrinking checks and would like a simpler estate, that certainty has value that does not show up in the tax line.</p>"
+      },
+      {
+       "title": "Holding Until Death and the Step-Up in Basis",
+       "html": "<p>Under federal law, property that passes at death generally receives a basis equal to its fair market value on the date of death, often called a step-up. Heirs who later sell may owe little or no gain on appreciation that occurred during your lifetime. For a low-basis mineral interest, that can be a strong argument for holding.</p><p>Two cautions keep the argument honest. First, the step-up resets basis to value at death, and a depleting asset may be worth less by then than it is today, so the benefit applies to a smaller number. Second, holding keeps the interest exposed to price swings and to the decline curve for years, and it may pass to heirs as several fractional pieces across counties and possibly more than one state, each needing its own probate or deed work.</p>"
+      },
+      {
+       "title": "Gifting During Life and Carryover Basis",
+       "html": "<p>A lifetime gift usually carries over your basis to the recipient rather than stepping it up. The child who receives the interest takes your low basis and your holding period, so a later sale can produce the same taxable gain you would have faced. Gifts above the annual exclusion generally require a gift tax return and use part of the lifetime exemption, although tax may not actually be due.</p><p>Gifting can still make sense: it may move future income to a family member in a lower bracket, simplify management, or fit a larger plan. It can also create several co-owners with different goals, which complicates leasing and later sale. Gifting a share of a declining asset is not the same as gifting a share of a stable one.</p>"
+      },
+      {
+       "title": "The Depletion Recapture Note",
+       "html": "<p>Owners who have taken depletion deductions on royalty income may have reduced their basis over time. On a sale, that lower basis raises the gain, and in certain situations part of the gain attributable to prior deductions can be treated as ordinary income instead of capital gain under recapture rules. Whether any of this applies depends on the interest and your records.</p>"
+      },
+      {
+       "title": "Putting the Three Paths on One Page",
+       "html": "<p>Ask your estate attorney and CPA to run each path with the same inputs: current value estimates, adjusted basis, expected decline, your state, other assets, and likely heirs. A useful comparison shows spendable after-tax value today, projected after-tax value to heirs at different horizons, and administrative burden on the family. If a sale is on the table, a mandate gives you comparable bids to use in that model rather than a single unverified number.</p>"
+      }
+     ],
+     "faqs": [
+      {
+       "q": "Does my family get a step-up in basis if I keep the minerals?",
+       "a": "<p>Generally, property included in your estate receives a basis reset to fair market value at death under federal rules. The effect depends on the value at that time, your state, and your advisers' read of the facts.</p>"
+      },
+      {
+       "q": "If I gift the minerals to my children, what basis do they take?",
+       "a": "<p>Typically yours. Gifted property usually carries over the donor's basis and holding period, so the recipient may face the same gain on a later sale that you would have faced.</p>"
+      },
+      {
+       "q": "Do I pay tax if I sell while I am living?",
+       "a": "<p>Usually there is tax on the gain over your adjusted basis, with the rate depending on holding period, income, and state rules. Prior depletion deductions can also affect the result.</p>"
+      },
+      {
+       "q": "Can I sell only part of the interest and keep the rest?",
+       "a": "<p>Yes, a partial sale by tract, by fraction, or with a retained royalty is possible. The schedule has to state precisely what is conveyed and what stays with you.</p>"
+      },
+      {
+       "q": "Why not simply give the minerals to my heirs now?",
+       "a": "<p>It can make sense, but it passes along your tax basis and can leave several co-owners to manage a declining asset. Compare it against holding and selling before deciding.</p>"
+      }
+     ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
+     "related": []
+    },
+    {
+     "slug": "trust-and-estate-sale-of-mineral-interests",
+     "name": "Trust and Estate Sale of Mineral Interests",
+     "meta": "How a trustee or executor can run a documented, competitive sale of mineral interests, from authority and notice to bids, closing, and the fiduciary file.",
+     "sections": [
+      {
+       "title": "",
+       "html": "<p>A fiduciary is judged on process long after the closing date. A brokered mineral sale is one way to produce the file that shows the decision was informed, even-handed, and recorded.</p><p>Trustees and executors often inherit a mineral position they did not choose and rarely understand: several tracts, a few operators, statements arriving by mail, and beneficiaries who each want something different. The assets are real property interests with income attached, and a sale decision falls under the same prudence expected of any fiduciary decision.</p><p>We run controlled sale mandates, and we do not buy the interests ourselves. This page describes how a brokered process generally works for a fiduciary. It is not legal advice, and the authority you hold comes from the instrument and your state's law, which your own counsel must read.</p>"
+      },
+      {
+       "title": "Confirm Authority Before Anyone Sees the File",
+       "html": "<p>Authority comes first, and it differs by vehicle. An executor generally needs letters testamentary or letters of administration, and in some states the court must approve a sale of real property or at least confirm that independent administration permits one. A trustee works from the trust instrument, which may grant a power of sale outright, require beneficiary notice or consent, or require court approval.</p><p>If the decedent owned minerals in a state different from the one where probate opened, an ancillary proceeding may be needed there. Have the attorney confirm this at the outset, since it determines timing for every bidder and for the title company.</p>"
+      },
+      {
+       "title": "Build the Interest Schedule the Fiduciary Can Defend",
+       "html": "<p>Before outreach, assemble one schedule listing each county and legal description, the net mineral acres or fraction, the interest type, the leases and depths, the producing wells and operators, and the pay decimals. Note every inconsistency between deeds, division orders, and statements as an open item rather than resolving it quietly.</p><p>That schedule becomes the common basis for every proposal. It also becomes the fiduciary's evidence that the property was identified carefully, which matters if a beneficiary later asks what exactly was sold.</p>"
+      },
+      {
+       "title": "Why a Competitive Process Helps the Record",
+       "html": "<p>A trustee or executor who accepts the first unsolicited letter is exposed to the question of what else was available. A mandate invites qualified buyers to bid on the same schedule under the same instructions and deadline, then normalizes the proposals for deposit, title threshold, adjustment formula, closing date, and exclusions. The comparison does not decide for the fiduciary; it informs a decision that the fiduciary documents.</p><p>Direct sale to one buyer can be sensible, particularly for a small non-producing interest where a full process would cost more than it returns. The honest test is proportionality: the size and complexity of the interest against the effort and fees of marketing it. We disclose compensation in writing before outreach and say so if a direct approach looks better.</p>"
+      },
+      {
+       "title": "Keep Beneficiaries Informed and the Reasoning on Paper",
+       "html": "<p>Regular communication prevents most later disputes. Fiduciaries commonly tell beneficiaries why a sale is being considered, how bids will be gathered, when the reserve decision will be made, and how proceeds will be handled. Written notice, where the instrument or statute calls for it, should be kept with the file.</p><p>The record should also hold the engagement terms, the schedule, the bid matrix, the reason the chosen proposal was preferred, advice received from counsel and the tax professional, and the closing statement. Each item is small, and together they turn a judgment call into a defensible decision.</p>"
+      },
+      {
+       "title": "From Accepted Bid to Payor Transfer",
+       "html": "<p>After a bid is chosen, the purchase agreement, title review, deed exhibit, and closing statement should describe exactly the same interest. The fiduciary signs in a representative capacity, supported by letters or a trust certification, and the deed is recorded in each county. Payors then need the deed and notice to change pay decimals, and suspense on prior months should be addressed in the adjustment terms rather than left to chance.</p>"
+      }
+     ],
+     "faqs": [
+      {
+       "q": "Does a trustee need beneficiary consent to sell mineral rights?",
+       "a": "<p>It depends on the trust instrument and state law. Some trusts grant a power of sale outright; others require notice, consent, or court approval. Have the trust's attorney read the document before outreach.</p>"
+      },
+      {
+       "q": "What does an executor need to sell minerals from an estate?",
+       "a": "<p>Generally, letters testamentary or letters of administration, and in some states court approval or confirmation of independent administration powers. If minerals sit in another state, ancillary proceedings may also be needed.</p>"
+      },
+      {
+       "q": "Is a brokered sale better than selling to one direct buyer?",
+       "a": "<p>Not always. A competitive process helps document prudence on larger or producing interests, while a small non-producing tract may suit a direct sale. Weigh the size of the interest against the cost of marketing it.</p>"
+      },
+      {
+       "q": "Who pays a broker in a fiduciary sale?",
+       "a": "<p>Compensation terms vary and should be disclosed in writing before marketing begins. The fiduciary should know the method, any reimbursable costs, and who bears them before signing an engagement.</p>"
+      },
+      {
+       "q": "Must a fiduciary accept the best-supported bid?",
+       "a": "<p>No. The fiduciary may decline all proposals and continue to hold if that serves the beneficiaries better. The process informs the decision and does not replace it.</p>"
+      }
+     ],
+     "noindex": false,
+     "image": "",
      "imageAlt": "",
      "related": []
     },
